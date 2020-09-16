@@ -40,4 +40,4 @@
 
 ## Server Tutorials
 
-* [KitPvP](Serve
+* [KitPvP](Server Types/KitPVP.md)
