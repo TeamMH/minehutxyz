@@ -1,8 +1,8 @@
 ---
-description: Learn some good plugins and tips for making a kitpvp server!
+description: KitPVP can be a well-visited gamemode on minehut if your server is well made. Here are some tips for making one!
 ---
 
-# KitPVP server tutorial!
+# KitPVP
 
 ## Necessary Plugins
 
@@ -10,7 +10,7 @@ Plugins are very important for kitpvp, here are a few that are needed to make a 
 
 Essentials - Has TONS of features like expanding on vanilla commands, and adding more. But the super important part is its kit capabilities.
 
-Skript - Basically a requirement to make a unique server on a 12 plugin budget. Just a great tool overall to just do so much with.
+Skript - Basically a requirement to make a unique server on a 12 plugin budget, which is important to do if you want to get more players. Just a great tool overall to just do so much with.
 
 Permission plugin - You want either "Permissions EX" or "Luckperms" to manage what privileges you want to give players.
 
@@ -40,4 +40,4 @@ SuperVanish - The best plugin if you want to appear as if ypu are offline to pla
 
 ## Your Map
 
-Make sure that you have some sort of confined area to PvP in, otherwise people would spread out too much and less encounters would occur.
+Make sure that you have some sort of confined area to PvP in, otherwise people would spread out too much and less encounters would occur, and that would at that point just defeat the point of the server.
