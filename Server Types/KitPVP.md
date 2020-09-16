@@ -56,4 +56,12 @@ Skript - While it doesn't need configuration, you need to put skripts in the con
 
 Essentials - First, you want to have kits. Basically, creating a kit is easy. Just do /createkit <kit name> <cooldown in seconds> and your inventory will get copied to a kit. Additionally, If you have essentials spawn, do /setspawn where you want people to respawn.
 
-WorldEdit - If you want to make larger scale builds, this tool can help you out.
+WorldEdit - If you want to make larger scale builds, this tool can help you out. If you need more help, check out our WorldEdit tutorial at this link (https://minehut.xyz/plugin/worldedit)
+
+WorldGuard - This is very important to do! First things first, select your "Spawn" region using your WorldEdit wand, then use the command "/rg define spawn", which defines a new region. Then, paste these commands in to ensure there can't be grifing! (/rg flag spawn pvp deny - Blocks PVP in spawn.) (/rg flag spawn passthrough deny - Blocks building or breaking in spawn.) (/rg flag __global__ passthrough deny - Blocks placement or breaking of blocks globally.) If you need more help, check out https://minehut.xyz/plugin/worldguard!
+
+Permissions Plugin - Personally I use Pex, so thats what this will be based around, but the commands can be similar on luckperms. These permissions will just be basic stuff for making sure the server is playable, you can add more groups or permissions, or if you have essentialschat, you can add prefixes too! Here are the commands for some important permission nodes, and what they do. (/pex group default add essentials.kit - Allows them to use the /kit command) (/pex group default add essentials.kits.<Name of kit you want to give permissions to here> - Allows them to use specified kits) and if you have essentials spawn: (/pex group default add essentials.spawn)
+  
+## Congrats!
+You have finished all the super important aspects of making a KitPvP server! If you are still having trouble, join the TeamMH discord, or dm me at Cooleg#8509!
+https://discord.gg/RAghdnt <------ TeamMH Discord Link
