@@ -55,3 +55,5 @@ Skript - While it doesn't need configuration, you need to put skripts in the con
 **Now, let's do some in-game stuff.**
 
 Essentials - First, you want to have kits. Basically, creating a kit is easy. Just do /createkit <kit name> <cooldown in seconds> and your inventory will get copied to a kit. Additionally, If you have essentials spawn, do /setspawn where you want people to respawn.
+
+WorldEdit - If you want to make larger scale builds, this tool can help you out.
