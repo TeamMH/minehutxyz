@@ -30,8 +30,14 @@ Tebex - If you want to sell ranks, you will want this plugin!
 
 Holographic displays - Lets you put floating text around, can be good for directing newer players.
 
+Essentials chat/spawn - These are two of the most widely used essential addons, as it allows you to have the ability to customize chat, or set spawnpoints for people.
+
 **The following plugins require a seperate plugin called ProtocolLib**
 
 Matrix anticheat - A pretty great anticheat that can sniff put hackers pretty well. 
 
 SuperVanish - The best plugin if you want to appear as if ypu are offline to players on your server.
+
+## Your Map
+
+Make sure that you have some sort of confined area to PvP in, otherwise people would spread out too much and less encounters would occur.
