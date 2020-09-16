@@ -24,8 +24,14 @@ There are a few plugins that are good for additional features as well. Here are 
 
 ProtocolSupport + OldCombatMechanics - Allows 1.8 players to join and it will also use 1.8 pvpo mechanics, much like Hypixel does.
 
-J and
+Skript Addons - There are tons of other plugins that give skript more functionality and options to do, such as TuSKe or SkQuery
+
+Tebex - If you want to sell ranks, you will want this plugin!
 
 Holographic displays - Lets you put floating text around, can be good for directing newer players.
 
+**The following plugins require a seperate plugin called ProtocolLib**
+
 Matrix anticheat - A pretty great anticheat that can sniff put hackers pretty well. 
+
+SuperVanish - The best plugin if you want to appear as if ypu are offline to players on your server.
