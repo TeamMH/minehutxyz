@@ -37,3 +37,7 @@
 * [Functions](skript/functions.md)
 * [Comments](skript/comments.md)
 * [Syntax](skript/syntax.md)
+
+## Server Tutorials
+
+* [KitPvP](Serve
