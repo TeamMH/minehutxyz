@@ -20,4 +20,12 @@ WorldEdit + WorldGuard - Unless you want breaking blocks and PvP in spawn, you w
 
 ## Optional Plugins
 
-There 
+There are a few plugins that are good for additional features as well. Here are some good ones.
+
+ProtocolSupport + OldCombatMechanics - Allows 1.8 players to join and it will also use 1.8 pvpo mechanics, much like Hypixel does.
+
+J and
+
+Holographic displays - Lets you put floating text around, can be good for directing newer players.
+
+Matrix anticheat - A pretty great anticheat that can sniff put hackers pretty well. 
