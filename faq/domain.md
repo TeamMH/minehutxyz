@@ -4,6 +4,8 @@ description: Connect a custom domain to your Minehut server.
 
 # Custom Domain
 
+### _This tutorial was submitted by Conutik. Find out how you can submit a tutorial_ [_here_](../contribute.m
+
 ## Overview
 
 This tutorial will teach you how to attach your domain to your Minehut server.
