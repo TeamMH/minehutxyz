@@ -1,8 +1,14 @@
 # Custom Domain 
 
+---
+description: How to connect a custom domain to your Minehut server.
+---
 
+#OVERVIEW
 
-Hello everyone! Today I will be telling you how to connect your custom domain to minehut!
+This tutorial will show you how to connect your own domain to your Minehut server. For example `mydomain.com` will bring you to your server!
+
+# HOW TO CONNECT YOUR CUSTOM DOMAIN
 
 First, you will need a **custom domain**, for this guide we will be using CloudFlare.
 
