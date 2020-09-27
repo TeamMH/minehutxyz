@@ -23,6 +23,7 @@
 * [Bugs](faq/bugs.md)
 * [Timings](faq/timings.md)
 * [Account Deletion](faq/acc-delete.md)
+* [Reset Server](faq/reset.md)
 
 ## Plugin Tutorials <a id="plugin"></a>
 
@@ -47,3 +48,4 @@
 * [Syntax](skript/syntax.md)
 * [Example: Format Chat](skript/format-chat.md)
 * [Example: Join & Quit Messages](skript/custom-messages.md)
+* [Example: Private Messages](skript/msg.md)
