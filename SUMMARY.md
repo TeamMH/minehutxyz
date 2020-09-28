@@ -5,7 +5,7 @@
 
 ## Popular Questions <a id="faq"></a>
 
-* [Panel(popqs1/README.md)
+* [Panel](popqs1/README.md)
   * [Logs](faq/logs.md)
   * [Installing Plugins](faq/plugins.md)
   * [Resource Packs](faq/resourcepacks.md)
