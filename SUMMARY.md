@@ -29,6 +29,8 @@
 * [Other Questions](popqs4/README.md)
   * [Server Version](faq/server-version.md)
   * [Bedrock Edition](faq/bedrock.md)
+* [Making a server](popqs5/README.md)
+ * [Planning it out](faq/servermaking.md)
 
 ## Plugin Tutorials <a id="plugin"></a>
 
