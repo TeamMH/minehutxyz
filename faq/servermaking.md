@@ -4,6 +4,8 @@ description: Making a high quality minehut server pt. 1
 
 # Planning Your Next Minehut sSrver
 
+{% hint style="info" %} We need your help to improve this! Visit our [contribution tab](/contribute.md) to help out! {% endhint %}
+
 ## SERVER PLAN
 
 `A good server plan` will help you get on the front page and get players. Even if you don't have money, this can be attained from voting every day, with room for mess-ups, which will grant you the mh20 plan. The best bang for your buck plan is Mh70 (or 35 if you don't need to go that big). Server plans let you have unlimited potential with as many plugins as you need, as well as more ram to have a stable server.
