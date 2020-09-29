@@ -24,3 +24,17 @@ on join:
     set title of player's scoreboard to "&6&lServer Info"
     set line 1 of player's scoreboard to "&7• &eOnline: &f%size of all players%" 
 ```
+#### Basic stats scoreboard using SKBEE
+```
+on join:
+    while player is online:
+        set {_uuid} to {_p}'s uuid
+	    set line 2 of {_p}'s scoreboard to "&6Kills: &f%{kills::%{_uuid}%} ? 0%"
+	    set line 1 of {_p}'s scoreboard to "&6Deaths: &f%{deaths::%{_uuid}%} ? 0%"
+        wait 1 second
+
+on death of player:
+	add 1 to {deaths::%victim's uuid%}
+	if attacker is a player:
+		add 1 to {kills::%attacker's uuid%}
+```
