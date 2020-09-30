@@ -2,6 +2,7 @@
 
 * [Minehut.xyz](README.md)
 * [Contribute](contribute.md)
+* [Sponsors](sponsor.md)
 
 ## Popular Questions <a id="faq"></a>
 
@@ -11,9 +12,10 @@
   * [Resource Packs](faq/resourcepacks.md)
   * [Custom Domain](faq/domain.md)
   * [Allowed File types](faq/files.md)
-  * [Reset Server](faq/reset-server.md)
+  * [Reset Server](faq/reset.md)
   * [Default Gamemode](faq/default-gamemode.md)
   * [Default World](faq/default-world.md)
+  * [Custom Seed](faq/custom-seed.md)
   * [Rename](faq/rename.md)
 * [Ingame](popqs/README.md)
   * [Downloading](faq/dl.md)
@@ -25,6 +27,7 @@
   * [Creating a Void World](faq/void-world.md)
 * [Minehut](popqs3/README.md)
   * [Forums Club](faq/clubs.md)
+   * [Cracked Minecraft](faq/cracked.md)
   * [Bugs](faq/bugs.md)
   * [Account Deletion](faq/acc-delete.md)
 * [Other Questions](popqs4/README.md)
@@ -63,3 +66,4 @@
   * [Example: Format Chat](skript/format-chat.md)
   * [Example: Join & Quit Messages](skript/custom-messages.md)
   * [Example: Private Messages](skript/msg.md)
+  * [Example: Scoreboards](skript/scoreboard.md)
