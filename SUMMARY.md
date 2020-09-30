@@ -27,7 +27,7 @@
   * [Creating a Void World](faq/void-world.md)
 * [Minehut](popqs3/README.md)
   * [Forums Club](faq/clubs.md)
-   * [Cracked Minecraft](faq/cracked.md)
+  * [Cracked Minecraft](faq/cracked.md)
   * [Bugs](faq/bugs.md)
   * [Account Deletion](faq/acc-delete.md)
 * [Other Questions](popqs4/README.md)
