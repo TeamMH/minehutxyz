@@ -12,7 +12,7 @@ This will teach you how to use EssentialsSpawn on your Minehut server!
 
 ## HOW TO DO
 
-First of all, make sure you are OP (follow [this](https://minehut.xyz/faq/ingame/op) tutorial if you don't know how), when you are OP, run /setspawn to set your spawn point and now you and your players can use /spawn to teleport to your new spawnpoint.
+First of all, make sure you are OP (follow [this](https://minehut.xyz/faq/ingame/op) tutorial if you don't know how), when you are OP, run /setspawn in-game to set your spawn point and now you and your players can use /spawn to teleport to your new spawnpoint.
 
 ## PERMISSIONS
 
