@@ -25,22 +25,25 @@ This section is dedicated towards Skript tutorials and examples. We've teamed up
 
 ## THE TEAM
 
-**Tarna**, Founder, Writer |
-**Adam**, Founder, Senior Writer.
-
-**Goose**, Manager, Writer.
-
-**Lucas**, Senior Writer |
-**Conutik**, Writer |
-**Houlton**, Writer.
+Name | Position
+---|---
+**Tarna** | Founder, Writer 
+**Adam** | Founder, Senior Writer
+--- | ---
+**Goose** | Manager, Writer
+--- | ---
+**Lukas** | Senior Writer 
+**Conutik** | Writer 
+**Houlton** | Writer
+**Smelly Burger** | Writer
 
 ## ABOUT US
 
 Minehut.xyz was founded on **_August 4th, 2020_** by two members of the Minehut Community, **Tarna** _\(Senior Support @ Minehut\)_ & **Minehut** _\(Adam, Senior Support @ Minehut\)_.
 
-We realised there was no dedicated place for Minehut tutorials where the community can easily upload their own tutorials.
+We realised there was no dedicated place for Minehut tutorials where the community can easily upload their own tutorials, so we made one!
  
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **recive site updates**, and **much more**.
 {% endhint %}
 
