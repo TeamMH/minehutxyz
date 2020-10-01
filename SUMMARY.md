@@ -66,6 +66,7 @@
 * [Comments](skript/comments.md)
 * [Syntax](skript/syntax.md)
 * [Examples](skript1/README.md)
+  * [Example: Pagnation](skript/pagnation.md)
   * [Example: Format Chat](skript/format-chat.md)
   * [Example: Join & Quit Messages](skript/custom-messages.md)
   * [Example: Spawn](skript/spawn.md)
