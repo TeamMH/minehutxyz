@@ -24,6 +24,7 @@
   * [Server Operator](faq/op.md)
   * [Creating a Flat World](faq/flat-world.md)
   * [Creating a Void World](faq/void-world.md)
+  * [Ban/Kick/Mute Players](faq/ban-mute-kick.md)
 * [Minehut](popqs3/README.md)
   * [Forums Club](faq/clubs.md)
   * [Cracked Minecraft](faq/cracked.md)
@@ -33,7 +34,7 @@
   * [Server Version](faq/server-version.md)
   * [Bedrock Edition](faq/bedrock.md)
 * [Making a server](popqs5/README.md)
- * [Planning it out](faq/servermaking.md)
+  * [Planning it out](faq/servermaking.md)
 
 ## Plugin Tutorials <a id="plugin"></a>
 
