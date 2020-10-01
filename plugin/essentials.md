@@ -1,20 +1,24 @@
 ---
-description: Learn how to use Essentials [https://www.spigotmc.org/resources/essentialsx.9089/].
+description: Learn how to use Essentials.
 ---
 
 ![](../.gitbook/assets/essentialsx.png)
 
+# OVERVIEW
+
+This tutorial will end up being very long, however we've split it into parts, for example Essentials Spawn.
+
 # ESSENTIALS SPAWN
 
-## OVERVIEW
+### OVERVIEW
 
 This will teach you how to use EssentialsSpawn on your Minehut server!
 
-## HOW TO DO
+### HOW TO SET UP SPAWN
 
-First of all, make sure you are OP (follow [this](https://minehut.xyz/faq/ingame/op) tutorial if you don't know how), when you are OP, run /setspawn in-game to set your spawn point and now you and your players can use /spawn to teleport to your new spawnpoint.
+First of all, make sure you are OP *(follow [this](https://minehut.xyz/faq/ingame/op)* tutorial if you don't know how), when you are OP, run **/setspawn** in-game to set your spawn point and now you and your players can use **/spawn** to teleport to your new spawnpoint.
 
-## PERMISSIONS
+### PERMISSIONS
 
 - **essentials.setspawn**
     - Gives whoever has this permission to use /setspawn.
