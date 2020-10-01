@@ -45,6 +45,7 @@
   * [LuckPerms](plugin/lp.md)
   * [GroupManager](plugin/gm.md)
 * [Popular](perms2/README.md)
+  * [Essentials](plugin/essentials.md)
   * [WorldEdit](plugin/worldedit.md)
   * [WorldGuard](plugin/worldguard.md)
   * [CoreProtect](plugin/coreprotect.md)
