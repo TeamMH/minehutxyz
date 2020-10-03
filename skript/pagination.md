@@ -3,7 +3,7 @@ description: Learn how to make a paginated GUI. This allowed people to make "pag
 ---
 
 {% hint style="info" %}
-This tutorial was made by Blocksnmore. Lean how to contribute [here](/contribute.md).
+This tutorial was made by Blocksnmore, and [ReportCardsMC](https://github.com/ReportCardsMC). Lean how to contribute [here](/contribute.md).
 {% endhint %}
 
 
