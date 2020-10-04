@@ -3,7 +3,7 @@ description: The basics of CombatLogX [https://www.spigotmc.org/resources/combat
 ---
 
 # CombatLogX
-![](../.gitbook/assets/combatlogx.png)
+![](../../.gitbook/assets/combatlogx.png)
 
 ## OVERVIEW
 
