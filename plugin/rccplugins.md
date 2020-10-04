@@ -6,7 +6,6 @@ description: >-
 
 # RECOMMENDED PLUGINS
 
-### _This tutorial was submitted by Lukas. Find out how you can submit a tutorial [here](../contribute.md)._
 
 ### Base Plugin
 
