@@ -4,7 +4,7 @@ description: 'Learn the basics of WorldEdit [https://dev.bukkit.org/projects/wor
 
 # WorldEdit
 
-![](../.gitbook/assets/worldedit.png)
+![](../../.gitbook/assets/worldedit.png)
 
 ## OVERVIEW
 
