@@ -2,7 +2,7 @@
 description: Learn how to use Essentials.
 ---
 
-![](../.gitbook/assets/essentialsx.png)
+![](../../.gitbook/assets/essentialsx.png)
 
 # OVERVIEW
 
