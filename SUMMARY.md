@@ -43,18 +43,18 @@
 
 * [Recommended Plugins](plugin/rccplugins.md)
 * [Permission Plugins](perms1/README.md)
-  * [PermissionsEx](plugin/pex.md)
-  * [LuckPerms](plugin/lp.md)
-  * [GroupManager](plugin/gm.md)
+  * [PermissionsEx](plugin/pplugin/pex.md)
+  * [LuckPerms](plugin/pplugin/lp.md)
+  * [GroupManager](plugin/pplugin/gm.md)
 * [Popular](perms2/README.md)
-  * [Essentials](plugin/essentials.md)
-  * [WorldEdit](plugin/worldedit.md)
-  * [WorldGuard](plugin/worldguard.md)
-  * [CoreProtect](plugin/coreprotect.md)
+  * [Essentials](plugin/popular/essentials.md)
+  * [WorldEdit](plugin/popular/worldedit.md)
+  * [WorldGuard](plugin/popular/worldguard.md)
+  * [CoreProtect](plugin/popular/coreprotect.md)
 * [Other](perms3/README.md)
-  * [RedProtect](plugin/redprotect.md)
-  * [ImageOnMap](plugin/imageonmap.md)
-  * [CombatLogX](plugin/combatlogx.md)
+  * [RedProtect](plugin/other/redprotect.md)
+  * [ImageOnMap](plugin/other/imageonmap.md)
+  * [CombatLogX](plugin/other/combatlogx.md)
 
 ## Skript
 
