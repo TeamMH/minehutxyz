@@ -4,7 +4,7 @@ description: Learn how to use PermissionsEx.
 
 # PermissionsEx
 
-![](../.gitbook/assets/ezgif.com-webp-to-png.png)
+![](../../.gitbook/assets/ezgif.com-webp-to-png.png)
 
 ## OVERVIEW
 
