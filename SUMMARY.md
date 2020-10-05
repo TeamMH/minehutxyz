@@ -66,6 +66,7 @@
 * [Functions](skript/functions.md)
 * [Comments](skript/comments.md)
 * [Syntax](skript/syntax.md)
+* [Formatting Text](skript/format.md)
 * [Examples](skript1/README.md)
   * [Example: Pagination](skript/examples/pagination.md)
   * [Example: Format Chat](skript/examples/format-chat.md)
