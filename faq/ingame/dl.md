@@ -2,7 +2,7 @@
 description: How to rename your Minehut server.
 ---
 
-# Rename your server
+# Rename your server(s)
 
 ## OVERVIEW
 
