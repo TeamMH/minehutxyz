@@ -20,7 +20,7 @@
   * [Custom Seed](faq/panel/custom-seed.md)
   * [Rename](faq/panel/rename.md)
 * [Ingame](popqs/README.md)
-  * [Downloading](faq/ingame/dl.md)
+  * [Downloading](faq/ingame/download.md)
   * [Uploading Worlds](faq/ingame/ul.md)
   * [Permissions](faq/ingame/permissions.md)
   * [Timings](faq/ingame/timings.md)
