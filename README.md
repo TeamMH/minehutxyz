@@ -38,7 +38,7 @@ Name | Position
 
 ## ABOUT US
 
-Minehut.xyz was founded on **_August 4th, 2020_** by two members of the Minehut Community, **Tarna** _\(Senior Support @ Minehut\)_ & **Minehut** _\(Adam, Senior Support @ Minehut\)_.
+Minehut.xyz was founded on **_August 4th, 2020_** by two members of the Minehut Community, **Tarna** _\(Senior Support @ Minehut\)_ & **Minehut** _\(Adam, Former Senior Support @ Minehut\)_.
 
 We realised there was no dedicated place for Minehut tutorials where the community can easily upload their own tutorials, so we made one!
  
