@@ -14,5 +14,5 @@ At the top of the forums, click the `clubs page` and it will take you to a list 
 Your club is now created but it needs to be approved by a moderator before people can actually join it.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}

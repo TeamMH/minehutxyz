@@ -5,7 +5,6 @@ description: 'Learn how to use Skript. [https://skriptlang.github.io/Skript/]'
 # Basics
 
 ![](../.gitbook/assets/skript.jpg)
-
 {% hint style="warning" %}
 **Visit our** [**partner YouTube channel**](https://www.youtube.com/channel/UCgXFIH9h2Vf9Q1e86n_FVJA) **for even more tutorials!**
 {% endhint %}
@@ -40,7 +39,5 @@ After typing the code, you'll want to save the file _\(save button at the bottom
 Now that you've reloaded your script, once you join your server you will receive a welcome message saying "Welcome to the server.".
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
-
-

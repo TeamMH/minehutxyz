@@ -17,5 +17,5 @@ First, you'll need to install the plugins **Multiverse** and **VoidGenerator**. 
 After you've got those plugins installed, run the command`/mvcreate (new world name) normal -g VoidGenerator`. This will generate a new void world with the name you specified. You can get to this world using `/mvtp (world name)`.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}

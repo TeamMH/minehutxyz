@@ -30,6 +30,7 @@ Name | Position
 **Adam** | Founder, Senior Writer
 --- | ---
 **Goose** | Manager, Writer
+**Tarna** | Manager, Writer
 --- | ---
 **Lukas** | Senior Writer 
 **Conutik** | Writer 
@@ -43,6 +44,5 @@ Minehut.xyz was founded on **_August 4th, 2020_** by two members of the Minehut 
 We realised there was no dedicated place for Minehut tutorials where the community can easily upload their own tutorials, so we made one!
  
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **recive site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
-

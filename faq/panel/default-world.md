@@ -13,6 +13,5 @@ In order to set a default world, you must first head over to the [Minehut Websit
 Now, any new users that join your server will spawn in the world that you have set.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
-

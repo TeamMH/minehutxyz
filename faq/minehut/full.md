@@ -30,3 +30,7 @@ The [Minehut YouTube channel](https://www.youtube.com/channel/UC3pD8Ghxh7nAhpnhk
 Minehut servers are free, unless you want to upgrade your server to allow for more players, plugins and ram.
 A higher server plan is useful if you're planning on making a public server.
 You can view a list of server plans [here](https://minehut.com/shop/plans).
+
+{% hint style="success" %}
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}

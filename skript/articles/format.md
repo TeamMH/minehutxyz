@@ -41,4 +41,6 @@ Here are some images of the attributes in action:
 ![](../.gitbook/assets/url.png)
 ![](../.gitbook/assets/tooltip.png)
 
-{% hint style="success" %} Join our Discord to become an official writer, receive site updates, and much more. {% endhint %}
+{% hint style="success" %}
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}

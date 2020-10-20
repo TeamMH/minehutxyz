@@ -30,5 +30,5 @@ Note that you cannot have `/msg` or `/tell` as an alias because it is occupied b
 You can add a usage message to the command by adding `usage: usage message` before the trigger. Example: `usage: &c/whisper (player) (message)`.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}

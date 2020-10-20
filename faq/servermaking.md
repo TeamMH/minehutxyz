@@ -17,3 +17,7 @@ description: Making a high quality minehut server pt. 1
 ## YOUR STAFF TEAM
 
 Last but not least, a `good staff team` will help lift your server from "meh," to "quality". Now, this doesn't mean you should just get as many staff members as possible, focus on finding people that create high quality work and know what their doing. For example, minehut has many developers for skript, but many of them can create low quality/laggy skripts, or just nonfunctional ones. (I also recommend that you know skript yourself as an owner. This will help you find possible errors or malisous intent, as well as working with your developer to create new content and push the boundries of whats possible). For builders, usually you know it when you see it, but make sure that builds are legitemently good, (you can tell when you see it 😉). For mods, as long as you have a good anticheat and you trust them with banning permissions, I can't give to much advice here. Having a good training system in place (like a Jr. mod role) can help sort out people with bad intentions though.
+
+{% hint style="success" %}
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
