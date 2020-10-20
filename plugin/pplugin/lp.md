@@ -51,5 +51,5 @@ Now everything should be set up, of course there is much more to this plugin tha
 I also **highly** recommend checking out the online editor, this can be found using `/lp editor`in game and is a lot easier to use!
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
