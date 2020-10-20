@@ -22,5 +22,5 @@ You can retrieve any created maps, or manage created maps. Maps can be renamed (
 Permission: **imageonmap.list**, **imageonmap.get**, **imageonmap.rename** and **imageonmap.delete** for actions into the GUI.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
