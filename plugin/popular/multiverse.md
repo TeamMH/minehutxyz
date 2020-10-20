@@ -23,3 +23,7 @@ The teleport command allows you to teleport yourself or others to a specified wo
 To telepoet to a Multiverse world, use `/mv tp [player] (worldNams)`.
 The player parameter is optional, and you can replace world name with the world you want to travel to.
 This requires the permission **multiverse.teleport.self.NAME** OR **multiverse.teleport.other.NAME**.
+
+{% hint style="success" %}
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
