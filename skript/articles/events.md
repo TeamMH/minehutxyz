@@ -33,7 +33,5 @@ All events must follow the rules of indentation. Read all about indentation [her
 All events can be found [here](http://de.njol.ch/projects/skript/doc/events), the njol documentation.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
-
-
