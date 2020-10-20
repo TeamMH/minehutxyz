@@ -144,8 +144,5 @@ You can add prefixes and suffixes to your created groups or even certain players
 | pex demote &lt;user&gt; &lt;ladder&gt; | permissions.user.demote.&lt;ladder&gt; | Demote &lt;user&gt; on &lt;ladder&gt;. If &lt;ladder&gt; is not specified, the default ladder \(named default\) will be used. |
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
-
-
-
