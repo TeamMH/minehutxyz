@@ -11,7 +11,7 @@ description: View our sponsorships.
  > **Parasite** is a zombie rpg server, where you farm for loot, and survive in an abandoned city! Team up with your faction or fight with others.
 
 ## [GoldenDupe](https://discord.gg/4F9yfHf)
- > **GoldenDupe** is the **#1&& duping server on minehut, come join today! We have **Raiding**, **PvP**, **Clans**, **an active community** & much more!
+ > **GoldenDupe** is the **#1** duping server on minehut, come join today! We have **Raiding**, **PvP**, **Clans**, **an active community** & much more!
 
 ## [Premiums](https://discord.gg/vvajrHX)
 > **Premiums** is a fully skripted skyblock server based on Minehut. Team up with your friends and compete for cash money prizes each season! We offer fun gameplay, weekly updates, events, a great community and much more.
