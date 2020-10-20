@@ -48,6 +48,7 @@
   * [GroupManager](plugin/pplugin/gm.md)
 * [Popular](perms2/README.md)
   * [Essentials](plugin/popular/essentials.md)
+  * [Multiverse](plugin/popular/multiverse.md)
   * [WorldEdit](plugin/popular/worldedit.md)
   * [WorldGuard](plugin/popular/worldguard.md)
   * [CoreProtect](plugin/popular/coreprotect.md)
