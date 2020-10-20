@@ -42,3 +42,7 @@ on death of player:
 	if attacker is a player:
 		add 1 to {kills::%attacker's uuid%}
 ```
+
+{% hint style="success" %}
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
