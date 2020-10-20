@@ -25,5 +25,5 @@ You must upload your world to an online media site, for example file.io, mediafi
 Go to the **World** section of the Web Manager. Then click `Select a zip file` under the **Upload World** section. Now select the file you want to upload, click **Upload**, and restart your server \(click the Restart button at the very top of the Web Manager\).
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
