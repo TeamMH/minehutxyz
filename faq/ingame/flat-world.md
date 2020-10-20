@@ -19,5 +19,5 @@ Once your server is online make sure to go onto your server's dashboard, you can
  All you have to do is go to the settings tab and then change the level type to flat, once you've done this you can go ahead to the world tab and click reset world, after that all you have to do is click the restart button and your server's world should be flat!
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
