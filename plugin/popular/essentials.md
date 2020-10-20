@@ -25,5 +25,5 @@ First of all, make sure you are OP *(follow [this](https://minehut.xyz/faq/ingam
  * **essentials.spawn** *Gives whoever has this permission to use /spawn.*
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
