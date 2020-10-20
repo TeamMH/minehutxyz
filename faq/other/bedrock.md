@@ -24,5 +24,5 @@ DEVICES: iOS, Android, Win10
 *Please note, you **cannot** direct connect on Bedrock Edition, you must join the lobby.* Then use **/join <servername>** to get on your server.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
