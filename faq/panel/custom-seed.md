@@ -18,5 +18,5 @@ Minecraft worlds generate randomly, you may have found a certain world that youâ
 5. Then click the **reset world** button and restart your server.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
