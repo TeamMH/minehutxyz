@@ -48,7 +48,7 @@ So for us this will turn into: `/lp user Steve parent set Example`
 
 Now everything should be set up, of course there is much more to this plugin than just these commands, any other commands can be found [here](https://github.com/lucko/LuckPerms/wiki/Command-Usage).
 
-I also **highly** recommend checking out the online editor, this can be found using `/lp editor`in game and is a lot easier to use!
+I also **highly** recommend checking out the online editor, this can be found using `/lp editor` in game and is a lot easier to use!
 
 {% hint style="success" %}
 Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
