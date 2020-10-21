@@ -76,3 +76,4 @@
   * [Example: Scoreboards](skript/examples/scoreboard.md)
   * [Example: Private Messages](skript/examples/msg.md)
   * [Example: Homes](skript/examples/homes.md)
+  * [Example: Cooldowns](skript/examples/cooldowns.md)
