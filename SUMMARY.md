@@ -79,3 +79,5 @@
   * [Example: Homes](skript/examples/homes.md)
   * [Example: Pagination](skript/examples/pagination.md)
   * [Example: Private Messages](skript/examples/msg.md)
+  * [Example: Homes](skript/examples/homes.md)
+  * [Example: Cooldowns](skript/examples/cooldown.md)
