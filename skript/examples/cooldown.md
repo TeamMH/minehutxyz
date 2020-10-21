@@ -4,6 +4,11 @@ description: Learn how to create and use cooldowns in your commands and skripts.
 
 # Cooldowns
 
+{% hint style="info" %}
+This tutorial was made by [Rqdioqctive](https://github.com/Rqdioqctive). Lean how to contribute [here](/contribute.md).
+{% endhint %}
+
+
 ## OVERVIEW
 
 Cooldowns can be used to prevent things such as kit spamming, chat delays and many more things to prevent spam and abuse in your server.
