@@ -2,7 +2,7 @@
 
 * [Minehut.xyz](README.md)
 * [Contribute](contribute.md)
-* [Parners](partners.md)
+* [Partners](partners.md)
 
 ## Popular Questions <a id="faq"></a>
 
