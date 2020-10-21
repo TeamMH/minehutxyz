@@ -76,3 +76,4 @@
   * [Example: Spawn](skript/examples/spawn.md)
   * [Example: Bossbar](skript/examples/bossbar.md)
   * [Example: Private Messages](skript/examples/msg.md)
+  * [Example: Homes](skript/examples/homes.md)
