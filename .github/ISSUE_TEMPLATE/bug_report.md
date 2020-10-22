@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+### Bug Report
+
 **Checklist**
 - [ ] I am NOT reporting a security vulnerability
 - [ ] I have searched the Issue Tracker to make sure this is not a duplicate issue
