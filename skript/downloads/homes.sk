@@ -1,0 +1,26 @@
+command /sethome: #command to sethome
+  permission: skript.sethome #permission for sethome
+  permission message: &cInsufficient permissions! #message if they dont have permission
+  trigger:
+    set {home::%player's uuid%} to player's location #sets home location
+    send "&7Set your home to your location!" #sends message
+    
+command /home: #command to teleport to home
+  permission: skript.home #permission for home
+  permission message: &cInsufficient permissions! #message if they dont have permission
+  trigger:
+    if {home::%player's uuid%} is set: #checking if home location is set
+      teleport player to {home::%player's uuid%} #teleports player
+      send "&7Teleported to your home!" #sends message
+    else: #if they dont have a home set
+      send "&cNo valid home!" #sends error message
+
+command /delhome:
+  permission: skript.delhome
+  permission message: &cInsufficient permissions!
+  trigger:
+    if {home::%player's uuid%} is set: #checking if home location is set
+      delete {home::%player's uuid%} #deletes the home location from existence
+      send "&7Deleted your home!" #sends message
+    else: #if they dont have a home set
+      send "&cNo valid home!" #sends error message
