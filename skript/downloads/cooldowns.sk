@@ -1,0 +1,8 @@
+command /daily:
+  cooldown: 24 hours
+  cooldown message: &c%remaining time% left before you can use this command again!
+  cooldown bypass: daily.bypass
+  cooldown storage: {daily::%player's uuid%}
+  trigger:
+    give cake to player
+    send "&7Thank you for claiming your daily reward!"
