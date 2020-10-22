@@ -1,0 +1,2 @@
+on join:
+  create bossbar titled "&aWelcome to the server." and id "bossbar::%player's uuid%" for player with progress 100 with colors blue
