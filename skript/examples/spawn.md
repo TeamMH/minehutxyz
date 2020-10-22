@@ -2,9 +2,7 @@
 description: A /setspawn and /spawn command for your server.
 ---
 
-# Example: Spawn
-
-## Example: Spawn
+# Example: Spawn | Download this at https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/spawn.sk?raw=true
 
 ### *This tutorial was submitted by SmellyBurger. Find out how you can submit a tutorial [_here_](../contribute.md)*
 
