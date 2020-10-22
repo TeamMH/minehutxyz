@@ -4,6 +4,7 @@ about: Suggest an article for Minehut.xyz, which staff or members can make. Read
 title: ''
 labels: article request
 assignees: ''
+projects: Upcoming Articles/Examples
 
 ---
 
