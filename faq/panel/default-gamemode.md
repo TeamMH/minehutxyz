@@ -4,7 +4,7 @@ description: Shows you how to set your default gamemode on your Minehut server.
 
 # How to set your default gamemode.
 
-### *This tutorial was submitted by Houlton. Find out how you can submit a tutorial [_here_](../contribute.md)*
+
 
 ## OVERVIEW
 
