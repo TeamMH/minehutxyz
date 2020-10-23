@@ -4,7 +4,6 @@ description: Learn how to reset your world.
 
 # Reset World
 
-### *This tutorial was submitted by Houlton. Find out how you can submit a tutorial [_here_](../contribute.md)*
 
 ## OVERVIEW
 
