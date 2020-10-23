@@ -4,8 +4,6 @@ description: Learn how to make a void world with Multiverse!
 
 # Creating a Void World
 
-### _This tutorial was submitted by Goose. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
-
 ## OVERVIEW
 
 Creating a void world is useful when creating lobbies for your server, and many other things. 
