@@ -14,7 +14,7 @@ You can also download a build schematic, which allows you to selct a specific bu
 
 ### Downloading it
 
-
+Do `/dl schem <name>`. You can find the list of schematics using `/schem list`.
 
 {% hint style="warning" %}
 Minehut is currently experiencing some problems with the download function, if you have issues, [join our discord](https://invite.gg/minehutxyz) and we will work with you to solve the issue.
