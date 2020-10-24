@@ -29,6 +29,7 @@
   * [Ban/Mute/Kick](faq/ingame/moderation.md)
 * [Minehut](popqs3/README.md)
   * [Full Tutorial](faq/minehut/full.md)
+  * [Disable Messages](faq/minehut/disable-messages.md)
   * [Forums Club](faq/minehut/clubs.md)
   * [Cracked Minecraft](faq/minehut/cracked.md)
   * [Bugs](faq/minehut/bugs.md)
