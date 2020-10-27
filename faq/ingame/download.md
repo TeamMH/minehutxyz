@@ -6,11 +6,11 @@ description: If you want to download your minehut server, it (should be) simple 
 
 ## Downloading a World
 
-Join your server, find your specific world using `/worlds`, then do `/dl world <world name>`. This may take a second, but will create a download link to **https://dl.minehut.com/**.
+Join your server, find your specific world using `/worlds`, then do `/dl world <world name>`. This may take a second but will create a download link to **https://dl.minehut.com/**.
 
 ## Downloading a Schematic
 
-You can also download a build schematic, which allows you to selct a specific build and save it. 
+You can also download a build schematic, which allows you to select a specific build and save it. 
 
 ### Downloading it
 
@@ -22,7 +22,7 @@ Minehut is currently experiencing some problems with the download function, if y
 
 ### Selecting the build
 
-For anyone unfamalier woth worldedit schematics, we made this guide for you! 
+For anyone unfamiliar with worldedit schematics, we made this guide for you! 
 
 | # | Step |
 | --- | --- |

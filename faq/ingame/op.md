@@ -1,5 +1,5 @@
 ---
-description: How to make a user a Server Operater (or revoke those permissions)!
+description: How to make a user a Server Operator (or revoke those permissions)!
 ---
 
 # Server Operator
@@ -7,7 +7,7 @@ description: How to make a user a Server Operater (or revoke those permissions)!
 ## OVERVIEW
 
 Being a server operator allows you to run most of the general commands the server has, including the dangerous ones.
-**Only give operator to people you trust** as they **ban/kick** players (read what that means [here](faq/ingame/moderation.md). They can also give themselves **items, bypass whitelist, etc.** "Deoping" a user removes these permissions. Sometimes, your friends will request op "because they can't play", this is sometimes due to minehuts built in spawn radius. I reccommend turning this to `0` in your panel. 
+**Only give operator to people you trust** as they **ban/kick** players (read what that means [here](faq/ingame/moderation.md). They can also give themselves **items, bypass whitelist, etc.** "Deoping" a user removes these permissions. Sometimes, your friends will request op "because they can't play", this is sometimes due to Minehut's built-in spawn radius. I recommend turning this to `0` in your panel. 
 
 ## HOW TO OP YOURSELF
 
@@ -29,7 +29,7 @@ BEDROCK: /deop *(username)
 
 ## HOW TO GIVE PERMISSIONS
 
-Many plugins you install may give errors like "You don't have permission to use this commsnd". For people yu don't trust, you can use [luckperms](plugin/permission-plugins/lp)'s web editor to configure permissions. (Test it out [here](https://luckperms.net/editor/demo)!
+Many plugins you install may give errors like "You don't have permission to use this commsnd". For people you don't trust, you can use [luckperms](plugin/permission-plugins/lp)'s web editor to configure permissions. (Test it out [here](https://luckperms.net/editor/demo)!
 
 {% hint style="success" %}
 Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
