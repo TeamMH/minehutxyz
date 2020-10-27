@@ -26,11 +26,11 @@ Minehut's Skripting community has continued to grow throughout the years, so we'
 
 Name | Position
 ---|---
-**Adam** | **Founder** and Senior Writer
+**Adam** | **Founder** and **Senior Writer**
 --- | ---
-**Goose** | **GitHub Manager** and **Writer**
+**Goose** | **Founder**, **GitHub Manager** and **Writer**
 **Tarna** | **General Manager** and **Writer**
-**Lukas** | **Staff / Project Manager** and **Senior Writer**
+**Lukas** | **Staff Manager**, **Project Manager** and **Senior Writer**
 --- | ---
 **Conutik** | **Writer** 
 **Houlton** | **Writer**
