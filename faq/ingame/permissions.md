@@ -6,7 +6,7 @@ description: Learn how to give players permissions to do commands.
 
 ## PERMISSION MANAGERS
 
-On Minehut, you have a choice of five permission managers: `Permissionsex, Luckperms, Groupmanager, Ultimateperms, zpermission.`
+On Minehut, you have a choice of five permission managers: `Permissionsex, Luckperms, Groupmanager, Ultimateperms, Zpermissions.`
 
 {% hint style="warning" %}
 `You only need to install 1 out of 5 permission managers.`
