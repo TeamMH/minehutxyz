@@ -1,0 +1,12 @@
+command /spawn:
+    permission: spawn.use
+    trigger:
+        send "&6Teleporting…" to player
+        wait 5 ticks
+        teleport player to {spawn}
+
+command /setspawn:
+    permission: spawn.set
+    trigger:
+        set {spawn} to player's location
+        send "&6Successfully set spawn to your location." to player

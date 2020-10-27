@@ -2,7 +2,7 @@
 description: Learn how to create and use cooldowns in your commands and skripts.
 ---
 
-# Cooldowns
+# Cooldowns | Download this at https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/cooldowns.sk?raw=true
 
 {% hint style="info" %}
 This tutorial was made by [Rqdioqctive](https://github.com/Rqdioqctive). Lean how to contribute [here](/contribute.md).
