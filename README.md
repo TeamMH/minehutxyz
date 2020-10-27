@@ -6,7 +6,7 @@ description: The leading Minehut support website.
 
 ## WELCOME... TO MINEHUT.XYZ
 
-Minehut.xyz is home to the best Minehut-related support you'll find on the web. We aim to provide top quality minehut tutorials, skript tutorials, and plugin tutorials. ur site is [community driven](contribute.md), and we will continue to make it better and better.
+Minehut.xyz is home to the best Minehut-related support you'll find on the web. We aim to provide top quality [Minehut tutorials](https://minehut.xyz/faq/panel), [Plugin tutorials](https://minehut.xyz/plugin/popular), and [Skript tutorials](https://minehut.xyz/skript/basics). Our site is [community driven](contribute.md), and we will continue to make it better and better.
 
 {% hint style="info" %} Utilise our **Search** function at the top righthand corner of the site, it's so helpful to find your question within our site.{% endhint %}
 
