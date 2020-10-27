@@ -6,7 +6,7 @@ description: Learn how to give players permissions to do commands.
 
 ## PERMISSION MANAGERS
 
-On Minehut, you have a choice of five permission managers:`Permissionsex, Luckperms, Groupmanager, Ultimateperms, zpermission.`
+On Minehut, you have a choice of five permission managers: `Permissionsex, Luckperms, Groupmanager, Ultimateperms, zpermission.`
 
 {% hint style="warning" %}
 `You only need to install 1 out of 5 permission managers.`
@@ -15,18 +15,22 @@ On Minehut, you have a choice of five permission managers:`Permissionsex, Luckpe
 ## HOW TO USE EACH PERMISSION MANAGER
 
 {% hint style="info" %}
-Each permission manager has lots more commands than shown below, visit each permission manager's tutorial page.
+Each permission manager has lots more commands than shown below, visit each permission manager's tutorial page. I reccommend choosing between lp and pex as those are the most used/stable.
 {% endhint %}
 
 ```text
+LuckPerms:
+/lp user/group <player-name/group> permission set <perm node> 
+
+Luckperms also has a amazing web editor, which you cen get to using /lp editor. I HIGHLY reccommend it for new players because of this feature.
+
 Permissionsex:
 /pex [user/group] <player-name/group> add <perm node>
 
+According to some players, pex is more stable and esier to use then lp (excluding the web editor).
+
 Group Manager:
 /[manuaddp/mangaddp] <player-name/group> <perm node>
-
-LuckPerms:
-/lp user/group <player-name/group> permission set <perm node> true
 
 Zpermissions:
 /permissions [user/group] <player-name/group> set <perm node> true
