@@ -12,7 +12,7 @@ Minehut.xyz is home to the best Minehut-related support you'll find on the web. 
 
 ## EVERY QUESTION EVER, ANSWERED.
 
-Our **Popular Questions** section is directed towards questions that are frequently asked. or example ["How do I allow 1.8 clients to join?"](faq/server-version.md), and ["How do I give my players a permission"](faq/permissions.md). [\[Submit a post\]](contribute.md)
+Our **Popular Questions** section is directed towards questions that are frequently asked. or example ["How do I allow 1.8 clients to join?"](faq/other-questions/server-version.md), and ["How do I give my players a permission"](faq/ingame/permissions.md). [\[Submit a post\]](contribute.md)
 
 ## OUR PLUGIN KNOW-HOW
 
