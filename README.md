@@ -30,7 +30,7 @@ Name | Position
 --- | ---
 **Goose** | **GitHub Manager** and **Writer**
 **Tarna** | **General Manager** and **Writer**
-**Lukashttps://discord.bio/p/lukask** | **Staff and Project Manager** and **Senior Writer**
+**Lukas** | **Staff and Project Manager** and **Senior Writer**
 --- | ---
 **Conutik** | **Writer** 
 **Houlton** | **Writer**
