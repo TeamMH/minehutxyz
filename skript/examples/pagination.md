@@ -2,7 +2,7 @@
 description: Learn how to make a paginated GUI. This allowed people to make "pages" in a GUI, and is infinitly expandable.
 ---
 
-# Pagination | Download this at https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/pagnation.sk?raw=true
+# Pagination [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/pagnation.sk?raw=true)]
 
 {% hint style="info" %}
 This tutorial was made by [Blocksnmore](https://github.com/Blocksnmore), and [ReportCardsMC](https://github.com/ReportCardsMC). Lean how to contribute [here](/contribute.md).
