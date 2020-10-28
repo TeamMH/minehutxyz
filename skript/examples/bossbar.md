@@ -2,7 +2,7 @@
 description: Learn how to create a bossbar with Skript
 ---
 
-# Example: Bossbar | [Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/bossbar.sk?raw=true)
+# Example: Bossbar [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/bossbar.sk?raw=true)]
 
 ## OVERVIEW
 
