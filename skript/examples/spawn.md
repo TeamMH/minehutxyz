@@ -2,7 +2,7 @@
 description: A /setspawn and /spawn command for your server.
 ---
 
-# Example: Spawn | Download this at https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/spawn.sk?raw=true
+# Example: Spawn [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/spawn.sk?raw=true)]
 
 
 
