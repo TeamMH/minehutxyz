@@ -2,7 +2,7 @@
 description: Learn how to format chat with Skript.
 ---
  
-# Format Chat | Download this at https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/chat.sk?raw=true
+# Format Chat [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/chat.sk?raw=true)]
  
 ## OVERVIEW
  
