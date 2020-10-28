@@ -16,3 +16,7 @@ If you vote every single day for 30 days, you'll end up with 750 credits *(25 [c
 
 1. You need to make sure your account is linked. Learn how to link your account [here]().
 2. Then visit [this](https://minecraftservers.org/vote/443456) voting site, and enter in your username. *(Note: this is case sensetive!)*
+
+{% hint style="success" %}
+Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
