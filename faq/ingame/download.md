@@ -8,6 +8,10 @@ description: If you want to download your minehut server, it (should be) simple 
 
 Join your server, find your specific world using `/worlds`, then do `/dl world <world name>`. This may take a second but will create a download link to **https://dl.minehut.com/**.
 
+### ALTERNATVILY
+
+The command `/dl` doesn't always work. You may need to use a World Downloader Mod, such as [this](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2520465-world-downloader-mod-create-backups-of-your-builds).
+
 ## Downloading a Schematic
 
 You can also download a build schematic, which allows you to select a specific build and save it. 
