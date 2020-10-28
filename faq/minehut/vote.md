@@ -14,7 +14,7 @@ If you vote every single day for 30 days, you'll end up with 750 credits *(25 [c
 
 ## HOW TO VOTE
 
-1. You need to make sure your account is linked. Learn how to link your account [here](faq/minehut/link.md).
+1. You need to make sure your account is linked. Learn how to link your account [here](https://minehut.xyz/faq/minehut/link).
 2. Then visit [this](https://minecraftservers.org/vote/443456) voting site, and enter in your username. *(Note: this is case sensetive!)*
 
 {% hint style="success" %}
