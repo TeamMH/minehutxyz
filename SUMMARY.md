@@ -39,6 +39,7 @@
 * [Other Questions](popqs4/README.md)
   * [Server Version](faq/other/server-version.md)
   * [Bedrock Edition](faq/other/bedrock.md)
+  * [OP Tools](faq/other/op-tools.md)
 * [Making a server](popqs5/README.md)
   * [Planning it out](faq/servermaking.md)
 
