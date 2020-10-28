@@ -1,12 +1,12 @@
 ---
-description: Learn how to give players permission to do commands.
+description: Learn how to give players permissions to do commands.
 ---
 
 # Permissions
 
 ## PERMISSION MANAGERS
 
-On Minehut, you have a choice of five permission managers: `Permissionsex, Luckperms, Groupmanager, Ultimateperms, Zpermissions.`
+On Minehut, you have a choice of five permission managers:`Permissionsex, Luckperms, Groupmanager, Ultimateperms, zpermission.`
 
 {% hint style="warning" %}
 `You only need to install 1 out of 5 permission managers.`
@@ -15,29 +15,18 @@ On Minehut, you have a choice of five permission managers: `Permissionsex, Luckp
 ## HOW TO USE EACH PERMISSION MANAGER
 
 {% hint style="info" %}
-Each permission manager has lots more commands than shown below, visit each permission manager's tutorial page. I recommend choosing between lp and pex as those are the most used/stable.
+Each permission manager has lots more commands than shown below, visit each permission manager's tutorial page.
 {% endhint %}
 
-```text
-LuckPerms:
-/lp user/group <player-name/group> permission set <perm node> 
+[PermissionseEx](https://minehut.xyz/plugin/permission-plugins/pex): `/pex [user/group] <player-name/group> add <perm node>`
 
-Luckperms also has an amazing web editor, which you can get to using /lp editor. I HIGHLY recommend it for new players because of this feature.
+[Group Manager](https://minehut.xyz/plugin/permission-plugins/gm): `/[manuaddp/mangaddp] <player-name/group> <perm node>`
 
-Permissionsex:
-/pex [user/group] <player-name/group> add <perm node>
+[LuckPerms](https://minehut.xyz/plugin/permission-plugins/lp): `/lp user/group <player-name/group> permission set <perm node> true`
 
-According to some players, pex is more stable and easier to use than lp (excluding the web editor).
+Zpermissions: `/permissions [user/group] <player-name/group> set <perm node> true`
 
-Group Manager:
-/[manuaddp/mangaddp] <player-name/group> <perm node>
-
-Zpermissions:
-/permissions [user/group] <player-name/group> set <perm node> true
-
-UltimatePerms:
-/perms [user/group] <player-name/group> add <perm node>
-```
+UltimatePerms: `/perms [user/group] <player-name/group> add <perm node>`
 
 {% hint style="success" %}
 Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
