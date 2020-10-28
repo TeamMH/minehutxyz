@@ -8,6 +8,10 @@ description: Learn how to use Essentials.
 
 This tutorial will end up being very long, however we've split it into parts, for example [Essentials Spawn](https://minehut.xyz/plugin/popular/essentials#essentials-spawn).
 
+# ESSENTIALS PERMISSION NODES
+
+Essentials contains tons of useful commands, [here](https://essinfo.xeya.me/permissions.html) is a list of every command, along with every permission node. For more information on how to allow users to use commands, visit [this](https://minehut.xyz/faq/ingame/permissions) tutorial.
+
 # ESSENTIALS SPAWN
 
 ### OVERVIEW
