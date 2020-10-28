@@ -2,7 +2,7 @@
 description: Learn how to use and make homes for yourself and server members. Including permissions, multiple home managment and home deletion.
 ---
 
-# Home | Download this at https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/homes.sk?raw=true
+# Home [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/homes.sk?raw=true)]
 
 {% hint style="info" %}
 This tutorial was made by [Rqdioqctive](https://github.com/Rqdioqctive). Lean how to contribute [here](/contribute.md).
