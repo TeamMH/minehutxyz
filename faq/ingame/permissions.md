@@ -18,7 +18,7 @@ On Minehut, you have a choice of five permission managers:`Permissionsex, Luckpe
 Each permission manager has lots more commands than shown below, visit each permission manager's tutorial page.
 {% endhint %}
 
-[PermissionseEx](https://minehut.xyz/plugin/permission-plugins/pex): `/pex [user/group] <player-name/group> add <perm node>`
+[PermissionsEx](https://minehut.xyz/plugin/permission-plugins/pex): `/pex [user/group] <player-name/group> add <perm node>`
 
 [Group Manager](https://minehut.xyz/plugin/permission-plugins/gm): `/[manuaddp/mangaddp] <player-name/group> <perm node>`
 
