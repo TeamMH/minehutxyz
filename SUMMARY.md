@@ -35,6 +35,7 @@
   * [Linking](faq/minehut/link.md)
   * [Forums Club](faq/minehut/clubs.md)
   * [Account Deletion](faq/minehut/acc-delete.md)
+  * [Ports](faq/minehut/ports-md)
   * [Bugs](faq/minehut/bugs.md)
 * [Other Questions](popqs4/README.md)
   * [Server Version](faq/other/server-version.md)
