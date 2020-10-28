@@ -2,7 +2,7 @@
 description: Learn how to create a scoreboard with Skript.
 ---
 
-# Example: Scoreboard | Download this at https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/scoreboard.sk?raw=true
+# Example: Scoreboard [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/scoreboard.sk?raw=true)]
 
 ## OVERVIEW 
 
