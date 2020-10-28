@@ -30,6 +30,7 @@
   * [Ban/Mute/Kick](faq/ingame/moderation.md)
 * [Minehut](popqs3/README.md)
   * [Full Tutorial](faq/minehut/full.md)
+  * [Joining](faq/minehut/joining.md)
   * [Voting](faq/minehut/vote.md)
   * [Cracked Minecraft](faq/minehut/cracked.md)
   * [Linking](faq/minehut/link.md)
