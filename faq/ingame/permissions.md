@@ -20,6 +20,7 @@ On Minehut, you have a choice of five permission managers:`Permissionsex, Luckpe
 Each permission manager has lots more commands than shown below, visit each permission manager's tutorial page.
 {% endhint %}
 
+
 **[LuckPerms](https://minehut.xyz/plugin/permission-plugins/lp)**: `/lp user/group <player-name/group> permission set <perm node> true`
 
 **[PermissionsEx](https://minehut.xyz/plugin/permission-plugins/pex)**: `/pex [user/group] <player-name/group> add <perm node>`
@@ -29,6 +30,7 @@ Each permission manager has lots more commands than shown below, visit each perm
 [zPermissions](https://www.spigotmc.org/resources/zpermissions.11736/): `/permissions [user/group] <player-name/group> set <perm node> true`
 
 [UltimatePerms](https://www.google.com/search?q=ultimate+perms&oq=ultimate+perms): `/perms [user/group] <player-name/group> add <perm node>`
+
 
 {% hint style="success" %}
 Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
