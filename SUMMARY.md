@@ -24,6 +24,7 @@
   * [Downloading](faq/ingame/download.md)
   * [Uploading Worlds](faq/ingame/ul.md)
   * [Permissions](faq/ingame/permissions.md)
+  * [Whitelist](faq/ingame/whitelist.md)
   * [Server Operator](faq/ingame/op.md)
   * [Creating a Void World](faq/ingame/void-world.md)
   * [World Border](faq/ingame/worldborder.md)
