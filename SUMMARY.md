@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Minehut.xyz](README.md)
+* [Join our discord!](https://discord.gg/TYhH5bK)
 * [Contribute](contribute.md)
 * [Partners](partners.md)
 
@@ -20,7 +21,7 @@
   * [Custom Seed](faq/panel/custom-seed.md)
   * [Reset Player](faq/panel/reset-player.md)
   * [Allowed File types](faq/panel/files.md)
-* [Ingame](popqs/README.md)
+* [Ingame](popqs2/README.md)
   * [Downloading](faq/ingame/download.md)
   * [Uploading Worlds](faq/ingame/ul.md)
   * [Permissions](faq/ingame/permissions.md)
