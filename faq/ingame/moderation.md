@@ -1,8 +1,8 @@
 ---
-description: How to kick, ban, unban and more. User moderation in general.
+description: How to kick, ban, unban, and more. User moderation in general.
 ---
 
-# Banning, Muting and Kicking Users
+# Banning, Muting, and Kicking Users
 
 ## Banning Users
 

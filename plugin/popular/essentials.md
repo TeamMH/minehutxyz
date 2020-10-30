@@ -1,5 +1,5 @@
 ---
-description: Learn how to use Essentials.
+description: Learn how to use Essentials .
 ---
 
 ![](../../.gitbook/assets/essentialsx.png)
@@ -8,7 +8,11 @@ description: Learn how to use Essentials.
 
 This tutorial will end up being very long, however we've split it into parts, for example [Essentials Spawn](https://minehut.xyz/plugin/popular/essentials#essentials-spawn).
 
-# ESSENTIALS SPAWN
+# ESSENTIALS PERMISSION NODES
+
+Essentials contains tons of useful commands, [here](https://essinfo.xeya.me/permissions.html) is a list of every command, along with every permission node. For more information on how to allow users to use commands, visit [this](https://minehut.xyz/faq/ingame/permissions) tutorial.
+
+## ESSENTIALS SPAWN
 
 ### OVERVIEW
 
@@ -23,6 +27,26 @@ First of all, make sure you are OP *(follow [this](https://minehut.xyz/faq/ingam
 * **essentials.setspawn** *Gives whoever has this permission to use /setspawn.*
  
  * **essentials.spawn** *Gives whoever has this permission to use /spawn.*
+
+
+## ESSENTIALS KITS
+
+To create a kit, run the command `/kitcreate (kit name) (cooldown)`. 
+{% hint style="info" %}
+Set `-1` as the cool down for a one time use kit!
+{% endhint %}
+
+To delete a kit, run the command `/delkit (kit name)`
+
+### PERMISSIONS
+
+1. `essentials.kit` This gives the user access to `/kit`.
+2. `essentials.kits.(kit name)` This gives the user access to that particular kit.
+3. `essentials.kits.*` This gives the user access to all kits.
+
+{% hint style="info" %}
+The first permission node is **required** for the second and third nodes to work.
+{% endhint %}
 
 {% hint style="success" %}
 Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.

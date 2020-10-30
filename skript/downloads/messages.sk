@@ -1,0 +1,4 @@
+command whisper <player> <text>:
+  trigger:
+      send "%player% whispers to you: %arg-text%" to arg-player
+      send "You whispered to %arg-player%: %arg-text%" to player

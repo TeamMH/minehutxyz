@@ -2,11 +2,9 @@
 description: A /setspawn and /spawn command for your server.
 ---
 
-# Example: Spawn
+# Example: Spawn [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/spawn.sk?raw=true)]
 
-## Example: Spawn
 
-### *This tutorial was submitted by SmellyBurger. Find out how you can submit a tutorial [_here_](../contribute.md)*
 
 So, first you need to create the file. Lets name it `spawn.sk`.
 Once having the file created, enter it. Once entered input this skript:

@@ -2,7 +2,7 @@
 description: Learn how to create custom join and quit messages on your server.
 ---
 
-# Create custom join and quit messages on your server
+# Create custom join and quit messages on your server [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/joinleavemessage.sk?raw=true)]
 
 ## OVERVIEW
 

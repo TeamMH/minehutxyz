@@ -16,7 +16,9 @@ Now enter a server name, you need to have more than 4 characters, but less than 
 
 ### Chapter 3: Activating your server.
 
-Every time you, or someone, wants to join your server, it will need to be activated (if it's offline). There are two ways of doing this, 1) go to the [Panel](https://minehut.com/panel/minecraft) and click Activate Server. 2) Join the Minehut Lobby (mc.minehut.com), and use /join [server name].
+Every time you, or someone, wants to join your server, it will need to be activated (if it's offline). There are two ways of doing this, 
+1) go to the [Panel](https://minehut.com/dashboard) and click Activate Server. 
+2) Join the Minehut Lobby (mc.minehut.com), and use /join [server name].
 If you've used the panel to start up your server, it will bring you to the main dashboard of your server. This is where you can run console commands, install plugins, and many more things.
 
 ### Chapter 4: Installing plugins.

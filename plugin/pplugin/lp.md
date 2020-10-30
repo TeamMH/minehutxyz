@@ -4,7 +4,9 @@ description: Learn how to use LuckPerms.
 
 # LuckPerms
 
-### _This tutorial was submitted by PandaChan. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
+{% hint style="info" %}
+This tutorial was made by PandaChan. Lean how to contribute [here](/contribute.md).
+{% endhint %}
 
 ## OVERVIEW
 

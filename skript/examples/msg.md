@@ -2,7 +2,7 @@
 description: Set up private messaging on your server with Skript.
 ---
 
-# Private Messaging
+# Private Messaging [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/messages.sk?raw=true)]
 
 ## OVERVIEW
 

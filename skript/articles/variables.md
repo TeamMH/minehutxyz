@@ -4,7 +4,7 @@ description: Learn how to use variables in Skript!
 
 # Variables
 
-### _This tutorial was submitted by Goose. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
+
 
 ## **WHAT ARE VARIABLES**
 

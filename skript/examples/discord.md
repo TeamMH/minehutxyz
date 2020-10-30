@@ -2,7 +2,7 @@
 description: Learn how to create a custom /discord command.
 ---
 
-# Example: /discord
+# Example: /discord [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/discord.sk?raw=true)]
 
 ## OVERVIEW
 

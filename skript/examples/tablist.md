@@ -2,7 +2,7 @@
 description: Learn how to customise your tablist with Skript.
 ---
 
-# Example: Tablist
+# Example: Tablist [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/tablist.sk?raw=true)]
 
 ## OVERVIEW
 
