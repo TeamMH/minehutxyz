@@ -33,13 +33,10 @@
   * [Timings](faq/ingame/timings.md)
 * [Minehut](popqs3/README.md)
   * [Full Tutorial](faq/minehut/full.md)
-
   * [Joining](faq/minehut/joining.md)
   * [Voting](faq/minehut/vote.md)
-
   * [Disable Messages](faq/minehut/disable-messages.md)
   * [Forums Club](faq/minehut/clubs.md)
-
   * [Cracked Minecraft](faq/minehut/cracked.md)
   * [Linking](faq/minehut/link.md)
   * [Forums Club](faq/minehut/clubs.md)
