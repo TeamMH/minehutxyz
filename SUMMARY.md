@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Minehut.xyz](README.md)
-* [Join our discord!](https://discord.gg/TYhH5bK)
+* [Discord](https://discord.gg/TYhH5bK)
 * [Contribute](contribute.md)
 * [Partners](partners.md)
 
