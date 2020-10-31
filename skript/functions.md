@@ -8,7 +8,7 @@ description: Learn how to use functions in Skript!
 
 Learn how to use functions in Skript!
 
-## **WHAT ARE FUNCTIONS** 
+## **WHAT ARE FUNCTIONS**
 
 Functions are used to perform tasks, and most languages have them. Functions are global across scripts.
 
@@ -18,7 +18,9 @@ You have 4 parts of a function: The name, the parameters, the return type, and t
 
 The return type can also be anything, just like a parameter. It also does not need to be specified, but if you are gonna return something, you have to specify.
 
-{% hint style="danger" %} If you're returning something, there **cannot** be a delay. {% endhint %}
+{% hint style="danger" %}
+If you're returning something, there **cannot** be a delay.
+{% endhint %}
 
 ## **HOW TO MAKE FUNCTIONS**
 
@@ -55,5 +57,6 @@ on death:
 ```
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

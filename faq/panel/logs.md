@@ -25,5 +25,6 @@ Head over to the **files** section of the web panel. Find the **Logs folder**. F
 Logs are best viewed when sent using pastebin.com. Head over to their website and paste in the text you copied from your latest.log. From there, click **Create New Paste**, and send the link it gives you.
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

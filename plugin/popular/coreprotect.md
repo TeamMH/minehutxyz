@@ -8,7 +8,7 @@ description: >-
 # CoreProtect
 
 {% hint style="info" %}
-This tutorial was made by PandaChan. Lean how to contribute [here](/contribute.md).
+This tutorial was made by PandaChan. Lean how to contribute [here](../../contribute.md).
 {% endhint %}
 
 ## OVERVIEW
@@ -39,5 +39,6 @@ The rollback feature is used to rollback all the blocks within a certain radius 
 There are a few other commands besides the ones mentioned above, one of them being `/co purge t:(time) r:(world)`. What this does is delete the data stored by CoreProtect, this being things you can see in core inspect or everything you can rollback. It's useful to clear this out sometimes because it can lag the server, the highest you can delete with this is one month.
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

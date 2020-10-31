@@ -1,16 +1,16 @@
 ---
 description: Learn how to format chat with Skript.
 ---
- 
-# Format Chat [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/chat.sk?raw=true)]
- 
+
+# Example: Format Chat
+
 ## OVERVIEW
- 
+
 Instead of having the default Minecraft chat format such as `<Trent>: Hey!`, you can create a custom format using Skript.
- 
+
 ## CODE
- 
-```
+
+```text
 on chat:
  set chat format to "%player%: %message%"
 ```
@@ -20,5 +20,6 @@ You can use things such as `%player's prefix%` if you have Essentials & Vault in
 {% endhint %}
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

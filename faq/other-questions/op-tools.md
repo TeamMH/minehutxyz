@@ -18,5 +18,6 @@ description: Learn how to create OP tools on your Minehut server.
 2. Then uou can simply use the command `/enchant (enchantment) (level)`. For example, `/enchant sharpness 50`.
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

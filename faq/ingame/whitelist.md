@@ -2,7 +2,7 @@
 description: Learn how to whitelist (allow and disallow certin players) on your server.
 ---
 
-# WHITELISTING PLAYERS
+# Whitelist
 
 ## How to add players to the whitelist
 
@@ -15,18 +15,6 @@ First, use `/whitelist add <playername>` to add yourself to the whitelist. for b
 Then, enable the whitelist useing `/whitelist on`. When you want to disable it, use `/whitelist off`.
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 
-<!--
-1: This will be hidden after commit
-
-2: Take advantage of github flavored markdown. 
-**This is bold**
-*This is italicized*
-| this | is |
-| --- | ---|
-| a | table |
-
-Learn more here: https://guides.github.com/features/mastering-markdown/ 
--->

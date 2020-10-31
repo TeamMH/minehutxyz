@@ -29,13 +29,14 @@ A full list of commands and permissions can be found [here](https://worldedit.en
 
 | COMMAND | PERMISSION NODE |
 | :--- | :--- |
-| `//wand` |  `worldedit.wand` |
-| `//cut` |  `worldedit.clipboard.cut` |
-| `//set` |  `worldedit.region.set` |
-| `//paste` |  `worldedit.clipboard.paste` |
-| `//pos1` |  `worldedit.selection.pos` |
-| `//pos2` |  `worldedit.selection.pos` |
+| `//wand` | `worldedit.wand` |
+| `//cut` | `worldedit.clipboard.cut` |
+| `//set` | `worldedit.region.set` |
+| `//paste` | `worldedit.clipboard.paste` |
+| `//pos1` | `worldedit.selection.pos` |
+| `//pos2` | `worldedit.selection.pos` |
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

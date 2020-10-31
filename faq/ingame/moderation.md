@@ -1,8 +1,8 @@
 ---
-description: How to kick, ban, unban, and more. User moderation in general.
+description: 'How to kick, ban, unban, and more. User moderation in general.'
 ---
 
-# Banning, Muting, and Kicking Users
+# Ban/Mute/Kick
 
 ## Banning Users
 
@@ -19,6 +19,6 @@ To kick a user, use `/kick <player> [reason]` to kick them.
 Note that arguments between `< >` are required and `[ ]` are optional.
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 

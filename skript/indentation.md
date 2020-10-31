@@ -16,7 +16,7 @@ That's why indentation is really important and you should always take care of it
 ```text
 on script load: 
     if 1 = 1:  # Here I indentated with one tab, to clarify this is the section after the event.
-        broadcast "How are you?"  # Here I indentated with two tabs, because this is a section after a condition, that already was indentated.    
+        broadcast "How are you?"  # Here I indentated with two tabs, because this is a section after a condition, that already was indentated.
 ```
 
 ## WHEN TO INDENT <a id="2-rules-of-indentation"></a>
@@ -52,5 +52,6 @@ function myFunc(): # A function is declared.
 * Also, remind that **all** events, conditions, sections, command and functions **need a colon behind them!**
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

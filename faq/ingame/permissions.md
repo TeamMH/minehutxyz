@@ -10,8 +10,6 @@ On Minehut, you have a choice of five permission managers:`Permissionsex, Luckpe
 
 {% hint style="warning" %}
 `You only need to install 1 out of 5 permission managers, installing others may cause issues.`
-
-
 {% endhint %}
 
 ## HOW TO USE EACH PERMISSION MANAGER
@@ -20,10 +18,9 @@ On Minehut, you have a choice of five permission managers:`Permissionsex, Luckpe
 Each permission manager has lots more commands than shown below, visit each permission manager's tutorial page.
 {% endhint %}
 
+[**LuckPerms**](https://minehut.xyz/plugin/permission-plugins/lp): `/lp user/group <player-name/group> permission set <perm node> true`
 
-**[LuckPerms](https://minehut.xyz/plugin/permission-plugins/lp)**: `/lp user/group <player-name/group> permission set <perm node> true`
-
-**[PermissionsEx](https://minehut.xyz/plugin/permission-plugins/pex)**: `/pex [user/group] <player-name/group> add <perm node>`
+[**PermissionsEx**](https://minehut.xyz/plugin/permission-plugins/pex): `/pex [user/group] <player-name/group> add <perm node>`
 
 [Group Manager](https://minehut.xyz/plugin/permission-plugins/gm): `/[manuaddp/mangaddp] <player-name/group> <perm node>`
 
@@ -31,8 +28,7 @@ Each permission manager has lots more commands than shown below, visit each perm
 
 [UltimatePerms](https://www.google.com/search?q=ultimate+perms&oq=ultimate+perms): `/perms [user/group] <player-name/group> add <perm node>`
 
-
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 

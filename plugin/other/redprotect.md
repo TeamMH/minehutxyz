@@ -6,9 +6,9 @@ description: >-
 
 # RedProtect
 
-##{% hint style="info" %}
-This tutorial was made by PandaChan. Lean how to contribute [here](/contribute.md).
-{% endhint %}
+## {% hint style="info" %}
+
+This tutorial was made by PandaChan. Lean how to contribute [here](../../contribute.md).
 
 ## CREATING A REGION
 
@@ -23,5 +23,6 @@ Flags are used to properly protect your region, they can disallow things or allo
 RedProtect has a few oher features, such as private chests, portals and many more things, All the commands can be found [here](https://github.com/FabioZumbi12/RedProtect/wiki).
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

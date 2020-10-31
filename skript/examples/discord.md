@@ -2,7 +2,7 @@
 description: Learn how to create a custom /discord command.
 ---
 
-# Example: /discord [[Download](https://github.com/TeamMh/minehutxyz/blob/master/skript/downloads/discord.sk?raw=true)]
+# Example: /discord
 
 ## OVERVIEW
 
@@ -10,7 +10,7 @@ We will be creating a `/discord` command that will allow users to click the text
 
 ## CODE
 
-```
+```text
 command /discord:
   trigger:
     send "&7> Click <link:DISCORD_INVITE>&c&lHERE<reset>&7to join our discord."
@@ -19,3 +19,4 @@ command /discord:
 ## EXPLAINED
 
 The command `/discord` will send this message, and we can use `<link:LINK> <reset>` to make the text clickable.
+

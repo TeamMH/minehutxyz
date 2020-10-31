@@ -4,8 +4,6 @@ description: Learn how to make commands with Skript!
 
 # Commands
 
-
-
 ## HOW TO REGISTER A COMMAND
 
 Registering a command is very simple in Skript. This is what a command in Skript can have:
@@ -21,7 +19,7 @@ command /name <arguments>: # keep in mind that arguments and the slash before th
 
 Arguments are parts of a command that a user can type out after the command's name. A argument can be anything from basic text to times of the day. They can be anything that is a `type` in Skript, I won't go into what types are here, but you can find a list of types [here](https://docs.skunity.com/syntax/types). The argument can be plural aswell: string -&gt; strings, integer -&gt; integers. An argument cannot use the `object` type.
 
-To make an argument required, surround it with angle brackets like this:  To make an argument optional, surround it with brackets AND angle brackets like this: \[\&lt;\&gt;\]
+To make an argument required, surround it with angle brackets like this: To make an argument optional, surround it with brackets AND angle brackets like this: \[\&lt;\&gt;\]
 
 ## **PARAMETERS \(optional\)**
 
@@ -33,19 +31,19 @@ There are many types of parameters that you can use with your code. Here's a lis
 
 **cooldown** - A cooldown for the command.
 
-**cooldown bypass** - A permission required to bypass the cooldown of a command. 
+**cooldown bypass** - A permission required to bypass the cooldown of a command.
 
-**cooldown storage** - A variable that the cooldown is stored in, it will stay even after the server restarts. 
+**cooldown storage** - A variable that the cooldown is stored in, it will stay even after the server restarts.
 
-**description** - A description for the command. 
+**description** - A description for the command.
 
-**aliases** - A list of aliases for your command, \(ex. `/alias1, /alias2, /alias3`\), the slash in the aliases is optional. 
+**aliases** - A list of aliases for your command, \(ex. `/alias1, /alias2, /alias3`\), the slash in the aliases is optional.
 
-**usage** - A message sent to the user if they used the command incorrectly. 
+**usage** - A message sent to the user if they used the command incorrectly.
 
 **executable by** - Specifies who can use the command, it can be `console`, `players`, or`console and players`.
 
-## **GETTING INPUTTED ARGUMENTS** 
+## **GETTING INPUTTED ARGUMENTS**
 
 You can use the syntax below to get the arguments of an entered command!
 
@@ -58,7 +56,7 @@ You can use the syntax below to get the arguments of an entered command!
 [the] arg[ument]( |-)%type%[( |-)%number%
 ```
 
-#### **Examples**
+### **Examples**
 
 ```text
 command discord:
@@ -82,5 +80,6 @@ command cake:
 ```
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+
