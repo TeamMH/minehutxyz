@@ -4,7 +4,7 @@
 * [Discord](https://discord.gg/TYhH5bK)
 * [Contribute](contribute.md)
 * [Partners](partners.md)
-* [API Documenation](api-documenation.md)
+* [API Documenation](api.md)
 
 ## Popular Questions <a id="faq"></a>
 
