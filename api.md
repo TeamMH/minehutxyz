@@ -10,13 +10,15 @@ Our API allows developers to utilize our articles for their own use.
 
 The API is currently updated manually, so please alert us of any issues on our [github](https://github.com/TeamMH/minehutxyz/issues).
 
-## FULL
+## ARTICLES FULL
+
 
 {% hint style="success" %}
 **`api.minehut.xyz/articles`**
 {% endhint %}
 
-* Returns the article list, and all details on the articles on the API.
+* Returns the article list, and all details regarding the articles currently on the API.
+* Contains **FAQs** and **plugins**. *(Skript has it's [own endpoint](https://minehut.xyz/api#skript-full))*
 
 ### RETURNS
 
@@ -65,4 +67,46 @@ _Note: this is a very short example, the API contains much more than these 2._
   "type": "faq"
 }
 ```
+
+
+## SKRIPT FULL
+
+{% hint style="success" %}
+**`api.minehut.xyz/skript`**
+{% endhint %}
+
+* Returns the article list, and all details regarding the articles currently on the API.
+* Contains **only skript**.
+
+```
+{
+  "skripts": [
+    "basic",
+    "events",
+    "indentation",
+    "commands",
+    "variables",
+    "functions",
+    "comments",
+    "syntax",
+    "formatting-text"
+  ],
+  "basic": {
+    "title": "Basics",
+    "description": "Learn how to use Skript. [https://skriptlang.github.io/Skript/]",
+    "path": "/skript/basics",
+    "url": "https://minehut.xyz/skript/basics",
+    "type": "skript"
+  },
+  "events": {
+    "title": "Events",
+    "description": "Learn how events work.",
+    "path": "/skript/events",
+    "url": "https://minehut.xyz/skript/events",
+    "type": "skript"
+  }
+```
+
+_Note: this is a very short example, the API contains much more than these 2._
+
 
