@@ -69,6 +69,7 @@
   * [RedProtect](plugin/other/redprotect.md)
   * [ImageOnMap](plugin/other/imageonmap.md)
   * [CombatLogX](plugin/other/combatlogx.md)
+  * [Dream's Manhunt](plugin/other/dreams-man-hunt.md)
 
 ## Skript
 
