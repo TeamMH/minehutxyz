@@ -24,6 +24,10 @@ description: View our partnerships.
 
 > Evera is a user friendly, lag free, and non pay to win Prison server.
 
+## [Idler](https://discord.gg/nV55ptk)
+
+> **Idler** is the biggest virtual-gen based server on Minehut! We offer **Clans, Friendships, an Amazing Community, PvP,** and much much more! Come join us today at **Idler.minehut.gg**!
+
 ## [Oictr](https://discord.gg/GPyc8Z2)
 
 > **Oitcr** is a fair one in the chamber style pvp server! The focus is to create something fun whilst eliminating the use of pay to win and unfair gear.
