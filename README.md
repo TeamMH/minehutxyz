@@ -30,8 +30,8 @@ Minehut's Skripting community has continued to grow throughout the years, so we'
 | :--- | :--- |
 | **Adam** | **Founder** and **Senior Writer** |
 | --- | --- |
-| **Goose** | **Founder**, **GitHub Manager** and **Writer** |
-| **Tarna** | **General Manager** and **Writer** |
+| **Tarna** | **Founder**, **General Manager** and **Writer** |
+| **Goose** | **GitHub Manager** and **Writer** |
 | **Lukas** | **Staff Manager**, **Project Manager** and **Senior Writer** |
 | --- | --- |
 | **Conutik** | **Writer** |
