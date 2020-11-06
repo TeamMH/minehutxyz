@@ -14,7 +14,7 @@ Utilise our **Search** function at the top righthand corner of the site, it's so
 
 ## EVERY QUESTION EVER, ANSWERED.
 
-**We know Minehut**. We've integrated out knowledge into a **Popular Questions** section, which directed towards questions that are frequently asked. For example ["How do I allow 1.8 clients to join?"](https://github.com/TeamMH/minehutxyz/tree/a9dfc91e5f3e90e9c90856f043e899df31fd1fdf/faq/other-questions/server-version.md), and ["How do I give my players a permission"](faq/ingame/permissions.md). [\[Submit a post\]](contribute.md)
+**We know Minehut**. We've integrated out knowledge into a **Popular Questions** section, which directed towards questions that are frequently asked. For example ["How do I allow 1.8 clients to join?"](https://minehut.xyz/faq/other-questions/server-version), and ["How do I give my players a permission"](faq/ingame/permissions.md). [\[Submit a post\]](contribute.md)
 
 ## OUR PLUGIN KNOW-HOW
 
