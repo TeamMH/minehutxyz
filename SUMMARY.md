@@ -50,7 +50,7 @@
   * [Bedrock Edition](faq/other-questions/bedrock.md)
   * [OP Tools](faq/other-questions/op-tools.md)
 * [Common Errors](faq/errors/README.md)
-  * [JSONRead](faq/errors/json.md)
+  * [JSON Read](faq/errors/json.md)
 * [Making a server](faq/making-a-server/README.md)
   * [Planning it out](faq/making-a-server/servermaking.md)
 
