@@ -3,6 +3,7 @@
 * [Minehut.xyz](README.md)
 * [Discord](https://discord.gg/TYhH5bK)
 * [Contribute](contribute.md)
+* [Plugins](plugins.md)
 * [Partners](partners.md)
 * [API Documenation](api.md)
 
