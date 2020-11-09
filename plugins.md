@@ -8,17 +8,13 @@ description: Full Minehut Plugin List [last updated 9/11/20].
 **Use `CTRL-F` to search for a specific plugin.**
 {% endhint %}
 
-Python 3.8.0 (tags/v3.8.0:fa919fd, Oct 14 2019, 19:21:23) [MSC v.1916 32 bit (Intel)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> 
-== RESTART: C:\Users\adamm\AppData\Local\Programs\Python\Python38-32\mhapi.py ==
 {% hint style="success" %} **Name** Buycraft (Tebex)
 
 **Description** Set up automatic stores for your server.
 
 **Version** 12.0.6
 
-[Search Site](https://minehut.xyz/?q=Buycraft (Tebex))){% endhint %}
+[Search Site](https://minehut.xyz/?q=Buycraft Tebex){% endhint %}
 
 {% hint style="success" %} **Name** WorldGuard
 
@@ -26,7 +22,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 7.0.5-2079
 
-[Search Site](https://minehut.xyz/?q=WorldGuard)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WorldGuard){% endhint %}
 
 {% hint style="success" %} **Name** ProtocolSupport
 
@@ -34,7 +30,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16.4-2-dev
 
-[Search Site](https://minehut.xyz/?q=ProtocolSupport)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ProtocolSupport){% endhint %}
 
 {% hint style="success" %} **Name** Seasons
 
@@ -42,7 +38,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.3
 
-[Search Site](https://minehut.xyz/?q=Seasons)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Seasons){% endhint %}
 
 {% hint style="success" %} **Name** TownyChat
 
@@ -50,7 +46,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.81
 
-[Search Site](https://minehut.xyz/?q=TownyChat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TownyChat){% endhint %}
 
 {% hint style="success" %} **Name** Create Your Own Menus
 
@@ -58,7 +54,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.5.12
 
-[Search Site](https://minehut.xyz/?q=Create Your Own Menus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Create Your Own Menus){% endhint %}
 
 {% hint style="success" %} **Name** InstantRespawn
 
@@ -66,7 +62,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.5
 
-[Search Site](https://minehut.xyz/?q=InstantRespawn)){% endhint %}
+[Search Site](https://minehut.xyz/?q=InstantRespawn){% endhint %}
 
 {% hint style="success" %} **Name** DiscordSRV
 
@@ -74,7 +70,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.20.0
 
-[Search Site](https://minehut.xyz/?q=DiscordSRV)){% endhint %}
+[Search Site](https://minehut.xyz/?q=DiscordSRV){% endhint %}
 
 {% hint style="success" %} **Name** Ender Containers
 
@@ -82,7 +78,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.0
 
-[Search Site](https://minehut.xyz/?q=Ender Containers)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Ender Containers){% endhint %}
 
 {% hint style="success" %} **Name** Custom Heads
 
@@ -90,7 +86,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0.2
 
-[Search Site](https://minehut.xyz/?q=Custom Heads)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Custom Heads){% endhint %}
 
 {% hint style="success" %} **Name** KitPvP
 
@@ -98,7 +94,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.2
 
-[Search Site](https://minehut.xyz/?q=KitPvP)){% endhint %}
+[Search Site](https://minehut.xyz/?q=KitPvP){% endhint %}
 
 {% hint style="success" %} **Name** Chest Commands
 
@@ -106,7 +102,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.0.2
 
-[Search Site](https://minehut.xyz/?q=Chest Commands)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Chest Commands){% endhint %}
 
 {% hint style="success" %} **Name** CraftBook
 
@@ -114,7 +110,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.10.3-4667
 
-[Search Site](https://minehut.xyz/?q=CraftBook)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CraftBook){% endhint %}
 
 {% hint style="success" %} **Name** Custom Durability
 
@@ -122,7 +118,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** Build 3
 
-[Search Site](https://minehut.xyz/?q=Custom Durability)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Custom Durability){% endhint %}
 
 {% hint style="success" %} **Name** Pet Master
 
@@ -130,7 +126,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.10.2
 
-[Search Site](https://minehut.xyz/?q=Pet Master)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Pet Master){% endhint %}
 
 {% hint style="success" %} **Name** Whitelist GUI
 
@@ -138,7 +134,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.1b
 
-[Search Site](https://minehut.xyz/?q=Whitelist GUI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Whitelist GUI){% endhint %}
 
 {% hint style="success" %} **Name** GreatKits
 
@@ -146,7 +142,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.9.0
 
-[Search Site](https://minehut.xyz/?q=GreatKits)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GreatKits){% endhint %}
 
 {% hint style="success" %} **Name** BKCommonLib
 
@@ -154,7 +150,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16.4-v1
 
-[Search Site](https://minehut.xyz/?q=BKCommonLib)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BKCommonLib){% endhint %}
 
 {% hint style="success" %} **Name** Item2Chat
 
@@ -162,7 +158,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.0.0
 
-[Search Site](https://minehut.xyz/?q=Item2Chat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Item2Chat){% endhint %}
 
 {% hint style="success" %} **Name** SuperAntiWDL
 
@@ -170,7 +166,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.7
 
-[Search Site](https://minehut.xyz/?q=SuperAntiWDL)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SuperAntiWDL){% endhint %}
 
 {% hint style="success" %} **Name** Crate Reloaded
 
@@ -178,7 +174,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.22
 
-[Search Site](https://minehut.xyz/?q=Crate Reloaded)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Crate Reloaded){% endhint %}
 
 {% hint style="success" %} **Name** GemsEconomy
 
@@ -186,7 +182,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.9
 
-[Search Site](https://minehut.xyz/?q=GemsEconomy)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GemsEconomy){% endhint %}
 
 {% hint style="success" %} **Name** MoneyNote
 
@@ -194,7 +190,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3.3
 
-[Search Site](https://minehut.xyz/?q=MoneyNote)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MoneyNote){% endhint %}
 
 {% hint style="success" %} **Name** HebrewFix
 
@@ -202,7 +198,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.5
 
-[Search Site](https://minehut.xyz/?q=HebrewFix)){% endhint %}
+[Search Site](https://minehut.xyz/?q=HebrewFix){% endhint %}
 
 {% hint style="success" %} **Name** Advanced Slabs
 
@@ -210,7 +206,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.10.1-SNAPSHOT
 
-[Search Site](https://minehut.xyz/?q=Advanced Slabs)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Advanced Slabs){% endhint %}
 
 {% hint style="success" %} **Name** EssentialsChat
 
@@ -218,7 +214,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.18.1.31
 
-[Search Site](https://minehut.xyz/?q=EssentialsChat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EssentialsChat){% endhint %}
 
 {% hint style="success" %} **Name** Skript
 
@@ -226,7 +222,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.5
 
-[Search Site](https://minehut.xyz/?q=Skript)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript){% endhint %}
 
 {% hint style="success" %} **Name** OldCombatMechanics (1.8 PvP)
 
@@ -234,7 +230,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.8.1
 
-[Search Site](https://minehut.xyz/?q=OldCombatMechanics (1.8 PvP))){% endhint %}
+[Search Site](https://minehut.xyz/?q=OldCombatMechanics 1.8 PvP){% endhint %}
 
 {% hint style="success" %} **Name** Group Manager
 
@@ -242,7 +238,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3
 
-[Search Site](https://minehut.xyz/?q=Group Manager)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Group Manager){% endhint %}
 
 {% hint style="success" %} **Name** Multiverse Portals
 
@@ -250,7 +246,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.2.0
 
-[Search Site](https://minehut.xyz/?q=Multiverse Portals)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Multiverse Portals){% endhint %}
 
 {% hint style="success" %} **Name** Prison
 
@@ -258,7 +254,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.2.1
 
-[Search Site](https://minehut.xyz/?q=Prison)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Prison){% endhint %}
 
 {% hint style="success" %} **Name** CooldownsX (previously EnderPearl Cooldown)
 
@@ -266,7 +262,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0.1
 
-[Search Site](https://minehut.xyz/?q=CooldownsX (previously EnderPearl Cooldown))){% endhint %}
+[Search Site](https://minehut.xyz/?q=CooldownsX previously EnderPearl Cooldown){% endhint %}
 
 {% hint style="success" %} **Name** PacketListenerAPI
 
@@ -274,7 +270,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.7.8
 
-[Search Site](https://minehut.xyz/?q=PacketListenerAPI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PacketListenerAPI){% endhint %}
 
 {% hint style="success" %} **Name** UhcCore
 
@@ -282,7 +278,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.17.3
 
-[Search Site](https://minehut.xyz/?q=UhcCore)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UhcCore){% endhint %}
 
 {% hint style="success" %} **Name** Ultimate Vote
 
@@ -290,7 +286,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.2
 
-[Search Site](https://minehut.xyz/?q=Ultimate Vote)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Ultimate Vote){% endhint %}
 
 {% hint style="success" %} **Name** NyaaCore
 
@@ -298,7 +294,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 7.1.350
 
-[Search Site](https://minehut.xyz/?q=NyaaCore)){% endhint %}
+[Search Site](https://minehut.xyz/?q=NyaaCore){% endhint %}
 
 {% hint style="success" %} **Name** NBT API
 
@@ -306,7 +302,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.6.0
 
-[Search Site](https://minehut.xyz/?q=NBT API)){% endhint %}
+[Search Site](https://minehut.xyz/?q=NBT API){% endhint %}
 
 {% hint style="success" %} **Name** GSit
 
@@ -314,7 +310,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.6.4.0
 
-[Search Site](https://minehut.xyz/?q=GSit)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GSit){% endhint %}
 
 {% hint style="success" %} **Name** PickupSpawners
 
@@ -322,7 +318,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.9.7-1
 
-[Search Site](https://minehut.xyz/?q=PickupSpawners)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PickupSpawners){% endhint %}
 
 {% hint style="success" %} **Name** PVPControl
 
@@ -330,7 +326,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.2
 
-[Search Site](https://minehut.xyz/?q=PVPControl)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PVPControl){% endhint %}
 
 {% hint style="success" %} **Name** Arconix
 
@@ -338,7 +334,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** Build-139120668
 
-[Search Site](https://minehut.xyz/?q=Arconix)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Arconix){% endhint %}
 
 {% hint style="success" %} **Name** Custom Jumppads
 
@@ -346,7 +342,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.24.21
 
-[Search Site](https://minehut.xyz/?q=Custom Jumppads)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Custom Jumppads){% endhint %}
 
 {% hint style="success" %} **Name** Realistic Swimming
 
@@ -354,7 +350,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** v1.20.0-BETA
 
-[Search Site](https://minehut.xyz/?q=Realistic Swimming)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Realistic Swimming){% endhint %}
 
 {% hint style="success" %} **Name** UltraRepair
 
@@ -362,7 +358,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0.1
 
-[Search Site](https://minehut.xyz/?q=UltraRepair)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltraRepair){% endhint %}
 
 {% hint style="success" %} **Name** Inventory Rollback
 
@@ -370,7 +366,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.0
 
-[Search Site](https://minehut.xyz/?q=Inventory Rollback)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Inventory Rollback){% endhint %}
 
 {% hint style="success" %} **Name** MineableSpawners
 
@@ -378,7 +374,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0.11
 
-[Search Site](https://minehut.xyz/?q=MineableSpawners)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MineableSpawners){% endhint %}
 
 {% hint style="success" %} **Name** OCMFixer
 
@@ -386,7 +382,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.1
 
-[Search Site](https://minehut.xyz/?q=OCMFixer)){% endhint %}
+[Search Site](https://minehut.xyz/?q=OCMFixer){% endhint %}
 
 {% hint style="success" %} **Name** QuickClose
 
@@ -394,7 +390,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.9
 
-[Search Site](https://minehut.xyz/?q=QuickClose)){% endhint %}
+[Search Site](https://minehut.xyz/?q=QuickClose){% endhint %}
 
 {% hint style="success" %} **Name** BadlionClientModAPI
 
@@ -402,7 +398,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.0
 
-[Search Site](https://minehut.xyz/?q=BadlionClientModAPI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BadlionClientModAPI){% endhint %}
 
 {% hint style="success" %} **Name** UltimateClaims
 
@@ -410,7 +406,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.4
 
-[Search Site](https://minehut.xyz/?q=UltimateClaims)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateClaims){% endhint %}
 
 {% hint style="success" %} **Name** MinecraftBut
 
@@ -418,7 +414,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7
 
-[Search Site](https://minehut.xyz/?q=MinecraftBut)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MinecraftBut){% endhint %}
 
 {% hint style="success" %} **Name** BentoBox Addon: Warps
 
@@ -426,7 +422,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.10.0
 
-[Search Site](https://minehut.xyz/?q=BentoBox Addon: Warps)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BentoBox Addon: Warps){% endhint %}
 
 {% hint style="success" %} **Name** GriefPrevention
 
@@ -434,7 +430,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 16.12.0
 
-[Search Site](https://minehut.xyz/?q=GriefPrevention)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GriefPrevention){% endhint %}
 
 {% hint style="success" %} **Name** Lockette
 
@@ -442,7 +438,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** NyaaCatFork-2.9.3
 
-[Search Site](https://minehut.xyz/?q=Lockette)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Lockette){% endhint %}
 
 {% hint style="success" %} **Name** Project Korra
 
@@ -450,7 +446,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.9.0
 
-[Search Site](https://minehut.xyz/?q=Project Korra)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Project Korra){% endhint %}
 
 {% hint style="success" %} **Name** Slimefun: ExoticGarden
 
@@ -458,7 +454,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 56
 
-[Search Site](https://minehut.xyz/?q=Slimefun: ExoticGarden)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Slimefun: ExoticGarden){% endhint %}
 
 {% hint style="success" %} **Name** CrackShot (Guns)
 
@@ -466,7 +462,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.98.9
 
-[Search Site](https://minehut.xyz/?q=CrackShot (Guns))){% endhint %}
+[Search Site](https://minehut.xyz/?q=CrackShot Guns){% endhint %}
 
 {% hint style="success" %} **Name** Per World Inventory
 
@@ -474,7 +470,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.2
 
-[Search Site](https://minehut.xyz/?q=Per World Inventory)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Per World Inventory){% endhint %}
 
 {% hint style="success" %} **Name** Crazy Crates
 
@@ -482,7 +478,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.10.1-SNAPSHOT-Build#89
 
-[Search Site](https://minehut.xyz/?q=Crazy Crates)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Crazy Crates){% endhint %}
 
 {% hint style="success" %} **Name** MyPet
 
@@ -490,7 +486,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.11-SNAPSHOT-B1574
 
-[Search Site](https://minehut.xyz/?q=MyPet)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MyPet){% endhint %}
 
 {% hint style="success" %} **Name** Telegram Chat
 
@@ -498,7 +494,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.14
 
-[Search Site](https://minehut.xyz/?q=Telegram Chat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Telegram Chat){% endhint %}
 
 {% hint style="success" %} **Name** Coins
 
@@ -506,7 +502,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.2
 
-[Search Site](https://minehut.xyz/?q=Coins)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Coins){% endhint %}
 
 {% hint style="success" %} **Name** StoneTreasures
 
@@ -514,7 +510,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.8.0
 
-[Search Site](https://minehut.xyz/?q=StoneTreasures)){% endhint %}
+[Search Site](https://minehut.xyz/?q=StoneTreasures){% endhint %}
 
 {% hint style="success" %} **Name** Parties
 
@@ -522,7 +518,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.6.14
 
-[Search Site](https://minehut.xyz/?q=Parties)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Parties){% endhint %}
 
 {% hint style="success" %} **Name** HolographicMenus
 
@@ -530,7 +526,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0
 
-[Search Site](https://minehut.xyz/?q=HolographicMenus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=HolographicMenus){% endhint %}
 
 {% hint style="success" %} **Name** MCJukebox
 
@@ -538,7 +534,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.6.6
 
-[Search Site](https://minehut.xyz/?q=MCJukebox)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MCJukebox){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: Facsk
 
@@ -546,7 +542,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.1
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: Facsk)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: Facsk){% endhint %}
 
 {% hint style="success" %} **Name** Simple Color Chat
 
@@ -554,7 +550,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1
 
-[Search Site](https://minehut.xyz/?q=Simple Color Chat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Simple Color Chat){% endhint %}
 
 {% hint style="success" %} **Name** ProtocolSupportLegacyChest
 
@@ -562,7 +558,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7
 
-[Search Site](https://minehut.xyz/?q=ProtocolSupportLegacyChest)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ProtocolSupportLegacyChest){% endhint %}
 
 {% hint style="success" %} **Name** MaxBans Plus
 
@@ -570,7 +566,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0
 
-[Search Site](https://minehut.xyz/?q=MaxBans Plus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MaxBans Plus){% endhint %}
 
 {% hint style="success" %} **Name** KiteBoard (Premium)
 
@@ -578,7 +574,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.2.2
 
-[Search Site](https://minehut.xyz/?q=KiteBoard (Premium))){% endhint %}
+[Search Site](https://minehut.xyz/?q=KiteBoard Premium){% endhint %}
 
 {% hint style="success" %} **Name** Player Report
 
@@ -586,7 +582,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3.5
 
-[Search Site](https://minehut.xyz/?q=Player Report)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Player Report){% endhint %}
 
 {% hint style="success" %} **Name** CustomCrafting
 
@@ -594,7 +590,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.4.0
 
-[Search Site](https://minehut.xyz/?q=CustomCrafting)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CustomCrafting){% endhint %}
 
 {% hint style="success" %} **Name** ChatReaction
 
@@ -602,7 +598,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.8.0
 
-[Search Site](https://minehut.xyz/?q=ChatReaction)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ChatReaction){% endhint %}
 
 {% hint style="success" %} **Name** BetterSleeping
 
@@ -610,7 +606,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0.4
 
-[Search Site](https://minehut.xyz/?q=BetterSleeping)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BetterSleeping){% endhint %}
 
 {% hint style="success" %} **Name** Multiverse-Inventories
 
@@ -618,7 +614,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.2.1
 
-[Search Site](https://minehut.xyz/?q=Multiverse-Inventories)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Multiverse-Inventories){% endhint %}
 
 {% hint style="success" %} **Name** Custom Ore Generator
 
@@ -626,7 +622,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2019.12.15
 
-[Search Site](https://minehut.xyz/?q=Custom Ore Generator)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Custom Ore Generator){% endhint %}
 
 {% hint style="success" %} **Name** TAB REBORN
 
@@ -634,7 +630,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.8.8
 
-[Search Site](https://minehut.xyz/?q=TAB REBORN)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TAB REBORN){% endhint %}
 
 {% hint style="success" %} **Name** Towny
 
@@ -642,7 +638,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.96.3.0
 
-[Search Site](https://minehut.xyz/?q=Towny)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Towny){% endhint %}
 
 {% hint style="success" %} **Name** Multiverse Sign Portals
 
@@ -650,7 +646,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.2.0
 
-[Search Site](https://minehut.xyz/?q=Multiverse Sign Portals)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Multiverse Sign Portals){% endhint %}
 
 {% hint style="success" %} **Name** SuperTrails
 
@@ -658,7 +654,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 9.9
 
-[Search Site](https://minehut.xyz/?q=SuperTrails)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SuperTrails){% endhint %}
 
 {% hint style="success" %} **Name** RPGItems
 
@@ -666,7 +662,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.8-95
 
-[Search Site](https://minehut.xyz/?q=RPGItems)){% endhint %}
+[Search Site](https://minehut.xyz/?q=RPGItems){% endhint %}
 
 {% hint style="success" %} **Name** GroupManager PEX
 
@@ -674,7 +670,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6
 
-[Search Site](https://minehut.xyz/?q=GroupManager PEX)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GroupManager PEX){% endhint %}
 
 {% hint style="success" %} **Name** SuperVanish
 
@@ -682,7 +678,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.2.0
 
-[Search Site](https://minehut.xyz/?q=SuperVanish)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SuperVanish){% endhint %}
 
 {% hint style="success" %} **Name** Crazy Enchantments
 
@@ -690,7 +686,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.8-Dev-Build-v8.1-SNAPSHOT-Build#152
 
-[Search Site](https://minehut.xyz/?q=Crazy Enchantments)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Crazy Enchantments){% endhint %}
 
 {% hint style="success" %} **Name** Residence
 
@@ -698,7 +694,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.9.2.0
 
-[Search Site](https://minehut.xyz/?q=Residence)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Residence){% endhint %}
 
 {% hint style="success" %} **Name** CombatLogX
 
@@ -706,7 +702,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 10.3.2.0
 
-[Search Site](https://minehut.xyz/?q=CombatLogX)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CombatLogX){% endhint %}
 
 {% hint style="success" %} **Name** Dream Fish
 
@@ -714,7 +710,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.4.6
 
-[Search Site](https://minehut.xyz/?q=Dream Fish)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Dream Fish){% endhint %}
 
 {% hint style="success" %} **Name** PrisonRanksX
 
@@ -722,7 +718,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.7f
 
-[Search Site](https://minehut.xyz/?q=PrisonRanksX)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PrisonRanksX){% endhint %}
 
 {% hint style="success" %} **Name** Dangerous Caves
 
@@ -730,7 +726,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 18
 
-[Search Site](https://minehut.xyz/?q=Dangerous Caves)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Dangerous Caves){% endhint %}
 
 {% hint style="success" %} **Name** Factions Blue
 
@@ -738,7 +734,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.6 STABLE
 
-[Search Site](https://minehut.xyz/?q=Factions Blue)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Factions Blue){% endhint %}
 
 {% hint style="success" %} **Name** Horizon (Powerful Cheat Detection)
 
@@ -746,7 +742,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.6-Hotfix#8
 
-[Search Site](https://minehut.xyz/?q=Horizon (Powerful Cheat Detection))){% endhint %}
+[Search Site](https://minehut.xyz/?q=Horizon Powerful Cheat Detection){% endhint %}
 
 {% hint style="success" %} **Name** Additions (Custom Commands, Menus & Scoreboards)
 
@@ -754,7 +750,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.9.0
 
-[Search Site](https://minehut.xyz/?q=Additions (Custom Commands, Menus & Scoreboards))){% endhint %}
+[Search Site](https://minehut.xyz/?q=Additions Custom Commands, Menus & Scoreboards){% endhint %}
 
 {% hint style="success" %} **Name** EpicRename
 
@@ -762,7 +758,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.9
 
-[Search Site](https://minehut.xyz/?q=EpicRename)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EpicRename){% endhint %}
 
 {% hint style="success" %} **Name** DeluxeChat (Premium)
 
@@ -770,7 +766,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16.1-dev
 
-[Search Site](https://minehut.xyz/?q=DeluxeChat (Premium))){% endhint %}
+[Search Site](https://minehut.xyz/?q=DeluxeChat Premium){% endhint %}
 
 {% hint style="success" %} **Name** Ultra Chat
 
@@ -778,7 +774,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.5
 
-[Search Site](https://minehut.xyz/?q=Ultra Chat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Ultra Chat){% endhint %}
 
 {% hint style="success" %} **Name** AntiBot
 
@@ -786,7 +782,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3
 
-[Search Site](https://minehut.xyz/?q=AntiBot)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AntiBot){% endhint %}
 
 {% hint style="success" %} **Name** Experience Plus
 
@@ -794,7 +790,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** R1.2
 
-[Search Site](https://minehut.xyz/?q=Experience Plus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Experience Plus){% endhint %}
 
 {% hint style="success" %} **Name** PWarp (Warps for Players)
 
@@ -802,7 +798,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 7.2
 
-[Search Site](https://minehut.xyz/?q=PWarp (Warps for Players))){% endhint %}
+[Search Site](https://minehut.xyz/?q=PWarp Warps for Players){% endhint %}
 
 {% hint style="success" %} **Name** AdvancedHelp
 
@@ -810,7 +806,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.11.6
 
-[Search Site](https://minehut.xyz/?q=AdvancedHelp)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AdvancedHelp){% endhint %}
 
 {% hint style="success" %} **Name** BloodEffects
 
@@ -818,7 +814,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7
 
-[Search Site](https://minehut.xyz/?q=BloodEffects)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BloodEffects){% endhint %}
 
 {% hint style="success" %} **Name** LWC Extended
 
@@ -826,7 +822,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.2.6
 
-[Search Site](https://minehut.xyz/?q=LWC Extended)){% endhint %}
+[Search Site](https://minehut.xyz/?q=LWC Extended){% endhint %}
 
 {% hint style="success" %} **Name** EmojiChat
 
@@ -834,7 +830,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.8.3
 
-[Search Site](https://minehut.xyz/?q=EmojiChat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EmojiChat){% endhint %}
 
 {% hint style="success" %} **Name** FastAsyncWorldEdit
 
@@ -842,7 +838,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16-434
 
-[Search Site](https://minehut.xyz/?q=FastAsyncWorldEdit)){% endhint %}
+[Search Site](https://minehut.xyz/?q=FastAsyncWorldEdit){% endhint %}
 
 {% hint style="success" %} **Name** goBrush
 
@@ -850,7 +846,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3.25
 
-[Search Site](https://minehut.xyz/?q=goBrush)){% endhint %}
+[Search Site](https://minehut.xyz/?q=goBrush){% endhint %}
 
 {% hint style="success" %} **Name** USkyWars
 
@@ -858,7 +854,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.10.0
 
-[Search Site](https://minehut.xyz/?q=USkyWars)){% endhint %}
+[Search Site](https://minehut.xyz/?q=USkyWars){% endhint %}
 
 {% hint style="success" %} **Name** MineResetLite
 
@@ -866,7 +862,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.3.4-VK
 
-[Search Site](https://minehut.xyz/?q=MineResetLite)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MineResetLite){% endhint %}
 
 {% hint style="success" %} **Name** CustomOreGen
 
@@ -874,7 +870,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3.30
 
-[Search Site](https://minehut.xyz/?q=CustomOreGen)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CustomOreGen){% endhint %}
 
 {% hint style="success" %} **Name** StackMob
 
@@ -882,7 +878,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.3.6
 
-[Search Site](https://minehut.xyz/?q=StackMob)){% endhint %}
+[Search Site](https://minehut.xyz/?q=StackMob){% endhint %}
 
 {% hint style="success" %} **Name** LuckPerms
 
@@ -890,7 +886,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.1.26
 
-[Search Site](https://minehut.xyz/?q=LuckPerms)){% endhint %}
+[Search Site](https://minehut.xyz/?q=LuckPerms){% endhint %}
 
 {% hint style="success" %} **Name** TrollCommands++
 
@@ -898,7 +894,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** Commit-0d02e2f
 
-[Search Site](https://minehut.xyz/?q=TrollCommands++)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TrollCommands++){% endhint %}
 
 {% hint style="success" %} **Name** MobHunting
 
@@ -906,7 +902,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 7.0.8
 
-[Search Site](https://minehut.xyz/?q=MobHunting)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MobHunting){% endhint %}
 
 {% hint style="success" %} **Name** MapManager
 
@@ -914,7 +910,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7.9
 
-[Search Site](https://minehut.xyz/?q=MapManager)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MapManager){% endhint %}
 
 {% hint style="success" %} **Name** Shop
 
@@ -922,7 +918,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.5.0
 
-[Search Site](https://minehut.xyz/?q=Shop)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Shop){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: Skript-JSON
 
@@ -930,7 +926,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.0
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: Skript-JSON)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: Skript-JSON){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: Vixio
 
@@ -938,7 +934,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.7
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: Vixio)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: Vixio){% endhint %}
 
 {% hint style="success" %} **Name** Scoreboard
 
@@ -946,7 +942,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** R3 1.4.2 RELEASE
 
-[Search Site](https://minehut.xyz/?q=Scoreboard)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Scoreboard){% endhint %}
 
 {% hint style="success" %} **Name** Guilds
 
@@ -954,7 +950,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.5.5.5
 
-[Search Site](https://minehut.xyz/?q=Guilds)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Guilds){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: Sk-Perm
 
@@ -962,7 +958,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.0
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: Sk-Perm)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: Sk-Perm){% endhint %}
 
 {% hint style="success" %} **Name** BentoBox Addon: Acid Island
 
@@ -970,7 +966,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.14.2
 
-[Search Site](https://minehut.xyz/?q=BentoBox Addon: Acid Island)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BentoBox Addon: Acid Island){% endhint %}
 
 {% hint style="success" %} **Name** Auto Selling Chest
 
@@ -978,7 +974,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1
 
-[Search Site](https://minehut.xyz/?q=Auto Selling Chest)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Auto Selling Chest){% endhint %}
 
 {% hint style="success" %} **Name** WordGames+
 
@@ -986,7 +982,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4
 
-[Search Site](https://minehut.xyz/?q=WordGames+)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WordGames+){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: SkVault
 
@@ -994,7 +990,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: SkVault)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: SkVault){% endhint %}
 
 {% hint style="success" %} **Name** Simple Portals
 
@@ -1002,7 +998,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.5.1
 
-[Search Site](https://minehut.xyz/?q=Simple Portals)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Simple Portals){% endhint %}
 
 {% hint style="success" %} **Name** TokenManager
 
@@ -1010,7 +1006,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.2.5
 
-[Search Site](https://minehut.xyz/?q=TokenManager)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TokenManager){% endhint %}
 
 {% hint style="success" %} **Name** Holograms
 
@@ -1018,7 +1014,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.12
 
-[Search Site](https://minehut.xyz/?q=Holograms)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Holograms){% endhint %}
 
 {% hint style="success" %} **Name** Emerald Tools
 
@@ -1026,7 +1022,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.15a
 
-[Search Site](https://minehut.xyz/?q=Emerald Tools)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Emerald Tools){% endhint %}
 
 {% hint style="success" %} **Name** EssentialsProtect
 
@@ -1034,7 +1030,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.18.1.31
 
-[Search Site](https://minehut.xyz/?q=EssentialsProtect)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EssentialsProtect){% endhint %}
 
 {% hint style="success" %} **Name** InventoryFull+
 
@@ -1042,7 +1038,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.5.8
 
-[Search Site](https://minehut.xyz/?q=InventoryFull+)){% endhint %}
+[Search Site](https://minehut.xyz/?q=InventoryFull+){% endhint %}
 
 {% hint style="success" %} **Name** PlayTimes
 
@@ -1050,7 +1046,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.15
 
-[Search Site](https://minehut.xyz/?q=PlayTimes)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PlayTimes){% endhint %}
 
 {% hint style="success" %} **Name** ActionBarHealth
 
@@ -1058,7 +1054,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.5.2
 
-[Search Site](https://minehut.xyz/?q=ActionBarHealth)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ActionBarHealth){% endhint %}
 
 {% hint style="success" %} **Name** Plugin Library
 
@@ -1066,7 +1062,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.3
 
-[Search Site](https://minehut.xyz/?q=Plugin Library)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Plugin Library){% endhint %}
 
 {% hint style="success" %} **Name** FastLeafDecay
 
@@ -1074,7 +1070,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0
 
-[Search Site](https://minehut.xyz/?q=FastLeafDecay)){% endhint %}
+[Search Site](https://minehut.xyz/?q=FastLeafDecay){% endhint %}
 
 {% hint style="success" %} **Name** Red Protect
 
@@ -1082,7 +1078,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 7.6.7
 
-[Search Site](https://minehut.xyz/?q=Red Protect)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Red Protect){% endhint %}
 
 {% hint style="success" %} **Name** ChestShop
 
@@ -1090,7 +1086,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.11
 
-[Search Site](https://minehut.xyz/?q=ChestShop)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ChestShop){% endhint %}
 
 {% hint style="success" %} **Name** Voxel Sniper
 
@@ -1098,7 +1094,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.172.0
 
-[Search Site](https://minehut.xyz/?q=Voxel Sniper)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Voxel Sniper){% endhint %}
 
 {% hint style="success" %} **Name** Orebfuscator
 
@@ -1106,7 +1102,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.4.3
 
-[Search Site](https://minehut.xyz/?q=Orebfuscator)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Orebfuscator){% endhint %}
 
 {% hint style="success" %} **Name** Area Shop
 
@@ -1114,7 +1110,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.6.0
 
-[Search Site](https://minehut.xyz/?q=Area Shop)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Area Shop){% endhint %}
 
 {% hint style="success" %} **Name** Sell Wands
 
@@ -1122,7 +1118,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.2
 
-[Search Site](https://minehut.xyz/?q=Sell Wands)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Sell Wands){% endhint %}
 
 {% hint style="success" %} **Name** AnimatedFrames
 
@@ -1130,7 +1126,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.12.0
 
-[Search Site](https://minehut.xyz/?q=AnimatedFrames)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AnimatedFrames){% endhint %}
 
 {% hint style="success" %} **Name** Time is Money
 
@@ -1138,7 +1134,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.9.6.18
 
-[Search Site](https://minehut.xyz/?q=Time is Money)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Time is Money){% endhint %}
 
 {% hint style="success" %} **Name** GUIShop
 
@@ -1146,7 +1142,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 8.1
 
-[Search Site](https://minehut.xyz/?q=GUIShop)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GUIShop){% endhint %}
 
 {% hint style="success" %} **Name** HolographicExtension
 
@@ -1154,7 +1150,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.10.9
 
-[Search Site](https://minehut.xyz/?q=HolographicExtension)){% endhint %}
+[Search Site](https://minehut.xyz/?q=HolographicExtension){% endhint %}
 
 {% hint style="success" %} **Name** CommandPrompter
 
@@ -1162,7 +1158,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.1.19
 
-[Search Site](https://minehut.xyz/?q=CommandPrompter)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CommandPrompter){% endhint %}
 
 {% hint style="success" %} **Name** GadgetsMenu
 
@@ -1170,7 +1166,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.4.2
 
-[Search Site](https://minehut.xyz/?q=GadgetsMenu)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GadgetsMenu){% endhint %}
 
 {% hint style="success" %} **Name** BentoBox Addon: BSkyblock
 
@@ -1178,7 +1174,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.14.0
 
-[Search Site](https://minehut.xyz/?q=BentoBox Addon: BSkyblock)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BentoBox Addon: BSkyblock){% endhint %}
 
 {% hint style="success" %} **Name** NodeMines
 
@@ -1186,7 +1182,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1
 
-[Search Site](https://minehut.xyz/?q=NodeMines)){% endhint %}
+[Search Site](https://minehut.xyz/?q=NodeMines){% endhint %}
 
 {% hint style="success" %} **Name** UltimateTimber
 
@@ -1194,7 +1190,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.6
 
-[Search Site](https://minehut.xyz/?q=UltimateTimber)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateTimber){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: Tablisknu
 
@@ -1202,7 +1198,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: Tablisknu)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: Tablisknu){% endhint %}
 
 {% hint style="success" %} **Name** UltimateCatcher
 
@@ -1210,7 +1206,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.4
 
-[Search Site](https://minehut.xyz/?q=UltimateCatcher)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateCatcher){% endhint %}
 
 {% hint style="success" %} **Name** nuNPCDestinations
 
@@ -1218,7 +1214,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.4.1
 
-[Search Site](https://minehut.xyz/?q=nuNPCDestinations)){% endhint %}
+[Search Site](https://minehut.xyz/?q=nuNPCDestinations){% endhint %}
 
 {% hint style="success" %} **Name** PhysicsToGo
 
@@ -1226,7 +1222,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.4-C
 
-[Search Site](https://minehut.xyz/?q=PhysicsToGo)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PhysicsToGo){% endhint %}
 
 {% hint style="success" %} **Name** Gravity Tubes
 
@@ -1234,7 +1230,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.10.1
 
-[Search Site](https://minehut.xyz/?q=Gravity Tubes)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Gravity Tubes){% endhint %}
 
 {% hint style="success" %} **Name** AnimatedInventory
 
@@ -1242,7 +1238,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 7.6
 
-[Search Site](https://minehut.xyz/?q=AnimatedInventory)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AnimatedInventory){% endhint %}
 
 {% hint style="success" %} **Name** Advanced Drop Manager
 
@@ -1250,7 +1246,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.8.6
 
-[Search Site](https://minehut.xyz/?q=Advanced Drop Manager)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Advanced Drop Manager){% endhint %}
 
 {% hint style="success" %} **Name** EpicGenders
 
@@ -1258,7 +1254,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.5.1
 
-[Search Site](https://minehut.xyz/?q=EpicGenders)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EpicGenders){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: TuSKe
 
@@ -1266,7 +1262,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.8.3-PikachuPatch-v3
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: TuSKe)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: TuSKe){% endhint %}
 
 {% hint style="success" %} **Name** WorldEdit
 
@@ -1274,7 +1270,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 7.3.0-5491
 
-[Search Site](https://minehut.xyz/?q=WorldEdit)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WorldEdit){% endhint %}
 
 {% hint style="success" %} **Name** Massive Core
 
@@ -1282,7 +1278,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3.0
 
-[Search Site](https://minehut.xyz/?q=Massive Core)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Massive Core){% endhint %}
 
 {% hint style="success" %} **Name** OpenInv
 
@@ -1290,7 +1286,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.1.5
 
-[Search Site](https://minehut.xyz/?q=OpenInv)){% endhint %}
+[Search Site](https://minehut.xyz/?q=OpenInv){% endhint %}
 
 {% hint style="success" %} **Name** ItemJoin
 
@@ -1298,7 +1294,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.1.0
 
-[Search Site](https://minehut.xyz/?q=ItemJoin)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ItemJoin){% endhint %}
 
 {% hint style="success" %} **Name** DeluxeSlime
 
@@ -1306,7 +1302,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.0
 
-[Search Site](https://minehut.xyz/?q=DeluxeSlime)){% endhint %}
+[Search Site](https://minehut.xyz/?q=DeluxeSlime){% endhint %}
 
 {% hint style="success" %} **Name** Languagy
 
@@ -1314,7 +1310,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.2
 
-[Search Site](https://minehut.xyz/?q=Languagy)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Languagy){% endhint %}
 
 {% hint style="success" %} **Name** Matrix AntiCheat
 
@@ -1322,7 +1318,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.3.1_HOTFIX_2
 
-[Search Site](https://minehut.xyz/?q=Matrix AntiCheat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Matrix AntiCheat){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: skript-db
 
@@ -1330,7 +1326,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.0
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: skript-db)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: skript-db){% endhint %}
 
 {% hint style="success" %} **Name** MF Hoppers
 
@@ -1338,7 +1334,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.18
 
-[Search Site](https://minehut.xyz/?q=MF Hoppers)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MF Hoppers){% endhint %}
 
 {% hint style="success" %} **Name** Staff Tools
 
@@ -1346,7 +1342,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3.2
 
-[Search Site](https://minehut.xyz/?q=Staff Tools)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Staff Tools){% endhint %}
 
 {% hint style="success" %} **Name** UltimateChat 2
 
@@ -1354,7 +1350,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.6.0
 
-[Search Site](https://minehut.xyz/?q=UltimateChat 2)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateChat 2){% endhint %}
 
 {% hint style="success" %} **Name** Disease
 
@@ -1362,7 +1358,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3.0
 
-[Search Site](https://minehut.xyz/?q=Disease)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Disease){% endhint %}
 
 {% hint style="success" %} **Name** UltimateKits
 
@@ -1370,7 +1366,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.6.11
 
-[Search Site](https://minehut.xyz/?q=UltimateKits)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateKits){% endhint %}
 
 {% hint style="success" %} **Name** Landlord 2
 
@@ -1378,7 +1374,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.312
 
-[Search Site](https://minehut.xyz/?q=Landlord 2)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Landlord 2){% endhint %}
 
 {% hint style="success" %} **Name** CommandHook
 
@@ -1386,7 +1382,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.6
 
-[Search Site](https://minehut.xyz/?q=CommandHook)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CommandHook){% endhint %}
 
 {% hint style="success" %} **Name** WorldSystem
 
@@ -1394,7 +1390,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.4.11
 
-[Search Site](https://minehut.xyz/?q=WorldSystem)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WorldSystem){% endhint %}
 
 {% hint style="success" %} **Name** Infinity Parkour
 
@@ -1402,7 +1398,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.10
 
-[Search Site](https://minehut.xyz/?q=Infinity Parkour)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Infinity Parkour){% endhint %}
 
 {% hint style="success" %} **Name** MudgeClicker
 
@@ -1410,7 +1406,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.7.8 h3
 
-[Search Site](https://minehut.xyz/?q=MudgeClicker)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MudgeClicker){% endhint %}
 
 {% hint style="success" %} **Name** uSkyBlock
 
@@ -1418,7 +1414,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.8.8
 
-[Search Site](https://minehut.xyz/?q=uSkyBlock)){% endhint %}
+[Search Site](https://minehut.xyz/?q=uSkyBlock){% endhint %}
 
 {% hint style="success" %} **Name** MorphMining
 
@@ -1426,7 +1422,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.1
 
-[Search Site](https://minehut.xyz/?q=MorphMining)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MorphMining){% endhint %}
 
 {% hint style="success" %} **Name** QuickShop Reremake
 
@@ -1434,7 +1430,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.0.4.12
 
-[Search Site](https://minehut.xyz/?q=QuickShop Reremake)){% endhint %}
+[Search Site](https://minehut.xyz/?q=QuickShop Reremake){% endhint %}
 
 {% hint style="success" %} **Name** UltimatePerms
 
@@ -1442,7 +1438,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.1
 
-[Search Site](https://minehut.xyz/?q=UltimatePerms)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimatePerms){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: Misk
 
@@ -1450,7 +1446,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.0
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: Misk)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: Misk){% endhint %}
 
 {% hint style="success" %} **Name** LastHolo
 
@@ -1458,7 +1454,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** Build 51
 
-[Search Site](https://minehut.xyz/?q=LastHolo)){% endhint %}
+[Search Site](https://minehut.xyz/?q=LastHolo){% endhint %}
 
 {% hint style="success" %} **Name** Syntax Blocker
 
@@ -1466,7 +1462,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** R1.2
 
-[Search Site](https://minehut.xyz/?q=Syntax Blocker)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Syntax Blocker){% endhint %}
 
 {% hint style="success" %} **Name** QualityArmory (Guns)
 
@@ -1474,7 +1470,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.176
 
-[Search Site](https://minehut.xyz/?q=QualityArmory (Guns))){% endhint %}
+[Search Site](https://minehut.xyz/?q=QualityArmory Guns){% endhint %}
 
 {% hint style="success" %} **Name** EasterEggs
 
@@ -1482,7 +1478,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.2.0
 
-[Search Site](https://minehut.xyz/?q=EasterEggs)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EasterEggs){% endhint %}
 
 {% hint style="success" %} **Name** GameMode Inventories
 
@@ -1490,7 +1486,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.1
 
-[Search Site](https://minehut.xyz/?q=GameMode Inventories)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GameMode Inventories){% endhint %}
 
 {% hint style="success" %} **Name** Armor Stand Editor
 
@@ -1498,7 +1494,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16-25
 
-[Search Site](https://minehut.xyz/?q=Armor Stand Editor)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Armor Stand Editor){% endhint %}
 
 {% hint style="success" %} **Name** ViaVersion
 
@@ -1506,7 +1502,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.2.0
 
-[Search Site](https://minehut.xyz/?q=ViaVersion)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ViaVersion){% endhint %}
 
 {% hint style="success" %} **Name** Permissions Ex
 
@@ -1514,7 +1510,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.23.4
 
-[Search Site](https://minehut.xyz/?q=Permissions Ex)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Permissions Ex){% endhint %}
 
 {% hint style="success" %} **Name** Quests
 
@@ -1522,7 +1518,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.0.0-rc.2
 
-[Search Site](https://minehut.xyz/?q=Quests)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Quests){% endhint %}
 
 {% hint style="success" %} **Name** Minigames
 
@@ -1530,7 +1526,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** Build-300
 
-[Search Site](https://minehut.xyz/?q=Minigames)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Minigames){% endhint %}
 
 {% hint style="success" %} **Name** Crates Plus
 
@@ -1538,7 +1534,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.0
 
-[Search Site](https://minehut.xyz/?q=Crates Plus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Crates Plus){% endhint %}
 
 {% hint style="success" %} **Name** Citizens
 
@@ -1546,7 +1542,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.27-2164
 
-[Search Site](https://minehut.xyz/?q=Citizens)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Citizens){% endhint %}
 
 {% hint style="success" %} **Name** Marriage Master
 
@@ -1554,7 +1550,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.9
 
-[Search Site](https://minehut.xyz/?q=Marriage Master)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Marriage Master){% endhint %}
 
 {% hint style="success" %} **Name** NametagEdit
 
@@ -1562,7 +1558,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** Build-69
 
-[Search Site](https://minehut.xyz/?q=NametagEdit)){% endhint %}
+[Search Site](https://minehut.xyz/?q=NametagEdit){% endhint %}
 
 {% hint style="success" %} **Name** Itemizer
 
@@ -1570,7 +1566,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.6 | Final version
 
-[Search Site](https://minehut.xyz/?q=Itemizer)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Itemizer){% endhint %}
 
 {% hint style="success" %} **Name** Sentinel
 
@@ -1578,7 +1574,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.2.0
 
-[Search Site](https://minehut.xyz/?q=Sentinel)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Sentinel){% endhint %}
 
 {% hint style="success" %} **Name** CraftingStore
 
@@ -1586,7 +1582,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.6.0
 
-[Search Site](https://minehut.xyz/?q=CraftingStore)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CraftingStore){% endhint %}
 
 {% hint style="success" %} **Name** WorldEditSelectionVisualizer
 
@@ -1594,7 +1590,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.6
 
-[Search Site](https://minehut.xyz/?q=WorldEditSelectionVisualizer)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WorldEditSelectionVisualizer){% endhint %}
 
 {% hint style="success" %} **Name** Parkour
 
@@ -1602,7 +1598,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.3
 
-[Search Site](https://minehut.xyz/?q=Parkour)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Parkour){% endhint %}
 
 {% hint style="success" %} **Name** KillerMoney
 
@@ -1610,7 +1606,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.5.0
 
-[Search Site](https://minehut.xyz/?q=KillerMoney)){% endhint %}
+[Search Site](https://minehut.xyz/?q=KillerMoney){% endhint %}
 
 {% hint style="success" %} **Name** GroupManager LP
 
@@ -1618,7 +1614,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.1
 
-[Search Site](https://minehut.xyz/?q=GroupManager LP)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GroupManager LP){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: WolvSK
 
@@ -1626,7 +1622,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.2
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: WolvSK)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: WolvSK){% endhint %}
 
 {% hint style="success" %} **Name** HeadsInventory
 
@@ -1634,7 +1630,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.10.1
 
-[Search Site](https://minehut.xyz/?q=HeadsInventory)){% endhint %}
+[Search Site](https://minehut.xyz/?q=HeadsInventory){% endhint %}
 
 {% hint style="success" %} **Name** Murder Mystery
 
@@ -1642,7 +1638,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.6
 
-[Search Site](https://minehut.xyz/?q=Murder Mystery)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Murder Mystery){% endhint %}
 
 {% hint style="success" %} **Name** SS Dynamic Shop
 
@@ -1650,7 +1646,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.11.1
 
-[Search Site](https://minehut.xyz/?q=SS Dynamic Shop)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SS Dynamic Shop){% endhint %}
 
 {% hint style="success" %} **Name** UltimateRepairing
 
@@ -1658,7 +1654,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3.4
 
-[Search Site](https://minehut.xyz/?q=UltimateRepairing)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateRepairing){% endhint %}
 
 {% hint style="success" %} **Name** Block Particles
 
@@ -1666,7 +1662,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.11.1
 
-[Search Site](https://minehut.xyz/?q=Block Particles)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Block Particles){% endhint %}
 
 {% hint style="success" %} **Name** Ultra Chests (Interactive Rewards)
 
@@ -1674,7 +1670,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.2.4
 
-[Search Site](https://minehut.xyz/?q=Ultra Chests (Interactive Rewards))){% endhint %}
+[Search Site](https://minehut.xyz/?q=Ultra Chests Interactive Rewards){% endhint %}
 
 {% hint style="success" %} **Name** BackToTheRoots (1.8 PvP)
 
@@ -1682,7 +1678,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.13.1
 
-[Search Site](https://minehut.xyz/?q=BackToTheRoots (1.8 PvP))){% endhint %}
+[Search Site](https://minehut.xyz/?q=BackToTheRoots 1.8 PvP){% endhint %}
 
 {% hint style="success" %} **Name** Harbor (Sleep Enhancement)
 
@@ -1690,7 +1686,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.2
 
-[Search Site](https://minehut.xyz/?q=Harbor (Sleep Enhancement))){% endhint %}
+[Search Site](https://minehut.xyz/?q=Harbor Sleep Enhancement){% endhint %}
 
 {% hint style="success" %} **Name** ItemEdit
 
@@ -1698,7 +1694,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3
 
-[Search Site](https://minehut.xyz/?q=ItemEdit)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ItemEdit){% endhint %}
 
 {% hint style="success" %} **Name** KeepChunks
 
@@ -1706,7 +1702,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.7
 
-[Search Site](https://minehut.xyz/?q=KeepChunks)){% endhint %}
+[Search Site](https://minehut.xyz/?q=KeepChunks){% endhint %}
 
 {% hint style="success" %} **Name** No Cheat Plus
 
@@ -1714,7 +1710,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.16.2
 
-[Search Site](https://minehut.xyz/?q=No Cheat Plus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=No Cheat Plus){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: skQuery
 
@@ -1722,7 +1718,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.1.3-MH
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: skQuery)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: skQuery){% endhint %}
 
 {% hint style="success" %} **Name** Builder's Utilities
 
@@ -1730,7 +1726,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.0
 
-[Search Site](https://minehut.xyz/?q=Builder's Utilities)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Builder's Utilities){% endhint %}
 
 {% hint style="success" %} **Name** Multiverse Nether Portals
 
@@ -1738,7 +1734,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.2.1
 
-[Search Site](https://minehut.xyz/?q=Multiverse Nether Portals)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Multiverse Nether Portals){% endhint %}
 
 {% hint style="success" %} **Name** VeinMiner
 
@@ -1746,7 +1742,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16.2
 
-[Search Site](https://minehut.xyz/?q=VeinMiner)){% endhint %}
+[Search Site](https://minehut.xyz/?q=VeinMiner){% endhint %}
 
 {% hint style="success" %} **Name** TARDIS
 
@@ -1754,7 +1750,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2209
 
-[Search Site](https://minehut.xyz/?q=TARDIS)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TARDIS){% endhint %}
 
 {% hint style="success" %} **Name** Slimefun: Lucky Blocks
 
@@ -1762,7 +1758,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 29
 
-[Search Site](https://minehut.xyz/?q=Slimefun: Lucky Blocks)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Slimefun: Lucky Blocks){% endhint %}
 
 {% hint style="success" %} **Name** VentureChat
 
@@ -1770,7 +1766,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.20.2
 
-[Search Site](https://minehut.xyz/?q=VentureChat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=VentureChat){% endhint %}
 
 {% hint style="success" %} **Name** AgarthaLib
 
@@ -1778,7 +1774,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.4.6
 
-[Search Site](https://minehut.xyz/?q=AgarthaLib)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AgarthaLib){% endhint %}
 
 {% hint style="success" %} **Name** Backpack
 
@@ -1786,7 +1782,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3
 
-[Search Site](https://minehut.xyz/?q=Backpack)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Backpack){% endhint %}
 
 {% hint style="success" %} **Name** UltimateTNT
 
@@ -1794,7 +1790,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.11.3
 
-[Search Site](https://minehut.xyz/?q=UltimateTNT)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateTNT){% endhint %}
 
 {% hint style="success" %} **Name** JoinOp
 
@@ -1802,7 +1798,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3
 
-[Search Site](https://minehut.xyz/?q=JoinOp)){% endhint %}
+[Search Site](https://minehut.xyz/?q=JoinOp){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: skLib
 
@@ -1810,7 +1806,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.0
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: skLib)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: skLib){% endhint %}
 
 {% hint style="success" %} **Name** LanguageUtils
 
@@ -1818,7 +1814,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.17
 
-[Search Site](https://minehut.xyz/?q=LanguageUtils)){% endhint %}
+[Search Site](https://minehut.xyz/?q=LanguageUtils){% endhint %}
 
 {% hint style="success" %} **Name** Reports
 
@@ -1826,7 +1822,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.8.2.2
 
-[Search Site](https://minehut.xyz/?q=Reports)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Reports){% endhint %}
 
 {% hint style="success" %} **Name** VoidGenerator
 
@@ -1834,7 +1830,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.2
 
-[Search Site](https://minehut.xyz/?q=VoidGenerator)){% endhint %}
+[Search Site](https://minehut.xyz/?q=VoidGenerator){% endhint %}
 
 {% hint style="success" %} **Name** zPermissions
 
@@ -1842,7 +1838,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.5
 
-[Search Site](https://minehut.xyz/?q=zPermissions)){% endhint %}
+[Search Site](https://minehut.xyz/?q=zPermissions){% endhint %}
 
 {% hint style="success" %} **Name** UltimateModeration
 
@@ -1850,7 +1846,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.3
 
-[Search Site](https://minehut.xyz/?q=UltimateModeration)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateModeration){% endhint %}
 
 {% hint style="success" %} **Name** logCaptcha (Bot protection)
 
@@ -1858,7 +1854,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.12.11
 
-[Search Site](https://minehut.xyz/?q=logCaptcha (Bot protection))){% endhint %}
+[Search Site](https://minehut.xyz/?q=logCaptcha Bot protection){% endhint %}
 
 {% hint style="success" %} **Name** Server Tutorial Plus
 
@@ -1866,7 +1862,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.21.3
 
-[Search Site](https://minehut.xyz/?q=Server Tutorial Plus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Server Tutorial Plus){% endhint %}
 
 {% hint style="success" %} **Name** Simple Elevators
 
@@ -1874,7 +1870,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.10.3
 
-[Search Site](https://minehut.xyz/?q=Simple Elevators)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Simple Elevators){% endhint %}
 
 {% hint style="success" %} **Name** XP Boost
 
@@ -1882,7 +1878,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3.0
 
-[Search Site](https://minehut.xyz/?q=XP Boost)){% endhint %}
+[Search Site](https://minehut.xyz/?q=XP Boost){% endhint %}
 
 {% hint style="success" %} **Name** private
 
@@ -1890,7 +1886,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0
 
-[Search Site](https://minehut.xyz/?q=private)){% endhint %}
+[Search Site](https://minehut.xyz/?q=private){% endhint %}
 
 {% hint style="success" %} **Name** Punishment [MP Style]
 
@@ -1898,7 +1894,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0
 
-[Search Site](https://minehut.xyz/?q=Punishment [MP Style])){% endhint %}
+[Search Site](https://minehut.xyz/?q=Punishment [MP Style]){% endhint %}
 
 {% hint style="success" %} **Name** GPack
 
@@ -1906,7 +1902,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.2.0.0
 
-[Search Site](https://minehut.xyz/?q=GPack)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GPack){% endhint %}
 
 {% hint style="success" %} **Name** DefensiveTurrets
 
@@ -1914,7 +1910,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.14.3
 
-[Search Site](https://minehut.xyz/?q=DefensiveTurrets)){% endhint %}
+[Search Site](https://minehut.xyz/?q=DefensiveTurrets){% endhint %}
 
 {% hint style="success" %} **Name** Hopper Filter
 
@@ -1922,7 +1918,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.5
 
-[Search Site](https://minehut.xyz/?q=Hopper Filter)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Hopper Filter){% endhint %}
 
 {% hint style="success" %} **Name** ajParkour
 
@@ -1930,7 +1926,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.10.6
 
-[Search Site](https://minehut.xyz/?q=ajParkour)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ajParkour){% endhint %}
 
 {% hint style="success" %} **Name** Player Notify
 
@@ -1938,7 +1934,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** R2.1
 
-[Search Site](https://minehut.xyz/?q=Player Notify)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Player Notify){% endhint %}
 
 {% hint style="success" %} **Name** Ultra Cosmetics
 
@@ -1946,7 +1942,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.5.9
 
-[Search Site](https://minehut.xyz/?q=Ultra Cosmetics)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Ultra Cosmetics){% endhint %}
 
 {% hint style="success" %} **Name** Title Welcome Message
 
@@ -1954,7 +1950,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3.3
 
-[Search Site](https://minehut.xyz/?q=Title Welcome Message)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Title Welcome Message){% endhint %}
 
 {% hint style="success" %} **Name** SimpleAPI
 
@@ -1962,7 +1958,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.0
 
-[Search Site](https://minehut.xyz/?q=SimpleAPI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SimpleAPI){% endhint %}
 
 {% hint style="success" %} **Name** ActionAnnouncer
 
@@ -1970,7 +1966,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16.3
 
-[Search Site](https://minehut.xyz/?q=ActionAnnouncer)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ActionAnnouncer){% endhint %}
 
 {% hint style="success" %} **Name** Slimefun
 
@@ -1978,7 +1974,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 640
 
-[Search Site](https://minehut.xyz/?q=Slimefun)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Slimefun){% endhint %}
 
 {% hint style="success" %} **Name** WorldEditSUI
 
@@ -1986,7 +1982,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7.1
 
-[Search Site](https://minehut.xyz/?q=WorldEditSUI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WorldEditSUI){% endhint %}
 
 {% hint style="success" %} **Name** Quickboard
 
@@ -1994,7 +1990,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.4.1
 
-[Search Site](https://minehut.xyz/?q=Quickboard)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Quickboard){% endhint %}
 
 {% hint style="success" %} **Name** Advanced Achievements
 
@@ -2002,7 +1998,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.6.2
 
-[Search Site](https://minehut.xyz/?q=Advanced Achievements)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Advanced Achievements){% endhint %}
 
 {% hint style="success" %} **Name** Telecom
 
@@ -2010,7 +2006,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.1.4
 
-[Search Site](https://minehut.xyz/?q=Telecom)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Telecom){% endhint %}
 
 {% hint style="success" %} **Name** ChangeSkin
 
@@ -2018,7 +2014,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0
 
-[Search Site](https://minehut.xyz/?q=ChangeSkin)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ChangeSkin){% endhint %}
 
 {% hint style="success" %} **Name** Big Doors
 
@@ -2026,7 +2022,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.1.8.27
 
-[Search Site](https://minehut.xyz/?q=Big Doors)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Big Doors){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: MorkazSk
 
@@ -2034,7 +2030,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2-beta2
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: MorkazSk)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: MorkazSk){% endhint %}
 
 {% hint style="success" %} **Name** BookExploitFix
 
@@ -2042,7 +2038,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.15
 
-[Search Site](https://minehut.xyz/?q=BookExploitFix)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BookExploitFix){% endhint %}
 
 {% hint style="success" %} **Name** CommandDoesNotExist
 
@@ -2050,7 +2046,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.4.6
 
-[Search Site](https://minehut.xyz/?q=CommandDoesNotExist)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CommandDoesNotExist){% endhint %}
 
 {% hint style="success" %} **Name** BentoBox
 
@@ -2058,7 +2054,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.15.0
 
-[Search Site](https://minehut.xyz/?q=BentoBox)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BentoBox){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: SkUniversal
 
@@ -2066,7 +2062,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.11.5
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: SkUniversal)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: SkUniversal){% endhint %}
 
 {% hint style="success" %} **Name** TrainCarts
 
@@ -2074,7 +2070,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16.4-v1
 
-[Search Site](https://minehut.xyz/?q=TrainCarts)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TrainCarts){% endhint %}
 
 {% hint style="success" %} **Name** GetSpawners
 
@@ -2082,7 +2078,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.33
 
-[Search Site](https://minehut.xyz/?q=GetSpawners)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GetSpawners){% endhint %}
 
 {% hint style="success" %} **Name** Kit Preview (Essentials)
 
@@ -2090,7 +2086,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2
 
-[Search Site](https://minehut.xyz/?q=Kit Preview (Essentials))){% endhint %}
+[Search Site](https://minehut.xyz/?q=Kit Preview Essentials){% endhint %}
 
 {% hint style="success" %} **Name** EssentialsWarpGUI
 
@@ -2098,7 +2094,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1
 
-[Search Site](https://minehut.xyz/?q=EssentialsWarpGUI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EssentialsWarpGUI){% endhint %}
 
 {% hint style="success" %} **Name** MorphRedeem
 
@@ -2106,7 +2102,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.0
 
-[Search Site](https://minehut.xyz/?q=MorphRedeem)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MorphRedeem){% endhint %}
 
 {% hint style="success" %} **Name** Autorank
 
@@ -2114,7 +2110,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** v4.2.8
 
-[Search Site](https://minehut.xyz/?q=Autorank)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Autorank){% endhint %}
 
 {% hint style="success" %} **Name** BentoBox Addon: Limits
 
@@ -2122,7 +2118,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.14.0
 
-[Search Site](https://minehut.xyz/?q=BentoBox Addon: Limits)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BentoBox Addon: Limits){% endhint %}
 
 {% hint style="success" %} **Name** Phoenix Anti-Cheat
 
@@ -2130,7 +2126,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.0-pre6
 
-[Search Site](https://minehut.xyz/?q=Phoenix Anti-Cheat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Phoenix Anti-Cheat){% endhint %}
 
 {% hint style="success" %} **Name** Libs Disguises
 
@@ -2138,7 +2134,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 10.0.18
 
-[Search Site](https://minehut.xyz/?q=Libs Disguises)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Libs Disguises){% endhint %}
 
 {% hint style="success" %} **Name** UltraBar
 
@@ -2146,7 +2142,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.2.3.1
 
-[Search Site](https://minehut.xyz/?q=UltraBar)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltraBar){% endhint %}
 
 {% hint style="success" %} **Name** PlotSquared
 
@@ -2154,7 +2150,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.494
 
-[Search Site](https://minehut.xyz/?q=PlotSquared)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PlotSquared){% endhint %}
 
 {% hint style="success" %} **Name** PlayerVaultsX
 
@@ -2162,7 +2158,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.1.16
 
-[Search Site](https://minehut.xyz/?q=PlayerVaultsX)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PlayerVaultsX){% endhint %}
 
 {% hint style="success" %} **Name** RandomTP
 
@@ -2170,7 +2166,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.7.2 Beta
 
-[Search Site](https://minehut.xyz/?q=RandomTP)){% endhint %}
+[Search Site](https://minehut.xyz/?q=RandomTP){% endhint %}
 
 {% hint style="success" %} **Name** BountyHunters
 
@@ -2178,7 +2174,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.2.6
 
-[Search Site](https://minehut.xyz/?q=BountyHunters)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BountyHunters){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: GameAPI
 
@@ -2186,7 +2182,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.3
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: GameAPI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: GameAPI){% endhint %}
 
 {% hint style="success" %} **Name** HeadsPlus
 
@@ -2194,7 +2190,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.11.1
 
-[Search Site](https://minehut.xyz/?q=HeadsPlus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=HeadsPlus){% endhint %}
 
 {% hint style="success" %} **Name** TNTRun Reloaded
 
@@ -2202,7 +2198,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 9.5.2
 
-[Search Site](https://minehut.xyz/?q=TNTRun Reloaded)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TNTRun Reloaded){% endhint %}
 
 {% hint style="success" %} **Name** AutoPickup
 
@@ -2210,7 +2206,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.3.0
 
-[Search Site](https://minehut.xyz/?q=AutoPickup)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AutoPickup){% endhint %}
 
 {% hint style="success" %} **Name** Combat Elite
 
@@ -2218,7 +2214,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.1
 
-[Search Site](https://minehut.xyz/?q=Combat Elite)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Combat Elite){% endhint %}
 
 {% hint style="success" %} **Name** UltimateStacker
 
@@ -2226,7 +2222,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.9
 
-[Search Site](https://minehut.xyz/?q=UltimateStacker)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateStacker){% endhint %}
 
 {% hint style="success" %} **Name** Checkpoints (Advanced Parkour System)
 
@@ -2234,7 +2230,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.4.2
 
-[Search Site](https://minehut.xyz/?q=Checkpoints (Advanced Parkour System))){% endhint %}
+[Search Site](https://minehut.xyz/?q=Checkpoints Advanced Parkour System){% endhint %}
 
 {% hint style="success" %} **Name** AuctionHouse
 
@@ -2242,7 +2238,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.12
 
-[Search Site](https://minehut.xyz/?q=AuctionHouse)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AuctionHouse){% endhint %}
 
 {% hint style="success" %} **Name** CorpseReborn
 
@@ -2250,7 +2246,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.14.0
 
-[Search Site](https://minehut.xyz/?q=CorpseReborn)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CorpseReborn){% endhint %}
 
 {% hint style="success" %} **Name** Chat Manager
 
@@ -2258,7 +2254,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.6.8
 
-[Search Site](https://minehut.xyz/?q=Chat Manager)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Chat Manager){% endhint %}
 
 {% hint style="success" %} **Name** Custom EnderChest
 
@@ -2266,7 +2262,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.13.1
 
-[Search Site](https://minehut.xyz/?q=Custom EnderChest)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Custom EnderChest){% endhint %}
 
 {% hint style="success" %} **Name** Ore Control
 
@@ -2274,7 +2270,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2020.09.19
 
-[Search Site](https://minehut.xyz/?q=Ore Control)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Ore Control){% endhint %}
 
 {% hint style="success" %} **Name** EssentialsX
 
@@ -2282,7 +2278,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.18.1.31
 
-[Search Site](https://minehut.xyz/?q=EssentialsX)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EssentialsX){% endhint %}
 
 {% hint style="success" %} **Name** EssentialsSpawn
 
@@ -2290,7 +2286,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.18.1.31
 
-[Search Site](https://minehut.xyz/?q=EssentialsSpawn)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EssentialsSpawn){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: skRayFall
 
@@ -2298,7 +2294,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.9.20
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: skRayFall)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: skRayFall){% endhint %}
 
 {% hint style="success" %} **Name** MC Realistic Plus
 
@@ -2306,7 +2302,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.4
 
-[Search Site](https://minehut.xyz/?q=MC Realistic Plus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MC Realistic Plus){% endhint %}
 
 {% hint style="success" %} **Name** FactionsUUID
 
@@ -2314,7 +2310,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.9.5-U0.5.13-b230
 
-[Search Site](https://minehut.xyz/?q=FactionsUUID)){% endhint %}
+[Search Site](https://minehut.xyz/?q=FactionsUUID){% endhint %}
 
 {% hint style="success" %} **Name** Silk Spawners
 
@@ -2322,7 +2318,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.4.0
 
-[Search Site](https://minehut.xyz/?q=Silk Spawners)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Silk Spawners){% endhint %}
 
 {% hint style="success" %} **Name** ShopKeepers
 
@@ -2330,7 +2326,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.12.0
 
-[Search Site](https://minehut.xyz/?q=ShopKeepers)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ShopKeepers){% endhint %}
 
 {% hint style="success" %} **Name** ImageOnMap
 
@@ -2338,7 +2334,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.0-pre2
 
-[Search Site](https://minehut.xyz/?q=ImageOnMap)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ImageOnMap){% endhint %}
 
 {% hint style="success" %} **Name** Staff+
 
@@ -2346,7 +2342,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3.3.3
 
-[Search Site](https://minehut.xyz/?q=Staff+)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Staff+){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: Skellett
 
@@ -2354,7 +2350,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.9.11
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: Skellett)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: Skellett){% endhint %}
 
 {% hint style="success" %} **Name** MythicMobs
 
@@ -2362,7 +2358,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.10.1
 
-[Search Site](https://minehut.xyz/?q=MythicMobs)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MythicMobs){% endhint %}
 
 {% hint style="success" %} **Name** Movecraft
 
@@ -2370,7 +2366,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** eirikh1996-fork
 
-[Search Site](https://minehut.xyz/?q=Movecraft)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Movecraft){% endhint %}
 
 {% hint style="success" %} **Name** Command Blocker
 
@@ -2378,7 +2374,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.1
 
-[Search Site](https://minehut.xyz/?q=Command Blocker)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Command Blocker){% endhint %}
 
 {% hint style="success" %} **Name** Dupe Fixes / Illegal Stack Remover
 
@@ -2386,7 +2382,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.2.0e
 
-[Search Site](https://minehut.xyz/?q=Dupe Fixes / Illegal Stack Remover)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Dupe Fixes / Illegal Stack Remover){% endhint %}
 
 {% hint style="success" %} **Name** Wilderness-TP
 
@@ -2394,7 +2390,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.22
 
-[Search Site](https://minehut.xyz/?q=Wilderness-TP)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Wilderness-TP){% endhint %}
 
 {% hint style="success" %} **Name** SignLink
 
@@ -2402,7 +2398,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.14.4-v1
 
-[Search Site](https://minehut.xyz/?q=SignLink)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SignLink){% endhint %}
 
 {% hint style="success" %} **Name** RankGrant+
 
@@ -2410,7 +2406,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.8.0
 
-[Search Site](https://minehut.xyz/?q=RankGrant+)){% endhint %}
+[Search Site](https://minehut.xyz/?q=RankGrant+){% endhint %}
 
 {% hint style="success" %} **Name** SimpleAntiBot
 
@@ -2418,7 +2414,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2019-05-12
 
-[Search Site](https://minehut.xyz/?q=SimpleAntiBot)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SimpleAntiBot){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: skript-holo
 
@@ -2426,7 +2422,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.0
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: skript-holo)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: skript-holo){% endhint %}
 
 {% hint style="success" %} **Name** TARDIS Chunk Generator
 
@@ -2434,7 +2430,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 116
 
-[Search Site](https://minehut.xyz/?q=TARDIS Chunk Generator)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TARDIS Chunk Generator){% endhint %}
 
 {% hint style="success" %} **Name** UltimateFishing
 
@@ -2442,7 +2438,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3.5
 
-[Search Site](https://minehut.xyz/?q=UltimateFishing)){% endhint %}
+[Search Site](https://minehut.xyz/?q=UltimateFishing){% endhint %}
 
 {% hint style="success" %} **Name** ViaBackwards
 
@@ -2450,7 +2446,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.2.0
 
-[Search Site](https://minehut.xyz/?q=ViaBackwards)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ViaBackwards){% endhint %}
 
 {% hint style="success" %} **Name** McEventCore
 
@@ -2458,7 +2454,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.1.0
 
-[Search Site](https://minehut.xyz/?q=McEventCore)){% endhint %}
+[Search Site](https://minehut.xyz/?q=McEventCore){% endhint %}
 
 {% hint style="success" %} **Name** BentoBox Addon: Likes
 
@@ -2466,7 +2462,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.0
 
-[Search Site](https://minehut.xyz/?q=BentoBox Addon: Likes)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BentoBox Addon: Likes){% endhint %}
 
 {% hint style="success" %} **Name** Item Editor
 
@@ -2474,7 +2470,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.1.11
 
-[Search Site](https://minehut.xyz/?q=Item Editor)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Item Editor){% endhint %}
 
 {% hint style="success" %} **Name** ChatFeelings
 
@@ -2482,7 +2478,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.6.11
 
-[Search Site](https://minehut.xyz/?q=ChatFeelings)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ChatFeelings){% endhint %}
 
 {% hint style="success" %} **Name** Vault
 
@@ -2490,7 +2486,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7.3
 
-[Search Site](https://minehut.xyz/?q=Vault)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Vault){% endhint %}
 
 {% hint style="success" %} **Name** Placeholder API
 
@@ -2498,7 +2494,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.10.9
 
-[Search Site](https://minehut.xyz/?q=Placeholder API)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Placeholder API){% endhint %}
 
 {% hint style="success" %} **Name** goPaint
 
@@ -2506,7 +2502,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.0
 
-[Search Site](https://minehut.xyz/?q=goPaint)){% endhint %}
+[Search Site](https://minehut.xyz/?q=goPaint){% endhint %}
 
 {% hint style="success" %} **Name** GunGame
 
@@ -2514,7 +2510,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.1A
 
-[Search Site](https://minehut.xyz/?q=GunGame)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GunGame){% endhint %}
 
 {% hint style="success" %} **Name** Multiverse
 
@@ -2522,7 +2518,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.2.2-MH
 
-[Search Site](https://minehut.xyz/?q=Multiverse)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Multiverse){% endhint %}
 
 {% hint style="success" %} **Name** SimplePets
 
@@ -2530,7 +2526,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.3
 
-[Search Site](https://minehut.xyz/?q=SimplePets)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SimplePets){% endhint %}
 
 {% hint style="success" %} **Name** ClearLag
 
@@ -2538,7 +2534,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.1.6
 
-[Search Site](https://minehut.xyz/?q=ClearLag)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ClearLag){% endhint %}
 
 {% hint style="success" %} **Name** Core Protect
 
@@ -2546,7 +2542,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 19.2
 
-[Search Site](https://minehut.xyz/?q=Core Protect)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Core Protect){% endhint %}
 
 {% hint style="success" %} **Name** NBTEditor
 
@@ -2554,7 +2550,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.1
 
-[Search Site](https://minehut.xyz/?q=NBTEditor)){% endhint %}
+[Search Site](https://minehut.xyz/?q=NBTEditor){% endhint %}
 
 {% hint style="success" %} **Name** More Fish
 
@@ -2562,7 +2558,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0.2
 
-[Search Site](https://minehut.xyz/?q=More Fish)){% endhint %}
+[Search Site](https://minehut.xyz/?q=More Fish){% endhint %}
 
 {% hint style="success" %} **Name** StaffChatReloaded
 
@@ -2570,7 +2566,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3.4 BETA
 
-[Search Site](https://minehut.xyz/?q=StaffChatReloaded)){% endhint %}
+[Search Site](https://minehut.xyz/?q=StaffChatReloaded){% endhint %}
 
 {% hint style="success" %} **Name** MonthlyCrates
 
@@ -2578,7 +2574,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.1.1
 
-[Search Site](https://minehut.xyz/?q=MonthlyCrates)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MonthlyCrates){% endhint %}
 
 {% hint style="success" %} **Name** PlayerVaultsGUI
 
@@ -2586,7 +2582,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.1.14
 
-[Search Site](https://minehut.xyz/?q=PlayerVaultsGUI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PlayerVaultsGUI){% endhint %}
 
 {% hint style="success" %} **Name** TempFly
 
@@ -2594,7 +2590,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0.5
 
-[Search Site](https://minehut.xyz/?q=TempFly)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TempFly){% endhint %}
 
 {% hint style="success" %} **Name** RainbowArmor
 
@@ -2602,7 +2598,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7.3
 
-[Search Site](https://minehut.xyz/?q=RainbowArmor)){% endhint %}
+[Search Site](https://minehut.xyz/?q=RainbowArmor){% endhint %}
 
 {% hint style="success" %} **Name** AdvancedBan
 
@@ -2610,7 +2606,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.0
 
-[Search Site](https://minehut.xyz/?q=AdvancedBan)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AdvancedBan){% endhint %}
 
 {% hint style="success" %} **Name** FusedSpawner
 
@@ -2618,7 +2614,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.4
 
-[Search Site](https://minehut.xyz/?q=FusedSpawner)){% endhint %}
+[Search Site](https://minehut.xyz/?q=FusedSpawner){% endhint %}
 
 {% hint style="success" %} **Name** Magic
 
@@ -2626,7 +2622,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 7.10.6
 
-[Search Site](https://minehut.xyz/?q=Magic)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Magic){% endhint %}
 
 {% hint style="success" %} **Name** Custom Recipes and Crafting (CraftEnhance)
 
@@ -2634,7 +2630,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.4
 
-[Search Site](https://minehut.xyz/?q=Custom Recipes and Crafting (CraftEnhance))){% endhint %}
+[Search Site](https://minehut.xyz/?q=Custom Recipes and Crafting CraftEnhance){% endhint %}
 
 {% hint style="success" %} **Name** Iridium Skyblock
 
@@ -2642,7 +2638,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.5.5
 
-[Search Site](https://minehut.xyz/?q=Iridium Skyblock)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Iridium Skyblock){% endhint %}
 
 {% hint style="success" %} **Name** BetterRTP
 
@@ -2650,7 +2646,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.14.4
 
-[Search Site](https://minehut.xyz/?q=BetterRTP)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BetterRTP){% endhint %}
 
 {% hint style="success" %} **Name** xRay
 
@@ -2658,7 +2654,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.2
 
-[Search Site](https://minehut.xyz/?q=xRay)){% endhint %}
+[Search Site](https://minehut.xyz/?q=xRay){% endhint %}
 
 {% hint style="success" %} **Name** private2
 
@@ -2666,7 +2662,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 24.0
 
-[Search Site](https://minehut.xyz/?q=private2)){% endhint %}
+[Search Site](https://minehut.xyz/?q=private2){% endhint %}
 
 {% hint style="success" %} **Name** Spleef
 
@@ -2674,7 +2670,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.8
 
-[Search Site](https://minehut.xyz/?q=Spleef)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Spleef){% endhint %}
 
 {% hint style="success" %} **Name** Ships
 
@@ -2682,7 +2678,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.0 Beta 9
 
-[Search Site](https://minehut.xyz/?q=Ships)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Ships){% endhint %}
 
 {% hint style="success" %} **Name** LastLoginAPI
 
@@ -2690,7 +2686,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.3
 
-[Search Site](https://minehut.xyz/?q=LastLoginAPI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=LastLoginAPI){% endhint %}
 
 {% hint style="success" %} **Name** ViaRewind
 
@@ -2698,7 +2694,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.5.2
 
-[Search Site](https://minehut.xyz/?q=ViaRewind)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ViaRewind){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: skDragon
 
@@ -2706,7 +2702,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.17
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: skDragon)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: skDragon){% endhint %}
 
 {% hint style="success" %} **Name** Minigames Regions
 
@@ -2714,7 +2710,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** Build-300
 
-[Search Site](https://minehut.xyz/?q=Minigames Regions)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Minigames Regions){% endhint %}
 
 {% hint style="success" %} **Name** Chat Control
 
@@ -2722,7 +2718,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.9.1
 
-[Search Site](https://minehut.xyz/?q=Chat Control)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Chat Control){% endhint %}
 
 {% hint style="success" %} **Name** Crazy Auctions
 
@@ -2730,7 +2726,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.14
 
-[Search Site](https://minehut.xyz/?q=Crazy Auctions)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Crazy Auctions){% endhint %}
 
 {% hint style="success" %} **Name** uReport
 
@@ -2738,7 +2734,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3.1
 
-[Search Site](https://minehut.xyz/?q=uReport)){% endhint %}
+[Search Site](https://minehut.xyz/?q=uReport){% endhint %}
 
 {% hint style="success" %} **Name** Enjin
 
@@ -2746,7 +2742,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.5.14
 
-[Search Site](https://minehut.xyz/?q=Enjin)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Enjin){% endhint %}
 
 {% hint style="success" %} **Name** Jobs Reborn
 
@@ -2754,7 +2750,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.16.3
 
-[Search Site](https://minehut.xyz/?q=Jobs Reborn)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Jobs Reborn){% endhint %}
 
 {% hint style="success" %} **Name** Parkour Maker
 
@@ -2762,7 +2758,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.4
 
-[Search Site](https://minehut.xyz/?q=Parkour Maker)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Parkour Maker){% endhint %}
 
 {% hint style="success" %} **Name** Carz
 
@@ -2770,7 +2766,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.2
 
-[Search Site](https://minehut.xyz/?q=Carz)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Carz){% endhint %}
 
 {% hint style="success" %} **Name** BuildBattle
 
@@ -2778,7 +2774,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.3.2
 
-[Search Site](https://minehut.xyz/?q=BuildBattle)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BuildBattle){% endhint %}
 
 {% hint style="success" %} **Name** Village Defense
 
@@ -2786,7 +2782,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.5.1
 
-[Search Site](https://minehut.xyz/?q=Village Defense)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Village Defense){% endhint %}
 
 {% hint style="success" %} **Name** PlayerParticles
 
@@ -2794,7 +2790,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 7.16
 
-[Search Site](https://minehut.xyz/?q=PlayerParticles)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PlayerParticles){% endhint %}
 
 {% hint style="success" %} **Name** WatchCat (Advanced Hack Blocker)
 
@@ -2802,7 +2798,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.7-b5
 
-[Search Site](https://minehut.xyz/?q=WatchCat (Advanced Hack Blocker))){% endhint %}
+[Search Site](https://minehut.xyz/?q=WatchCat Advanced Hack Blocker){% endhint %}
 
 {% hint style="success" %} **Name** IronElevators
 
@@ -2810,7 +2806,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.5
 
-[Search Site](https://minehut.xyz/?q=IronElevators)){% endhint %}
+[Search Site](https://minehut.xyz/?q=IronElevators){% endhint %}
 
 {% hint style="success" %} **Name** BlocksHub
 
@@ -2818,7 +2814,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.1.1
 
-[Search Site](https://minehut.xyz/?q=BlocksHub)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BlocksHub){% endhint %}
 
 {% hint style="success" %} **Name** WordFlake (Replaces Words)
 
@@ -2826,7 +2822,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.6
 
-[Search Site](https://minehut.xyz/?q=WordFlake (Replaces Words))){% endhint %}
+[Search Site](https://minehut.xyz/?q=WordFlake Replaces Words){% endhint %}
 
 {% hint style="success" %} **Name** Ultimate Economy
 
@@ -2834,7 +2830,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.6b
 
-[Search Site](https://minehut.xyz/?q=Ultimate Economy)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Ultimate Economy){% endhint %}
 
 {% hint style="success" %} **Name** VoidSpawn
 
@@ -2842,7 +2838,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.18.3
 
-[Search Site](https://minehut.xyz/?q=VoidSpawn)){% endhint %}
+[Search Site](https://minehut.xyz/?q=VoidSpawn){% endhint %}
 
 {% hint style="success" %} **Name** VoidTeleport
 
@@ -2850,7 +2846,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.4
 
-[Search Site](https://minehut.xyz/?q=VoidTeleport)){% endhint %}
+[Search Site](https://minehut.xyz/?q=VoidTeleport){% endhint %}
 
 {% hint style="success" %} **Name** WolfyUtilities
 
@@ -2858,7 +2854,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.2.11
 
-[Search Site](https://minehut.xyz/?q=WolfyUtilities)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WolfyUtilities){% endhint %}
 
 {% hint style="success" %} **Name** DiscordSRV Staff Chat
 
@@ -2866,7 +2862,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3.0
 
-[Search Site](https://minehut.xyz/?q=DiscordSRV Staff Chat)){% endhint %}
+[Search Site](https://minehut.xyz/?q=DiscordSRV Staff Chat){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: skript-logs
 
@@ -2874,7 +2870,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.1.2
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: skript-logs)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: skript-logs){% endhint %}
 
 {% hint style="success" %} **Name** MySkin
 
@@ -2882,7 +2878,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.3
 
-[Search Site](https://minehut.xyz/?q=MySkin)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MySkin){% endhint %}
 
 {% hint style="success" %} **Name** OreReplacer
 
@@ -2890,7 +2886,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.1.13.16a4
 
-[Search Site](https://minehut.xyz/?q=OreReplacer)){% endhint %}
+[Search Site](https://minehut.xyz/?q=OreReplacer){% endhint %}
 
 {% hint style="success" %} **Name** Phoenix API
 
@@ -2898,7 +2894,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.5
 
-[Search Site](https://minehut.xyz/?q=Phoenix API)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Phoenix API){% endhint %}
 
 {% hint style="success" %} **Name** SkyChanger
 
@@ -2906,7 +2902,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.0.1
 
-[Search Site](https://minehut.xyz/?q=SkyChanger)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SkyChanger){% endhint %}
 
 {% hint style="success" %} **Name** ProtocolLib
 
@@ -2914,7 +2910,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.6.0-SNAPSHOT-b478
 
-[Search Site](https://minehut.xyz/?q=ProtocolLib)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ProtocolLib){% endhint %}
 
 {% hint style="success" %} **Name** ScreamingBedWars
 
@@ -2922,7 +2918,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.2.14
 
-[Search Site](https://minehut.xyz/?q=ScreamingBedWars)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ScreamingBedWars){% endhint %}
 
 {% hint style="success" %} **Name** Trade+
 
@@ -2930,7 +2926,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.79
 
-[Search Site](https://minehut.xyz/?q=Trade+)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Trade+){% endhint %}
 
 {% hint style="success" %} **Name** Citizens CMD
 
@@ -2938,7 +2934,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.5.1
 
-[Search Site](https://minehut.xyz/?q=Citizens CMD)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Citizens CMD){% endhint %}
 
 {% hint style="success" %} **Name** mcMMO
 
@@ -2946,7 +2942,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.154
 
-[Search Site](https://minehut.xyz/?q=mcMMO)){% endhint %}
+[Search Site](https://minehut.xyz/?q=mcMMO){% endhint %}
 
 {% hint style="success" %} **Name** ChestCleaner
 
@@ -2954,7 +2950,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.2
 
-[Search Site](https://minehut.xyz/?q=ChestCleaner)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ChestCleaner){% endhint %}
 
 {% hint style="success" %} **Name** PhatLoots
 
@@ -2962,7 +2958,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.4.2
 
-[Search Site](https://minehut.xyz/?q=PhatLoots)){% endhint %}
+[Search Site](https://minehut.xyz/?q=PhatLoots){% endhint %}
 
 {% hint style="success" %} **Name** Minepacks
 
@@ -2970,7 +2966,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.20
 
-[Search Site](https://minehut.xyz/?q=Minepacks)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Minepacks){% endhint %}
 
 {% hint style="success" %} **Name** Deluxe Menus
 
@@ -2978,7 +2974,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.13.2
 
-[Search Site](https://minehut.xyz/?q=Deluxe Menus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Deluxe Menus){% endhint %}
 
 {% hint style="success" %} **Name** MoneyPouch
 
@@ -2986,7 +2982,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.1
 
-[Search Site](https://minehut.xyz/?q=MoneyPouch)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MoneyPouch){% endhint %}
 
 {% hint style="success" %} **Name** JukeBox
 
@@ -2994,7 +2990,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.19.4
 
-[Search Site](https://minehut.xyz/?q=JukeBox)){% endhint %}
+[Search Site](https://minehut.xyz/?q=JukeBox){% endhint %}
 
 {% hint style="success" %} **Name** FastAsyncVoxelSniper
 
@@ -3002,7 +2998,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.3 (2020/08/25)
 
-[Search Site](https://minehut.xyz/?q=FastAsyncVoxelSniper)){% endhint %}
+[Search Site](https://minehut.xyz/?q=FastAsyncVoxelSniper){% endhint %}
 
 {% hint style="success" %} **Name** Island Border
 
@@ -3010,7 +3006,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** Build 3
 
-[Search Site](https://minehut.xyz/?q=Island Border)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Island Border){% endhint %}
 
 {% hint style="success" %} **Name** Crazy Envoy
 
@@ -3018,7 +3014,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3.10
 
-[Search Site](https://minehut.xyz/?q=Crazy Envoy)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Crazy Envoy){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: Skematic
 
@@ -3026,7 +3022,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.2b
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: Skematic)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: Skematic){% endhint %}
 
 {% hint style="success" %} **Name** Vouchers
 
@@ -3034,7 +3030,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7.4
 
-[Search Site](https://minehut.xyz/?q=Vouchers)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Vouchers){% endhint %}
 
 {% hint style="success" %} **Name** DeathMessagesPrime
 
@@ -3042,7 +3038,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16.5
 
-[Search Site](https://minehut.xyz/?q=DeathMessagesPrime)){% endhint %}
+[Search Site](https://minehut.xyz/?q=DeathMessagesPrime){% endhint %}
 
 {% hint style="success" %} **Name** MegaChatColor
 
@@ -3050,7 +3046,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0
 
-[Search Site](https://minehut.xyz/?q=MegaChatColor)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MegaChatColor){% endhint %}
 
 {% hint style="success" %} **Name** SkyGrid
 
@@ -3058,7 +3054,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.11.0
 
-[Search Site](https://minehut.xyz/?q=SkyGrid)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SkyGrid){% endhint %}
 
 {% hint style="success" %} **Name** Survival Plus
 
@@ -3066,7 +3062,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.14.0
 
-[Search Site](https://minehut.xyz/?q=Survival Plus)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Survival Plus){% endhint %}
 
 {% hint style="success" %} **Name** WorldGuard Extra Flags
 
@@ -3074,7 +3070,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.1.4
 
-[Search Site](https://minehut.xyz/?q=WorldGuard Extra Flags)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WorldGuard Extra Flags){% endhint %}
 
 {% hint style="success" %} **Name** BentoBox Addon: Challenges
 
@@ -3082,7 +3078,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.8.3
 
-[Search Site](https://minehut.xyz/?q=BentoBox Addon: Challenges)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BentoBox Addon: Challenges){% endhint %}
 
 {% hint style="success" %} **Name** Shop Chest
 
@@ -3090,7 +3086,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.13-SNAPSHOT
 
-[Search Site](https://minehut.xyz/?q=Shop Chest)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Shop Chest){% endhint %}
 
 {% hint style="success" %} **Name** Beauty Quests
 
@@ -3098,7 +3094,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.18.2
 
-[Search Site](https://minehut.xyz/?q=Beauty Quests)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Beauty Quests){% endhint %}
 
 {% hint style="success" %} **Name** Duels
 
@@ -3106,7 +3102,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.4.0
 
-[Search Site](https://minehut.xyz/?q=Duels)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Duels){% endhint %}
 
 {% hint style="success" %} **Name** Holographic Displays
 
@@ -3114,7 +3110,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.4.5
 
-[Search Site](https://minehut.xyz/?q=Holographic Displays)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Holographic Displays){% endhint %}
 
 {% hint style="success" %} **Name** CS-CoreLib
 
@@ -3122,7 +3118,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 90
 
-[Search Site](https://minehut.xyz/?q=CS-CoreLib)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CS-CoreLib){% endhint %}
 
 {% hint style="success" %} **Name** Building Game
 
@@ -3130,7 +3126,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.5.1-MH
 
-[Search Site](https://minehut.xyz/?q=Building Game)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Building Game){% endhint %}
 
 {% hint style="success" %} **Name** Rank Vouchers
 
@@ -3138,7 +3134,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0
 
-[Search Site](https://minehut.xyz/?q=Rank Vouchers)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Rank Vouchers){% endhint %}
 
 {% hint style="success" %} **Name** Powerless Lamps
 
@@ -3146,7 +3142,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.5
 
-[Search Site](https://minehut.xyz/?q=Powerless Lamps)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Powerless Lamps){% endhint %}
 
 {% hint style="success" %} **Name** NamelessMC
 
@@ -3154,7 +3150,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** beta-32
 
-[Search Site](https://minehut.xyz/?q=NamelessMC)){% endhint %}
+[Search Site](https://minehut.xyz/?q=NamelessMC){% endhint %}
 
 {% hint style="success" %} **Name** GriefPrevention Flags
 
@@ -3162,7 +3158,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 5.9.3
 
-[Search Site](https://minehut.xyz/?q=GriefPrevention Flags)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GriefPrevention Flags){% endhint %}
 
 {% hint style="success" %} **Name** AlchemicalArrows
 
@@ -3170,7 +3166,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.1.1
 
-[Search Site](https://minehut.xyz/?q=AlchemicalArrows)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AlchemicalArrows){% endhint %}
 
 {% hint style="success" %} **Name** HeroAction
 
@@ -3178,7 +3174,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.8
 
-[Search Site](https://minehut.xyz/?q=HeroAction)){% endhint %}
+[Search Site](https://minehut.xyz/?q=HeroAction){% endhint %}
 
 {% hint style="success" %} **Name** HungerGames
 
@@ -3186,7 +3182,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 4.14.1
 
-[Search Site](https://minehut.xyz/?q=HungerGames)){% endhint %}
+[Search Site](https://minehut.xyz/?q=HungerGames){% endhint %}
 
 {% hint style="success" %} **Name** TDG (3D GUIs)
 
@@ -3194,7 +3190,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.2
 
-[Search Site](https://minehut.xyz/?q=TDG (3D GUIs))){% endhint %}
+[Search Site](https://minehut.xyz/?q=TDG 3D GUIs){% endhint %}
 
 {% hint style="success" %} **Name** Gravy (Graves)
 
@@ -3202,7 +3198,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.8
 
-[Search Site](https://minehut.xyz/?q=Gravy (Graves))){% endhint %}
+[Search Site](https://minehut.xyz/?q=Gravy Graves){% endhint %}
 
 {% hint style="success" %} **Name** DeathCoordinates
 
@@ -3210,7 +3206,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7.2
 
-[Search Site](https://minehut.xyz/?q=DeathCoordinates)){% endhint %}
+[Search Site](https://minehut.xyz/?q=DeathCoordinates){% endhint %}
 
 {% hint style="success" %} **Name** Villages
 
@@ -3218,7 +3214,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** BETA-5.5
 
-[Search Site](https://minehut.xyz/?q=Villages)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Villages){% endhint %}
 
 {% hint style="success" %} **Name** SmoothTimber
 
@@ -3226,7 +3222,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.10.0-SNAPSHOT
 
-[Search Site](https://minehut.xyz/?q=SmoothTimber)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SmoothTimber){% endhint %}
 
 {% hint style="success" %} **Name** TC Coasters
 
@@ -3234,7 +3230,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16.3-v1
 
-[Search Site](https://minehut.xyz/?q=TC Coasters)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TC Coasters){% endhint %}
 
 {% hint style="success" %} **Name** CCTV
 
@@ -3242,7 +3238,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.6
 
-[Search Site](https://minehut.xyz/?q=CCTV)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CCTV){% endhint %}
 
 {% hint style="success" %} **Name** DeluxeTags
 
@@ -3250,7 +3246,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.7.1
 
-[Search Site](https://minehut.xyz/?q=DeluxeTags)){% endhint %}
+[Search Site](https://minehut.xyz/?q=DeluxeTags){% endhint %}
 
 {% hint style="success" %} **Name** EZRanksPro
 
@@ -3258,7 +3254,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.9.0
 
-[Search Site](https://minehut.xyz/?q=EZRanksPro)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EZRanksPro){% endhint %}
 
 {% hint style="success" %} **Name** TownyFlight
 
@@ -3266,7 +3262,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.3
 
-[Search Site](https://minehut.xyz/?q=TownyFlight)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TownyFlight){% endhint %}
 
 {% hint style="success" %} **Name** BentoBox Addon: Levels
 
@@ -3274,7 +3270,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.4.1
 
-[Search Site](https://minehut.xyz/?q=BentoBox Addon: Levels)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BentoBox Addon: Levels){% endhint %}
 
 {% hint style="success" %} **Name** Trade
 
@@ -3282,7 +3278,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.0.5
 
-[Search Site](https://minehut.xyz/?q=Trade)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Trade){% endhint %}
 
 {% hint style="success" %} **Name** Mines
 
@@ -3290,7 +3286,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.0.5
 
-[Search Site](https://minehut.xyz/?q=Mines)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Mines){% endhint %}
 
 {% hint style="success" %} **Name** AdvancedReplay
 
@@ -3298,7 +3294,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.2
 
-[Search Site](https://minehut.xyz/?q=AdvancedReplay)){% endhint %}
+[Search Site](https://minehut.xyz/?q=AdvancedReplay){% endhint %}
 
 {% hint style="success" %} **Name** Annihilation
 
@@ -3306,7 +3302,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 16.4.0
 
-[Search Site](https://minehut.xyz/?q=Annihilation)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Annihilation){% endhint %}
 
 {% hint style="success" %} **Name** BeautyIndicator
 
@@ -3314,7 +3310,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.9
 
-[Search Site](https://minehut.xyz/?q=BeautyIndicator)){% endhint %}
+[Search Site](https://minehut.xyz/?q=BeautyIndicator){% endhint %}
 
 {% hint style="success" %} **Name** bPermissions
 
@@ -3322,7 +3318,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.12.3
 
-[Search Site](https://minehut.xyz/?q=bPermissions)){% endhint %}
+[Search Site](https://minehut.xyz/?q=bPermissions){% endhint %}
 
 {% hint style="success" %} **Name** eGlow
 
@@ -3330,7 +3326,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0.1
 
-[Search Site](https://minehut.xyz/?q=eGlow)){% endhint %}
+[Search Site](https://minehut.xyz/?q=eGlow){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: FunkySk
 
@@ -3338,7 +3334,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.2
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: FunkySk)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: FunkySk){% endhint %}
 
 {% hint style="success" %} **Name** LoginStreak
 
@@ -3346,7 +3342,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.0.0
 
-[Search Site](https://minehut.xyz/?q=LoginStreak)){% endhint %}
+[Search Site](https://minehut.xyz/?q=LoginStreak){% endhint %}
 
 {% hint style="success" %} **Name** NoteBlockAPI
 
@@ -3354,7 +3350,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.6.1
 
-[Search Site](https://minehut.xyz/?q=NoteBlockAPI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=NoteBlockAPI){% endhint %}
 
 {% hint style="success" %} **Name** Prism
 
@@ -3362,7 +3358,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.6
 
-[Search Site](https://minehut.xyz/?q=Prism)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Prism){% endhint %}
 
 {% hint style="success" %} **Name** SimpleCompass
 
@@ -3370,7 +3366,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2
 
-[Search Site](https://minehut.xyz/?q=SimpleCompass)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SimpleCompass){% endhint %}
 
 {% hint style="success" %} **Name** SuperCore
 
@@ -3378,7 +3374,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.2.4
 
-[Search Site](https://minehut.xyz/?q=SuperCore)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SuperCore){% endhint %}
 
 {% hint style="success" %} **Name** TrMenu
 
@@ -3386,7 +3382,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.21
 
-[Search Site](https://minehut.xyz/?q=TrMenu)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TrMenu){% endhint %}
 
 {% hint style="success" %} **Name** TrollBoss
 
@@ -3394,7 +3390,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.3.6
 
-[Search Site](https://minehut.xyz/?q=TrollBoss)){% endhint %}
+[Search Site](https://minehut.xyz/?q=TrollBoss){% endhint %}
 
 {% hint style="success" %} **Name** WooMinecraft
 
@@ -3402,7 +3398,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.0
 
-[Search Site](https://minehut.xyz/?q=WooMinecraft)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WooMinecraft){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: SkBee
 
@@ -3410,7 +3406,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.8.2
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: SkBee)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: SkBee){% endhint %}
 
 {% hint style="success" %} **Name** Custom Images
 
@@ -3418,7 +3414,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.5
 
-[Search Site](https://minehut.xyz/?q=Custom Images)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Custom Images){% endhint %}
 
 {% hint style="success" %} **Name** Private-CE
 
@@ -3426,7 +3422,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** -1
 
-[Search Site](https://minehut.xyz/?q=Private-CE)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Private-CE){% endhint %}
 
 {% hint style="success" %} **Name** Custom Images
 
@@ -3434,7 +3430,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.1
 
-[Search Site](https://minehut.xyz/?q=Custom Images)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Custom Images){% endhint %}
 
 {% hint style="success" %} **Name** Sift
 
@@ -3442,7 +3438,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0
 
-[Search Site](https://minehut.xyz/?q=Sift)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Sift){% endhint %}
 
 {% hint style="success" %} **Name** MHEvent
 
@@ -3450,7 +3446,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3
 
-[Search Site](https://minehut.xyz/?q=MHEvent)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MHEvent){% endhint %}
 
 {% hint style="success" %} **Name** Heads Plugin API
 
@@ -3458,7 +3454,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.9
 
-[Search Site](https://minehut.xyz/?q=Heads Plugin API)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Heads Plugin API){% endhint %}
 
 {% hint style="success" %} **Name** SirBlobmanCore
 
@@ -3466,7 +3462,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.5
 
-[Search Site](https://minehut.xyz/?q=SirBlobmanCore)){% endhint %}
+[Search Site](https://minehut.xyz/?q=SirBlobmanCore){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: skript-placeholders
 
@@ -3474,7 +3470,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.5
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: skript-placeholders)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: skript-placeholders){% endhint %}
 
 {% hint style="success" %} **Name** Vivecraft Spigot Extensions
 
@@ -3482,7 +3478,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.16.3-r1
 
-[Search Site](https://minehut.xyz/?q=Vivecraft Spigot Extensions)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Vivecraft Spigot Extensions){% endhint %}
 
 {% hint style="success" %} **Name** Project Korra Addon: JedCore
 
@@ -3490,7 +3486,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.9.5-alpha.1
 
-[Search Site](https://minehut.xyz/?q=Project Korra Addon: JedCore)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Project Korra Addon: JedCore){% endhint %}
 
 {% hint style="success" %} **Name** Fundy's Baby Mode
 
@@ -3498,7 +3494,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.0
 
-[Search Site](https://minehut.xyz/?q=Fundy's Baby Mode)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Fundy's Baby Mode){% endhint %}
 
 {% hint style="success" %} **Name** Fundy's RNG Difficulty
 
@@ -3506,7 +3502,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.0
 
-[Search Site](https://minehut.xyz/?q=Fundy's RNG Difficulty)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Fundy's RNG Difficulty){% endhint %}
 
 {% hint style="success" %} **Name** MobArena
 
@@ -3514,7 +3510,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 0.104.2
 
-[Search Site](https://minehut.xyz/?q=MobArena)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MobArena){% endhint %}
 
 {% hint style="success" %} **Name** VillagerOptimiser
 
@@ -3522,7 +3518,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.4
 
-[Search Site](https://minehut.xyz/?q=VillagerOptimiser)){% endhint %}
+[Search Site](https://minehut.xyz/?q=VillagerOptimiser){% endhint %}
 
 {% hint style="success" %} **Name** Packet Limiter
 
@@ -3530,7 +3526,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.1
 
-[Search Site](https://minehut.xyz/?q=Packet Limiter)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Packet Limiter){% endhint %}
 
 {% hint style="success" %} **Name** Skript Addon: Biosphere2
 
@@ -3538,7 +3534,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.0.2
 
-[Search Site](https://minehut.xyz/?q=Skript Addon: Biosphere2)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Skript Addon: Biosphere2){% endhint %}
 
 {% hint style="success" %} **Name** FreeRPG
 
@@ -3546,7 +3542,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.15
 
-[Search Site](https://minehut.xyz/?q=FreeRPG)){% endhint %}
+[Search Site](https://minehut.xyz/?q=FreeRPG){% endhint %}
 
 {% hint style="success" %} **Name** ScreamingBedWars Addon: Hypixelify
 
@@ -3554,7 +3550,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.3.6
 
-[Search Site](https://minehut.xyz/?q=ScreamingBedWars Addon: Hypixelify)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ScreamingBedWars Addon: Hypixelify){% endhint %}
 
 {% hint style="success" %} **Name** spark
 
@@ -3562,7 +3558,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.4.3
 
-[Search Site](https://minehut.xyz/?q=spark)){% endhint %}
+[Search Site](https://minehut.xyz/?q=spark){% endhint %}
 
 {% hint style="success" %} **Name** Dangerous Caves 2
 
@@ -3570,7 +3566,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.2.11
 
-[Search Site](https://minehut.xyz/?q=Dangerous Caves 2)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Dangerous Caves 2){% endhint %}
 
 {% hint style="success" %} **Name** EconomyShopGUI
 
@@ -3578,7 +3574,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.4.2
 
-[Search Site](https://minehut.xyz/?q=EconomyShopGUI)){% endhint %}
+[Search Site](https://minehut.xyz/?q=EconomyShopGUI){% endhint %}
 
 {% hint style="success" %} **Name** GTzDoors
 
@@ -3586,7 +3582,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.1.3
 
-[Search Site](https://minehut.xyz/?q=GTzDoors)){% endhint %}
+[Search Site](https://minehut.xyz/?q=GTzDoors){% endhint %}
 
 {% hint style="success" %} **Name** dtlTraders
 
@@ -3594,7 +3590,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 6.2.6
 
-[Search Site](https://minehut.xyz/?q=dtlTraders)){% endhint %}
+[Search Site](https://minehut.xyz/?q=dtlTraders){% endhint %}
 
 {% hint style="success" %} **Name** goPaint
 
@@ -3602,7 +3598,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.3.1
 
-[Search Site](https://minehut.xyz/?q=goPaint)){% endhint %}
+[Search Site](https://minehut.xyz/?q=goPaint){% endhint %}
 
 {% hint style="success" %} **Name** Armored Elytra
 
@@ -3610,7 +3606,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.4.14
 
-[Search Site](https://minehut.xyz/?q=Armored Elytra)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Armored Elytra){% endhint %}
 
 {% hint style="success" %} **Name** MoreMobHeads
 
@@ -3618,7 +3614,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.14_1.0.15
 
-[Search Site](https://minehut.xyz/?q=MoreMobHeads)){% endhint %}
+[Search Site](https://minehut.xyz/?q=MoreMobHeads){% endhint %}
 
 {% hint style="success" %} **Name** CreativeItemControl
 
@@ -3626,7 +3622,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 3.10.3
 
-[Search Site](https://minehut.xyz/?q=CreativeItemControl)){% endhint %}
+[Search Site](https://minehut.xyz/?q=CreativeItemControl){% endhint %}
 
 {% hint style="success" %} **Name** DeathMessagesPrime Addon: EnderCrystal
 
@@ -3634,7 +3630,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.1
 
-[Search Site](https://minehut.xyz/?q=DeathMessagesPrime Addon: EnderCrystal)){% endhint %}
+[Search Site](https://minehut.xyz/?q=DeathMessagesPrime Addon: EnderCrystal){% endhint %}
 
 {% hint style="success" %} **Name** WorldBorder
 
@@ -3642,7 +3638,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.9.10
 
-[Search Site](https://minehut.xyz/?q=WorldBorder)){% endhint %}
+[Search Site](https://minehut.xyz/?q=WorldBorder){% endhint %}
 
 {% hint style="success" %} **Name** Dream's Man Hunt
 
@@ -3650,7 +3646,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 1.2.1-release
 
-[Search Site](https://minehut.xyz/?q=Dream's Man Hunt)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Dream's Man Hunt){% endhint %}
 
 {% hint style="success" %} **Name** FakeBlock
 
@@ -3658,7 +3654,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0.2
 
-[Search Site](https://minehut.xyz/?q=FakeBlock)){% endhint %}
+[Search Site](https://minehut.xyz/?q=FakeBlock){% endhint %}
 
 {% hint style="success" %} **Name** Herobrine
 
@@ -3666,7 +3662,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.1.1
 
-[Search Site](https://minehut.xyz/?q=Herobrine)){% endhint %}
+[Search Site](https://minehut.xyz/?q=Herobrine){% endhint %}
 
 {% hint style="success" %} **Name** ItemBridge
 
@@ -3674,7 +3670,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 2.0
 
-[Search Site](https://minehut.xyz/?q=ItemBridge)){% endhint %}
+[Search Site](https://minehut.xyz/?q=ItemBridge){% endhint %}
 
 {% hint style="success" %} **Name** DragonTravel
 
@@ -3682,9 +3678,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 **Version** 01.007.09
 
-[Search Site](https://minehut.xyz/?q=DragonTravel)){% endhint %}
-
->>> 
+[Search Site](https://minehut.xyz/?q=DragonTravel){% endhint %}
 
 {% hint style="success" %}
 Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
