@@ -4,6 +4,10 @@ description: Full Minehut Plugin List [last updated 9/11/20].
 
 # Plugin List
 
+{% hint style="success" %}
+Use `CTRL-F` to search for a specific plugin.
+{% endhint %}
+
 {% hint style=success %} **Name** Buycraft (Tebex)
 
 **Description** Set up automatic stores for your server.
