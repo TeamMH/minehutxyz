@@ -2,7 +2,7 @@
 description: The leading Minehut support website.
 ---
 
-# Minehut.xyz
+# Home
 
 ## WELCOME... TO MINEHUT.XYZ
 
