@@ -93,6 +93,7 @@
   * [Example: Spawn](skript/examples/spawn.md)
   * [Example: Bossbar](skript/examples/bossbar.md)
   * [Example: Homes](skript/examples/homes.md)
+  * [Example: One Player Sleep](skript/examples/sleep.md)
   * [Example: Pagination](skript/examples/pagination.md)
   * [Example: Private Messages](skript/examples/msg.md)
   * [Example: Homes](skript/examples/homes-1.md)
