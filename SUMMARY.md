@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Minehut.xyz](README.md)
+* [Home](README.md)
 * [Discord](https://discord.gg/TYhH5bK)
 * [Contribute](contribute.md)
 * [Plugins](plugins.md)
