@@ -5,7 +5,7 @@ description: Full Minehut Plugin List [last updated 9/11/20].
 # Plugin List
 
 {% hint style="info" %}
-Use `CTRL-F` to search for a specific plugin.
+**Use `CTRL-F` to search for a specific plugin.**
 {% endhint %}
 
 {% hint style="success" %} **Name** Buycraft (Tebex)
