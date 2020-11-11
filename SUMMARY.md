@@ -98,6 +98,8 @@
   * [Example: One Player Sleep](skript/examples/sleep.md)
   * [Example: Pagination](skript/examples/pagination.md)
   * [Example: Private Messages](skript/examples/msg.md)
+  * [Example: Discord Bot W/ Vixio](skript/examples/vixio.md)
   * [Example: Homes](skript/examples/homes-1.md)
   * [Example: Cooldowns](skript/examples/cooldown.md)
+
 
