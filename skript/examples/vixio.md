@@ -4,8 +4,6 @@ description: An easy to follow, indepth tutorial on the skript addon Vixio.
 
 # Vixio - An easy to follow, indepth tutorial on the skript addon.
 
-### *This tutorial was submitted by Centrect. Find out how you can submit a tutorial [_here_](../contribute.md)*
-
 ## OVERVIEW
 
 Vixio is a skript addon avaliable on Minehut. Using Vixio you can make advanced links into Minecraft through Discord and vice versa, using a Discord bot.
