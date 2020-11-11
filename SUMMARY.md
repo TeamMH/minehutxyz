@@ -74,3 +74,4 @@
   * [Example: Spawn](skript/examples/spawn.md)
   * [Example: Scoreboards](skript/examples/scoreboard.md)
   * [Example: Private Messages](skript/examples/msg.md)
+  * [Example: Discord Bot W/ Vixio](master/vixio.md)
