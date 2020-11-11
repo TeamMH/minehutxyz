@@ -44,7 +44,7 @@ Next, lets make it so whenever someone types a message into your server chat cha
 
 All you need to do for this one is enter this line of code into your skript file
 ```
-guild message receive seen by "Evara":
+guild message receive seen by "(BOT NAME HERE)":
 	set {_chat} to channel with id "(insert channel ID here)" 
 	if the discord id of event-channel is discord id of {_chat}:
 		broadcast "&d&lDISCORD &3> &d%event-member% &7> %event-string%" # You can edit the text inside the quotation marks to be whatever you want. Just ensure that you remember the %event-member% etc
