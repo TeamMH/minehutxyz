@@ -1,20 +1,22 @@
 ---
-description: Learn how to make a paginated GUI. This allowed people to make "pages" in a GUI, and is infinitly expandable.
+description: >-
+  Learn how to make a paginated GUI. This allowed people to make "pages" in a
+  GUI, and is infinitly expandable.
 ---
 
-# Pagination
+# Example: Pagination
 
 {% hint style="info" %}
-This tutorial was made by Blocksnmore, and [ReportCardsMC](https://github.com/ReportCardsMC). Lean how to contribute [here](/contribute.md).
+This tutorial was made by [Blocksnmore](https://github.com/Blocksnmore), and [ReportCardsMC](https://github.com/ReportCardsMC). Lean how to contribute [here](../../contribute.md).
 {% endhint %}
-
 
 ## What is "pagination"?
 
 Pagination is making interactive GUI that have multiple pages. This is useful for things like a big shop or auction house. When loading a page, you can also load up what you want to add by saving to to a variable then adding it. If you need help ask on our discord server found [here](https://invite.gg/minehutxyz)!
 
 Examples:
-```
+
+```text
 command /demo-gui [<integer>]: 
     trigger:
         set {_p} to player
@@ -34,7 +36,7 @@ command /demo-gui [<integer>]:
             format slot 45 of {_p} with paper named "&bLast Page" to run [make player execute command "/demo-gui"]
 ```
 
-```
+```text
 command /demo-shop [<number = 1>]:
   trigger:
     close player's inventory
@@ -44,7 +46,7 @@ command /demo-shop [<number = 1>]:
     set {_page} to rounded arg-1
     set {_page} to 1 if {_page} <= 1
     set {_page} to {_max-pages} if {_page} > {_max-pages}
-    
+
     open chest with ({_lines} + 1) rows named "&3SHOP &f» &bPage %{_page}%" to player
     set {_current} to (({_page} - 1) * ({_lines} * 9))
     set {_nextpage} to {_page} + 1
@@ -79,10 +81,9 @@ command /demo-shop [<number = 1>]:
       add 1 to {_current}
       add 1 to {_slot}
     format gui slot (numbers between ({_lines} * 9 + 1) and ({_lines} * 9 + 7)) of player with air to do nothing
-      
 ```
 
-
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

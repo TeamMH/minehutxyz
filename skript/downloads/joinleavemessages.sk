@@ -1,0 +1,5 @@
+on join:
+  set join message to "[+] %player%"
+
+on quit:
+  set quit message to "[-] %player%"

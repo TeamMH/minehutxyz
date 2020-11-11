@@ -12,11 +12,11 @@ All Minehut servers run _\(PaperSpigot\)_ 1.16 servers. This will change with ev
 
 There are currently two different methods of allowing older clients to join. Read below.
 
-#### Method One
+### Method One
 
 Install the plugin `ProtocolSupport`, and this will allow clients 1.8-1.16 to join.
 
-#### Method Two
+### Method Two
 
 Install the plugins `ViaVersion`, `ViaBackwards` and `ViaRewind`. These three combined will allow 1.8-1.16 clients to join.
 
@@ -24,9 +24,9 @@ Install the plugins `ViaVersion`, `ViaBackwards` and `ViaRewind`. These three co
 
 Most PvP servers will want the original combat system, this is how.
 
-To allow 1.8 combat _\(no hit delay\)_, install the plugin `OldCombatMechanics`. 
+To allow 1.8 combat _\(no hit delay\)_, install the plugin `OldCombatMechanics`.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 

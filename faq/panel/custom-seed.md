@@ -8,7 +8,6 @@ description: Learn how to set a custom seed for your server.
 
 Minecraft worlds generate randomly, you may have found a certain world that youâ€™d like to explore, all you need is that worlds seed. Seeds are specific to each world and can be used to choose a certain world generation.
 
-
 ## HOW TO SET A CUSTOM SEED
 
 1. Go to your servers web panel.
@@ -18,5 +17,6 @@ Minecraft worlds generate randomly, you may have found a certain world that youâ
 5. Then click the **reset world** button and restart your server.
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

@@ -6,7 +6,9 @@ description: >-
 
 # RedProtect
 
-### _This tutorial was submitted by PandaChan. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
+## {% hint style="info" %}
+
+This tutorial was made by PandaChan. Lean how to contribute [here](../../contribute.md).
 
 ## CREATING A REGION
 
@@ -14,13 +16,13 @@ Regions are the first thing you need to make to protect your builds. RedProtect 
 
 ## ADDING FLAGS TO YOUR REGION
 
-Flags are used to properly protect your region, they can disallow things or allow certain things such as pvp or building. All flags can be found here \([https://github.com/FabioZumbi12/RedProtect/wiki/Region-Flags](https://github.com/FabioZumbi12/RedProtect/wiki/Region-Flags)\) Luckily RedProtect comes with a special GUI to make it easier to edit flags, all you have to do is go into the region you want to change and type in `/rp flag` here you can just select the flags you want to change.
+Flags are used to properly protect your region, they can disallow things or allow certain things such as pvp or building. All flags can be found [here](https://github.com/FabioZumbi12/RedProtect/wiki/Region-Flags) Luckily RedProtect comes with a special GUI to make it easier to edit flags, all you have to do is go into the region you want to change and type in `/rp flag` here you can just select the flags you want to change.
 
 ## EXTRA
 
-RedProtect has a few oher features, such as private chests, portals and many more things, All the commands can be found here \([https://github.com/FabioZumbi12/RedProtect/wiki](https://github.com/FabioZumbi12/RedProtect/wiki)\)
+RedProtect has a few oher features, such as private chests, portals and many more things, All the commands can be found [here](https://github.com/FabioZumbi12/RedProtect/wiki).
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 

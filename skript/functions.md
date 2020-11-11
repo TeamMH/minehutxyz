@@ -4,21 +4,23 @@ description: Learn how to use functions in Skript!
 
 # Functions
 
-### _This tutorial was submitted by Goose. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
-
 ## **OVERVIEW**
 
 Learn how to use functions in Skript!
 
-## **WHAT ARE FUNCTIONS** 
+## **WHAT ARE FUNCTIONS**
 
 Functions are used to perform tasks, and most languages have them. Functions are global across scripts.
 
 ## **COMPONENTS OF A FUNCTION**
 
-You have 4 parts of a function: The name, the parameters, the return type, and the code it runs. The name is what you call the function with, and the parameters are like command arguments, they can be ANYTHING, including objects. To access the value of a parameter, you use the local variable `{_%parameter name%}`, if the parameter was plural \(ex. `objects`, `strings`, `numbers`\), you would use `{%parameter name%::*}`. Plural parameters can also be specified with only one thing. In that case, the variable used to access the value will still be `{%parameter name%::*}`, it'll just be set to the one value. Your function does not need to have parameters.
+You have 4 parts of a function: The name, the parameters, the return type, and the code it runs. The name is what you call the function with, and the parameters are like command arguments, they can be ANYTHING, including objects. To access the value of a parameter, you use the local variable `{_%parameter name%}`, if the parameter was plural \(ex. `objects`, `strings`, `numbers`\), you would use `{_%parameter name%::*}`. Plural parameters can also be specified with only one thing. In that case, the variable used to access the value will still be `{_%parameter name%::*}`, it'll just be set to the one value. Your function does not need to have parameters.
 
 The return type can also be anything, just like a parameter. It also does not need to be specified, but if you are gonna return something, you have to specify.
+
+{% hint style="danger" %}
+If you're returning something, there **cannot** be a delay.
+{% endhint %}
 
 ## **HOW TO MAKE FUNCTIONS**
 
@@ -55,6 +57,6 @@ on death:
 ```
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 

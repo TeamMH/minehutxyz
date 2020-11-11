@@ -6,7 +6,9 @@ description: >-
 
 # WorldGuard
 
-### _This tutorial was submitted by PandaChan. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
+{% hint style="info" %}
+This tutorial was made by PandaChan. Lean how to contribute [here](../../contribute.md).
+{% endhint %}
 
 ## OVERVIEW
 
@@ -35,6 +37,6 @@ To change the flags your region currently has all you have to do is `/rg flag (r
 Though WorldGuard is most known for its protection purposes, there are also some other fun commands that can be useful, some of these being `/heal`, `/god`and `/stack` for example. I highly recommend using this plugin if you want some simple protection!
 
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 
