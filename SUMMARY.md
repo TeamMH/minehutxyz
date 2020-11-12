@@ -92,6 +92,7 @@
   * [Example: Join & Quit Messages](skript/examples/custom-messages.md)
   * [Example: Tablist](skript/examples/tablist.md)
   * [Example: /discord](skript/examples/discord.md)
+  * [Example /help](skript/examples/help.md)
   * [Example: Spawn](skript/examples/spawn.md)
   * [Example: Bossbar](skript/examples/bossbar.md)
   * [Example: Homes](skript/examples/homes.md)
