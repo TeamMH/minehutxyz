@@ -71,6 +71,7 @@
   * [CoreProtect](plugin/popular/coreprotect.md)
 * [Other](plugin/other/README.md)
   * [RedProtect](plugin/other/redprotect.md)
+  * [MineResetLite](plugin/other/mineresetlite.md)
   * [ImageOnMap](plugin/other/imageonmap.md)
   * [CombatLogX](plugin/other/combatlogx.md)
   * [Dream's Manhunt](plugin/other/dreams-man-hunt.md)
