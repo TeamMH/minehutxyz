@@ -8,7 +8,7 @@ description: Official Minehut.xyz API Documenation
 
 Our API allows developers to utilize our articles for their own use. 
 
-The API is currently updated manually, so please alert us of any issues on our [github](https://github.com/TeamMH/minehutxyz/issues).
+The API is currently updated manually, so please make a bug report on our [github](https://github.com/TeamMH/minehutxyz/issues/new/choose).
 
 ## ARTICLES FULL
 

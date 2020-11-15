@@ -3,7 +3,6 @@
 * [Home](README.md)
 * [Discord](https://discord.gg/TYhH5bK)
 * [Contribute](contribute.md)
-* [Plugins](plugins.md)
 * [Partners](partners.md)
 * [API Documenation](api.md)
 
@@ -59,6 +58,7 @@
 ## Plugin Tutorials <a id="plugin"></a>
 
 * [Recommended Plugins](plugin/rccplugins.md)
+* [Plugin List](plugin/plugins.md)
 * [Permission Plugins](plugin/permission-plugins/README.md)
   * [PermissionsEx](plugin/permission-plugins/pex.md)
   * [LuckPerms](plugin/permission-plugins/lp.md)

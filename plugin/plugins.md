@@ -1,5 +1,5 @@
 ---
-description: Full Minehut Plugin List [last updated 10/11/20].
+description: Full Minehut Plugin List [last updated 11/14/20].
 ---
 
 # Plugin List
