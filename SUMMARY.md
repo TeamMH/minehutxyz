@@ -57,8 +57,8 @@
 
 ## Plugin Tutorials <a id="plugin"></a>
 
+* [Minehut Plugin List](plugin/plugins.md)
 * [Recommended Plugins](plugin/rccplugins.md)
-* [Plugin List](plugin/plugins.md)
 * [Permission Plugins](plugin/permission-plugins/README.md)
   * [PermissionsEx](plugin/permission-plugins/pex.md)
   * [LuckPerms](plugin/permission-plugins/lp.md)
