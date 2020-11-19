@@ -2,7 +2,7 @@
 description: Learn how to upload Datapacks to your Minehut server.
 ---
 
-# Datapacks
+# Data Packs
 
 ## OVERVIEW
 
@@ -15,8 +15,11 @@ The data pack system provides a way for players to further customize their Minec
 3. Find the folder named `datapacks` and enter it.
 4. Create a **new folder** and name it anything, then upload each individual datatapack file within this new folder.
 
-{% hint style="info" %}You can't directly upload the `.zip` or `.rar` file, you need to upload the contents individually.{% endhint %}
+{% hint style="info" %}
+You can't directly upload the `.zip` or `.rar` file, you need to upload the contents individually.
+{% endhint %}
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

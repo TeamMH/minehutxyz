@@ -1,24 +1,23 @@
 ---
-description: Official Minehut.xyz API Documenation
+description: Official Minehut.xyz API Documentation
 ---
 
-# API Documenation
+# API Documentation
 
 ## **OVERVIEW**
 
-Our API allows developers to utilize our articles for their own use. 
+Our API allows developers to utilize our articles for their own use.
 
 The API is currently updated manually, so please make a bug report on our [github](https://github.com/TeamMH/minehutxyz/issues/new/choose).
 
 ## ARTICLES FULL
-
 
 {% hint style="success" %}
 **`api.minehut.xyz/articles`**
 {% endhint %}
 
 * Returns the article list, and all details regarding the articles currently on the API.
-* Contains **FAQs** and **plugins**. *(Skript has it's [own endpoint](https://minehut.xyz/api#skript-full))*
+* Contains **FAQs** and **plugins**. _\(Skript has it's_ [_own endpoint_](https://minehut.xyz/api#skript-full)_\)_
 
 ### RETURNS
 
@@ -68,7 +67,6 @@ _Note: this is a very short example, the API contains much more than these 2._
 }
 ```
 
-
 ## SKRIPT FULL
 
 {% hint style="success" %}
@@ -78,7 +76,7 @@ _Note: this is a very short example, the API contains much more than these 2._
 * Returns the article list, and all details regarding the articles currently on the API.
 * Contains **only skript**.
 
-```
+```text
 {
   "skripts": [
     "basic",
@@ -108,5 +106,4 @@ _Note: this is a very short example, the API contains much more than these 2._
 ```
 
 _Note: this is a very short example, the API contains much more than these 2._
-
 

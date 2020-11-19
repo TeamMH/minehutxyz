@@ -2,7 +2,7 @@
 description: Custom /help command for your server.
 ---
 
-# Example: Custom /help
+# Example: /help
 
 ## OVERVIEW
 
@@ -10,7 +10,7 @@ This tutorial will show you how to create a custom `/help` command for your serv
 
 ## CODE
 
-```
+```text
 command /help:
   trigger:
     send "Help.."
@@ -23,5 +23,6 @@ command /help:
 This is a very bad way of going about this, as it's very limited and hardcoded. A better way might be using variables for lines or an external text file.
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

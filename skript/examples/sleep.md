@@ -10,7 +10,7 @@ This tutorial will show you how to allow only one player on your server to sleep
 
 ## CODE
 
-```
+```text
 on bed enter:
   cancel event
   set time of event-world to day
@@ -28,5 +28,6 @@ Then, the time of the world the event was triggered in will be set to day.
 Then, it broadcasts the world that was set to day and the player that triggered it.
 
 {% hint style="success" %}
-Join our **[Discord](https://discord.gg/TYhH5bK)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

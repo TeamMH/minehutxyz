@@ -1,61 +1,60 @@
 ---
-description: An easy to follow, indepth tutorial on the skript addon Vixio.
+description: 'An easy to follow, indepth tutorial on the skript addon Vixio.'
 ---
 
-# Vixio - An easy to follow, indepth tutorial on the skript addon.
+# Example: Discord Bot W/ Vixio
 
 ## OVERVIEW
 
-Vixio is a skript addon avaliable on Minehut. Using Vixio you can make advanced links into Minecraft through Discord and vice versa, using a Discord bot.
-With Vixio you can send all your minecraft server chat into a discord channel, and vice versa, you can send server reports to a staff channel, you can send suggestions, view online players, all through Discord and Vixio.
-
+Vixio is a skript addon avaliable on Minehut. Using Vixio you can make advanced links into Minecraft through Discord and vice versa, using a Discord bot. With Vixio you can send all your minecraft server chat into a discord channel, and vice versa, you can send server reports to a staff channel, you can send suggestions, view online players, all through Discord and Vixio.
 
 ## HOW TO DO
 
 Firstly, you are going to want to install Vixio. This tutorial will need a basic knowledge of skript. If you do not know how to use Skript, please follow one of our other tutorials.
 
-https://i.imgur.com/p5RWtBn.png
+[https://i.imgur.com/p5RWtBn.png](https://i.imgur.com/p5RWtBn.png)
 
-Next, go to plugins > skript > scripts 
-Create a new file, call it anything you like, but at the end make sure it has ".sk" at the end. You have now made your bots skript
+Next, go to plugins &gt; skript &gt; scripts Create a new file, call it anything you like, but at the end make sure it has ".sk" at the end. You have now made your bots skript
 
 On the first line, enter the following:
-```
+
+```text
 on skript load: 
     login to "(YOUR BOT TOKEN HERE)" with the name "(YOUR BOT NAME HERE)" # This makes the bot online.
     mark "(Your Bot Name) " as playing "(insert text here)" # This will be the bots status when it is online
 ```
-(If you need advice on how to create a discord bot, please check out Minehuts official tutorial: https://bit.ly/3lDNLHs)
 
+\(If you need advice on how to create a discord bot, please check out Minehuts official tutorial: [https://bit.ly/3lDNLHs](https://bit.ly/3lDNLHs)\)
 
-Next, lets assume you want to send your server chat to a channel in discord. 
-Start by creating a dedicated channel for your server chat. 
-Next, right click on your channel and click "Copy ID"
-Now enter this line of code into your skript file for your bot
-```
+Next, lets assume you want to send your server chat to a channel in discord. Start by creating a dedicated channel for your server chat. Next, right click on your channel and click "Copy ID" Now enter this line of code into your skript file for your bot
+
+```text
 on chat:
     send "%player%: %message%" to channel with id "(insert channel ID here" with "(Bot Name Here)"
-   ``` 
+```
+
 Give that a test and see if it works!
 
 Next, lets make it so whenever someone types a message into your server chat channel, it sends it right into the server.
 
 All you need to do for this one is enter this line of code into your skript file
-```
+
+```text
 guild message receive seen by "(BOT NAME HERE)":
-	set {_chat} to channel with id "(insert channel ID here)" 
-	if the discord id of event-channel is discord id of {_chat}:
-		broadcast "&d&lDISCORD &3> &d%event-member% &7> %event-string%" # You can edit the text inside the quotation marks to be whatever you want. Just ensure that you remember the %event-member% etc
- ```   
-(You can edit the text inside the quotation marks on the last line to be whatever you want. Just ensure that you remember the %event-member% etc)
-     
+    set {_chat} to channel with id "(insert channel ID here)" 
+    if the discord id of event-channel is discord id of {_chat}:
+        broadcast "&d&lDISCORD &3> &d%event-member% &7> %event-string%" # You can edit the text inside the quotation marks to be whatever you want. Just ensure that you remember the %event-member% etc
+```
+
+\(You can edit the text inside the quotation marks on the last line to be whatever you want. Just ensure that you remember the %event-member% etc\)
 
 Now lets get a bit more advanced.
 
 We are now going to make our bot play music inside a channel, This is very similar to the likes of Groovy and Rythm, but you can make it yourself!
 
-(Full credit for this part goes to the official Vixio discord server.)
-```
+\(Full credit for this part goes to the official Vixio discord server.\)
+
+```text
 discord command play <text>:
     prefixes: /
     executable in: guild
@@ -111,14 +110,14 @@ discord command info:
                 set the timestamp of embed to now
             reply with last created embed
 ```
-(NOTE: I tried to edit the prefixes, but to no avail, I recommend not touching this part unless you know what you are doing)
 
+\(NOTE: I tried to edit the prefixes, but to no avail, I recommend not touching this part unless you know what you are doing\)
 
 Congratulations! You now have a functional discord bot!
 
 Enjoy!
 
-
 {% hint style="success" %}
-Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+Join our [**Discord**](https://invite.gg/minehutxyz) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
+

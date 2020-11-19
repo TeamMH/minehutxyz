@@ -4,7 +4,7 @@
 * [Discord](https://discord.gg/TYhH5bK)
 * [Contribute](contribute.md)
 * [Partners](partners.md)
-* [API Documenation](api.md)
+* [API Documentation](api.md)
 
 ## Popular Questions <a id="faq"></a>
 
@@ -41,7 +41,7 @@
   * [Forums Club](faq/minehut/clubs.md)
   * [Cracked Minecraft](faq/minehut/cracked.md)
   * [Linking](faq/minehut/link.md)
-  * [Forums Club](faq/minehut/clubs-1.md)
+  * [Forums Club](faq/minehut/forums-club.md)
   * [Account Deletion](faq/minehut/acc-delete.md)
   * [Report](faq/minehut/report.md)
   * [Ports](faq/minehut/ports.md)
@@ -50,8 +50,8 @@
   * [Server Version](faq/other-questions/server-version.md)
   * [Bedrock Edition](faq/other-questions/bedrock.md)
   * [OP Tools](faq/other-questions/op-tools.md)
-* [Common Errors](faq/errors/README.md)
-  * [J-SON Read](faq/errors/j-son.md)
+* [Common Errors](faq/common-errors/README.md)
+  * [J-SON Read](faq/common-errors/j-son.md)
 * [Making a server](faq/making-a-server/README.md)
   * [Planning it out](faq/making-a-server/servermaking.md)
 
@@ -103,5 +103,4 @@
   * [Example: Discord Bot W/ Vixio](skript/examples/vixio.md)
   * [Example: Homes](skript/examples/homes-1.md)
   * [Example: Cooldowns](skript/examples/cooldown.md)
-
 
