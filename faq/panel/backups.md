@@ -8,7 +8,7 @@ description: Learn how to use Minehut's backup system!
 
 Want to understand Minehut's backup system? Let go and explore it!
 
-# HOW TO GET TO BACKUPS
+## HOW TO GET TO BACKUPS
 
 To manage your backups, go to your [panel](https://minehut.com/panel/minecraft) (make sure you are signed in) and make sure that the server you want to manage backups on is online, after the server is online, find the "Backups" button, you will find this next to the "World" button.
 
