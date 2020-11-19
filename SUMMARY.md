@@ -11,6 +11,7 @@
 * [Panel](faq/panel/README.md)
   * [Logs](faq/panel/logs.md)
   * [Installing Plugins](faq/panel/plugins.md)
+  * [Backups](faq/panel/backups.md)
   * [Custom Domain](faq/panel/domain.md)
   * [Reset Server](faq/panel/reset.md)
   * [Reset World](faq/panel/resetworld.md)
@@ -103,4 +104,3 @@
   * [Example: Discord Bot W/ Vixio](skript/examples/vixio.md)
   * [Example: Homes](skript/examples/homes-1.md)
   * [Example: Cooldowns](skript/examples/cooldown.md)
-
