@@ -20,7 +20,7 @@ To add/edit scripts, you'll need to navigate to your File Manager. Then, `Plugin
 
 ## SCRIPTING
 
-Scripting is the term we use when writing code in Skript. **For a very detailed tutorial on scripting, visit our** [**partner YouTube channel**](https://www.youtube.com/channel/UCgXFIH9h2Vf9Q1e86n_FVJA)**.**
+Scripting is the term we use when writing code in any coding language, while Skript itself is not an official code language, we will use this term to reference Skript. **For a very detailed tutorial on scripting, visit our** [**partner YouTube channel**](https://www.youtube.com/channel/UCgXFIH9h2Vf9Q1e86n_FVJA)**.**
 
 Firstly we will create a new file, let's name it `example.sk` _\(note, all scripts must end in **.sk**\)._ From here, we will want to edit this file. In this tutorial, we're going to be creating a welcome message that will be displayed to all users _\(eg, "Welcome {player} to the server!"\)_.
 
