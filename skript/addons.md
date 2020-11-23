@@ -16,6 +16,10 @@ Addons are just like any other Java Minecraft plugins, meaning they use the [Jav
 
 Skript addons can be found in various places. You can look on Skript documentation pages such as [SkriptHub](https://skripthub.net) or [skUnity](https://skunity.com). You can also find addons on [SpigotMC resource page](https://www.spigotmc.org) a good place to look is the Skript section [here](https://www.spigotmc.org/resources/categories/skript.25/).
 
+## **INTERESTING! HOW DO I MAKE ONE?**
+
+While I'm not going to make an entire section on making a Skript addon, you can check out a tutorial [here](https://forums.skunity.com/wiki/addon/).
+
 {% hint style="success" %}
 Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
