@@ -10,7 +10,7 @@ Skript Addons are plugins that access the Skript plugin and register new syntaxe
 
 ## **WHAT CAN ADDONS DO**
 
-Addons are just like any other Java Minecraft plugins, meaning they use the [Java](https://en.m.wikipedia.org/wiki/Java_(programming_language)) coding language to create features. In this case, the plugin also uses the Skript API (plugin) to register new syntaxes using Java/Minecraft syntaxes.
+Addons are just like any other Java Minecraft plugins, meaning they use the [Java](https://en.m.wikipedia.org/wiki/Java_(programming_language)) coding language to create features. In this case, the plugin also uses the Skript API (plugin) to register new syntaxes using Java/Minecraft syntaxes. Addons are extremely useful, they open the door for many new possibilities inside of a server. 
 
 ## **WHERE CAN I FIND THEM?**
 
