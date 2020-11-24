@@ -24,6 +24,10 @@ Want to partner? Join our [**Discord**](https://discord.gg/TYhH5bK) and message 
 
 > **Idler** is the biggest virtual-gen based server on Minehut! We offer **Clans, Friendships, an Amazing Community, PvP,** and much much more! Come join us today at **Idler.minehut.gg**!
 
+## [SaltyFruit](https://discord.gg/HfcNd7CYmC)
+
+> **MINIGAME SERVER!** Bedwars, Parkour, Kitpvp, Spleef, Dupe, and many more!
+
 ## [Oictr](https://discord.gg/GPyc8Z2)
 
 > **Oitcr** is a fair one in the chamber style pvp server! The focus is to create something fun whilst eliminating the use of pay to win and unfair gear.
