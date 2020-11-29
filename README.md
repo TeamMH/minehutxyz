@@ -26,19 +26,21 @@ Minehut's Skripting community has continued to grow throughout the years, so we'
 
 ## THE TEAM
 
-| Name | Position |
-| :--- | :--- |
-| **Adam** | **Founder** and **Senior Writer** |
-| --- | --- |
-| **Tarna** | **Founder**, **General Manager** and **Writer** |
-| **Goose** | **GitHub Manager** and **Writer** |
-| **Lukas** | **Staff Manager**, **Project Manager** and **Senior Writer** |
-| --- | --- |
-| **Conutik** | **Writer** |
-| **Houlton** | **Writer** |
-| **Smelly Burger** | **Writer** |
-| **Rqdioqctive** | **Writer** |
-| **Citeful** | **Writer** |
+| Name          | Position                                         |
+| :------------ | :----------------------------------------------- |
+| Adam          | Founder and Senior Writer                        |
+| ---           | ---                                              |
+| Tarna         | Founder General Manager and Writer               |
+| Goose         | GitHub Manager and Writer                        |
+| Lukas         | Staff Manager, Project Manager and Senior Writer |
+| ---           | ---                                              |
+| Kiko          | Site Developer                                   |
+| ---           | ---                                              |
+| Conutik       | Writer                                           |
+| Houlton       | Writer                                           |
+| Smelly Burger | Writer                                           |
+| Rqdioqctive   | Writer                                           |
+| Citeful       | Writer                                           |
 
 ## ABOUT US
 
