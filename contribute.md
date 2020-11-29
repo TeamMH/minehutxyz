@@ -4,6 +4,10 @@ description: Learn how to contribute to Minehut.xyz
 
 # Contribute
 
+{% hint style="warning"}
+We are soon moving to our own custom-made website. We would appreciate it if you started contributing to [the new website's github repository](https://github.com/TeamMH/minehut.xyz) instead of the old one.
+{% endhint %}
+
 ## How to Contribute
 
 You can contribute to minehut.xyz by making a [pull request at our GitHub](https://github.com/TeamMH/minehutxyz). You will need a GitHub account for this.
