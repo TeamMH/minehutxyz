@@ -4,7 +4,7 @@ description: Learn how to contribute to Minehut.xyz
 
 # Contribute
 
-{% hint style="warning"}
+{% hint style="warning" %}
 We are soon moving to our own custom-made website. We would appreciate it if you started contributing to [the new website's github repository](https://github.com/TeamMH/minehut.xyz) instead of the old one.
 {% endhint %}
 
