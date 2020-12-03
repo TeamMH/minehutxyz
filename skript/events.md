@@ -11,7 +11,7 @@ Events are called when something happens. So when a player clicks on something, 
 ```text
 on death:
     send "&cYou died!" to victim
-    send "&6You killed &c%victim%&6!"
+    send "&6You killed &c%victim%&6!" to attacker
 ```
 
 You can aslo use parameters in certain event syntaxes to use more particular events and be more specific, like this:
@@ -19,7 +19,7 @@ You can aslo use parameters in certain event syntaxes to use more particular eve
 ```text
 on death of player: # difference is the use of "of player" which only checks when the victim is a player
     send "&cYou died!" to victim
-    send "&6You killed &c%victim%&6!"
+    send "&6You killed &c%victim%&6!" to attacker
 ```
 
 ## INDENTATION
