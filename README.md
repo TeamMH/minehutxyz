@@ -4,6 +4,8 @@ description: The leading Minehut support website.
 
 # Home
 
+WARNING: This repository is discontinued! Please check the new one, [`minehut.xyz`](https://github.com/TeamMH/minehut.xyz)
+
 ## WELCOME... TO MINEHUT.XYZ
 
 Minehut.xyz is home to the best Minehut-related support you'll find on the web. We aim to provide top quality [Minehut tutorials](https://minehut.xyz/faq/panel), [Plugin tutorials](https://minehut.xyz/plugin/popular), and [Skript tutorials](https://minehut.xyz/skript/basics). Our site is [community driven](contribute.md), and we will continue to make it better and better.
