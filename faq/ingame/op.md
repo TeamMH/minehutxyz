@@ -28,7 +28,7 @@ BEDROCK: /deop *(username)
 
 ## HOW TO GIVE PERMISSIONS
 
-Many plugins you install may give errors like "You don't have permission to use this commsnd". For people you don't trust, you can use [luckperms](https://github.com/TeamMH/minehutxyz/tree/3335a0549e4fc3241ab6af734329278af73b6679/faq/ingame/plugin/permission-plugins/lp/README.md)'s web editor to configure permissions. \(Test it out [here](https://luckperms.net/editor/demo)!
+Many plugins you install may give errors like "You don't have permission to use this command". For people you don't trust, you can use [luckperms](https://github.com/TeamMH/minehutxyz/tree/3335a0549e4fc3241ab6af734329278af73b6679/faq/ingame/plugin/permission-plugins/lp/README.md)'s web editor to configure permissions. \(Test it out [here](https://luckperms.net/editor/demo)!
 
 {% hint style="success" %}
 Join our [**Discord**](https://discord.gg/TYhH5bK) to become an **official writer**, **site updates**, and **much more**.
