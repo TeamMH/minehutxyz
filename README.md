@@ -4,7 +4,7 @@ description: The leading Minehut support website.
 
 # Home
 
-WARNING: This repository is discontinued! Please check the new one, [`minehut.xyz`](https://github.com/TeamMH/minehut.xyz)
+ARCHIVED: This repository is discontinued and has been archived! Please go to the new one, [`minehut.xyz`](https://github.com/TeamMH/minehut.xyz)
 
 ## WELCOME... TO MINEHUT.XYZ
 
